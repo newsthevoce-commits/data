@@ -16,10 +16,4 @@
         "image_url": "https://github.com/newsthevoce-commits/data/raw/main/assets/images/image1.png",
         "url": "https://example.com/item1"
     },
-    {
-        "title": "Item 2",
-        "paragraph": "This is the description of item 2.",
-        "image_url": "https://github.com/newsthevoce-commits/data/raw/main/assets/images/image2.png",
-        "url": "https://example.com/item2"
-    }
 ]
