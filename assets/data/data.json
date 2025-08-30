@@ -2,13 +2,13 @@
   {
     "title": "Item 1",
     "paragraph": "This is the description of item 1.",
-    "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/nodevisiontech_react/tree/main/nodevisiontech/assets/images/image1.png",
+    "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/refs/heads/main/assets/images/image1.png",
     "url": "https://example.com/item1"
   },
   {
     "title": "Item 2",
     "paragraph": "This is the description of item 2.",
-    "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/nodevisiontech_react/tree/main/nodevisiontech/assets/images/image2.png",
+    "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/refs/heads/main/assets/images/image2.png",
     "url": "https://example.com/item2"
   }
 ]
