@@ -1,0 +1,44 @@
+[
+
+
+  {
+    "title": "Naga Durga",
+    "img": "images/Naga_Durga.jfif",
+	"about": "hi"
+	
+  },
+  {
+    "title": "Sriteja",
+    "img": "images/Sri_Teja.jfif"
+  },
+  {
+    "title": "Ritu Chowdary",
+    "img": "images/Ritu_Chowdary.jpg",
+	"about":""
+  },
+  {
+    "title": "Debjani",
+    "img": "images/Debjani.jfif"
+  },
+  {
+    "title": "anushsa_ratnam",
+    "img": "images/anushsa_ratnam.jpeg"
+  },
+    {
+    "title": "divya_nikitha",
+    "img": "images/divya_nikitha.jpeg"
+  },
+      {
+    "title": "Prasanna_Kumar",
+    "img": "images/Prasanna_Kumar.jpg"
+  },
+      {
+    "title": "Navya_Swamy",
+    "img": "images/Navya_Swamy.jpg"
+  },
+      {
+    "title": "Sumanth_Ashwin",
+    "img": "images/Sumanth_Ashwin.jpg"
+  }
+]
+
