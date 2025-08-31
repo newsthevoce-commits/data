@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/news/international",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_095053.png",
+        "timestamp": "2025-08-31 09:51:15",
+        "item": "image_20250831_095053.png"
+    },
+    {
         "url": "https://www.euronews.com/next/tech-news",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_084742.png",
         "timestamp": "2025-08-31 08:47:47",
