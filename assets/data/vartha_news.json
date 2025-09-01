@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sweet-shop-gets-141-crore-tax-notice/breaking-news/539538/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_195219.png",
+        "timestamp": "2025-09-01 19:52:53",
+        "item": "image_20250901_195219.png"
+    },
+    {
         "url": "https://vaartha.com/telugu-news-supreme-court-e20-petrol-petition-dismissed-by-supreme-court/national/539481/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_175847.png",
         "timestamp": "2025-09-01 17:59:08",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_065404.png",
         "timestamp": "2025-08-31 06:54:10",
         "item": "image_20250831_065404.png"
-    },
-    {
-        "url": "https://vaartha.com/we-donated-kanakaratnammas-eyes-chiranjeevi/movies/538645/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_055236.png",
-        "timestamp": "2025-08-31 05:52:43",
-        "item": "image_20250831_055236.png"
     }
 ]
