@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/police-file-case-against-sakshi-telugu-daily/1702/125159735",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_014915.png",
+        "timestamp": "2025-09-02 01:49:31",
+        "item": "image_20250902_014915.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-priority-care-for-govt-referred-patients-at-nims/529/125159427",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_005000.png",
         "timestamp": "2025-09-02 00:50:11",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_125352.png",
         "timestamp": "2025-09-01 12:54:07",
         "item": "image_20250901_125352.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/kaleshwaram-investigation-handing-it-over-to-cbi-is-ruining-the-project-says-ktr/1801/125159236",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_115200.png",
-        "timestamp": "2025-09-01 11:52:15",
-        "item": "image_20250901_115200.png"
     }
 ]
