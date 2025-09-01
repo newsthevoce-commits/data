@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/amazon-great-indian-festival-sale-2025-and-flipkart-big-billion-days-sale-2025-in-india-announced/0110/125159296",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_213057.png",
+        "timestamp": "2025-09-01 21:31:16",
+        "item": "image_20250901_213057.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/the-work-of-the-bharatiya-rashtra-samiti-is-almost-done-says-minister-komati-reddy/1801/125159340",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_185246.png",
         "timestamp": "2025-09-01 18:53:02",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_105209.png",
         "timestamp": "2025-09-01 10:52:21",
         "item": "image_20250901_105209.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/dravid-was-sort-of-kicked-out-of-rajasthan-royals-job-says-abd/0400/125159204",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_095012.png",
-        "timestamp": "2025-09-01 09:50:28",
-        "item": "image_20250901_095012.png"
     }
 ]
