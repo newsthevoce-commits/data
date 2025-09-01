@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-priority-care-for-govt-referred-patients-at-nims/529/125159427",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_005000.png",
+        "timestamp": "2025-09-02 00:50:11",
+        "item": "image_20250902_005000.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/amazon-great-indian-festival-sale-2025-and-flipkart-big-billion-days-sale-2025-in-india-announced/0110/125159296",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_213057.png",
         "timestamp": "2025-09-01 21:31:16",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_115200.png",
         "timestamp": "2025-09-01 11:52:15",
         "item": "image_20250901_115200.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/vasudha-pharma-director-commits-suicide-in-visakhapatnam/0300/125159229",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_105209.png",
-        "timestamp": "2025-09-01 10:52:21",
-        "item": "image_20250901_105209.png"
     }
 ]
