@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/my-europe/europe-news",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_164740.png",
+        "timestamp": "2025-09-01 16:47:52",
+        "item": "image_20250901_164740.png"
+    },
+    {
         "url": "https://www.euronews.com/health/health-news",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_155008.png",
         "timestamp": "2025-09-01 15:50:34",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_114736.png",
         "timestamp": "2025-08-31 11:47:42",
         "item": "image_20250831_114736.png"
-    },
-    {
-        "url": "https://www.euronews.com/travel/destinations",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_104817.png",
-        "timestamp": "2025-08-31 10:48:22",
-        "item": "image_20250831_104817.png"
     }
 ]
