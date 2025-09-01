@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/india-offered-zero-tariffs-but-its-late-trump/0800/125159316",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_164952.png",
+        "timestamp": "2025-09-01 16:50:02",
+        "item": "image_20250901_164952.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/low-pressure-area-likely-to-form-over-bay-of-bengal-in-next-24-hours-says-imd/1701/125159297",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_155251.png",
         "timestamp": "2025-09-01 15:53:06",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_114941.png",
         "timestamp": "2025-08-31 11:49:45",
         "item": "image_20250831_114941.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/toilet-trouble-in-virgin-australia-flight-as-passengers-forced-to-urinate-in-bottles-mid-flight/0800/125158591",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_110841.png",
-        "timestamp": "2025-08-31 11:08:48",
-        "item": "image_20250831_110841.png"
     }
 ]
