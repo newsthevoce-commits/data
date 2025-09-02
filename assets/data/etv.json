@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/landslide-kills-over-1000-in-sudan/0800/125159836",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_025206.png",
+        "timestamp": "2025-09-02 02:52:17",
+        "item": "image_20250902_025206.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/police-file-case-against-sakshi-telugu-daily/1702/125159735",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_014915.png",
         "timestamp": "2025-09-02 01:49:31",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_135322.png",
         "timestamp": "2025-09-01 13:53:37",
         "item": "image_20250901_135322.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/assam-weaver-creates-handwoven-gamusa-featuring-pm-modis-portrait/0700/125159237",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_125352.png",
-        "timestamp": "2025-09-01 12:54:07",
-        "item": "image_20250901_125352.png"
     }
 ]
