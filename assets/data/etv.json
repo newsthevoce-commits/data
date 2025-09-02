@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/irdai-assistant-manager-arrested-for-5-crore-fraud-case/0300/125159632",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_034940.png",
+        "timestamp": "2025-09-02 03:49:52",
+        "item": "image_20250902_034940.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/landslide-kills-over-1000-in-sudan/0800/125159836",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_025206.png",
         "timestamp": "2025-09-02 02:52:17",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_155251.png",
         "timestamp": "2025-09-01 15:53:06",
         "item": "image_20250901_155251.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/fans-eagerly-await-the-arrival-of-rohit-sharma-and-virat-kohli/0400/125159264",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_135322.png",
-        "timestamp": "2025-09-01 13:53:37",
-        "item": "image_20250901_135322.png"
     }
 ]
