@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/ed-takes-action-against-mahesh-co-operative-bank-irregularities/1801/125159972",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_155327.png",
+        "timestamp": "2025-09-02 15:53:44",
+        "item": "image_20250902_155327.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/we-have-won-says-jarange-as-govt-accepts-most-of-his-demands/0700/125159963",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_144955.png",
         "timestamp": "2025-09-02 14:50:13",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_065233.png",
         "timestamp": "2025-09-02 06:52:46",
         "item": "image_20250902_065233.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/allu-arjun-chiranjeevi-and-other-celebrities-wishes-to-pawan-kalyan/0210/125159858",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_055039.png",
-        "timestamp": "2025-09-02 05:50:52",
-        "item": "image_20250902_055039.png"
     }
 ]
