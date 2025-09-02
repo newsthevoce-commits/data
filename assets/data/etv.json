@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/software-engineer-dies-after-power-pole-collapses-in-hyderabad/0300/125159888",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_095251.png",
+        "timestamp": "2025-09-02 09:53:11",
+        "item": "image_20250902_095251.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/around-20-per-cent-of-the-worlds-chip-design-engineers-are-based-in-india/0101/125159878",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_085031.png",
         "timestamp": "2025-09-02 08:50:44",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_014915.png",
         "timestamp": "2025-09-02 01:49:31",
         "item": "image_20250902_014915.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-priority-care-for-govt-referred-patients-at-nims/529/125159427",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_005000.png",
-        "timestamp": "2025-09-02 00:50:11",
-        "item": "image_20250902_005000.png"
     }
 ]
