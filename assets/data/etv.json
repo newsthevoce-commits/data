@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/russian-oil-gets-cheaper-for-india-as-us-amps-up-trade-criticism/0101/125159867",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_075229.png",
+        "timestamp": "2025-09-02 07:52:57",
+        "item": "image_20250902_075229.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/india-needs-to-be-with-us-not-russia-says-trump-aide/0800/125159863",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_065233.png",
         "timestamp": "2025-09-02 06:52:46",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_213057.png",
         "timestamp": "2025-09-01 21:31:16",
         "item": "image_20250901_213057.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/the-work-of-the-bharatiya-rashtra-samiti-is-almost-done-says-minister-komati-reddy/1801/125159340",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_185246.png",
-        "timestamp": "2025-09-01 18:53:02",
-        "item": "image_20250901_185246.png"
     }
 ]
