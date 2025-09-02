@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/news/international",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_104743.png",
+        "timestamp": "2025-09-02 10:47:58",
+        "item": "image_20250902_104743.png"
+    },
+    {
         "url": "https://www.euronews.com/business/business",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_094941.png",
         "timestamp": "2025-09-02 09:50:03",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_184948.png",
         "timestamp": "2025-09-01 18:50:07",
         "item": "image_20250901_184948.png"
-    },
-    {
-        "url": "https://www.euronews.com/green/climate",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_175018.png",
-        "timestamp": "2025-09-01 17:50:45",
-        "item": "image_20250901_175018.png"
     }
 ]
