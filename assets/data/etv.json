@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/anushka-speaks-about-crossover-between-pushpa-and-sheela/0210/125159907",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_105047.png",
+        "timestamp": "2025-09-02 10:50:58",
+        "item": "image_20250902_105047.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/software-engineer-dies-after-power-pole-collapses-in-hyderabad/0300/125159888",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_095251.png",
         "timestamp": "2025-09-02 09:53:11",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_025206.png",
         "timestamp": "2025-09-02 02:52:17",
         "item": "image_20250902_025206.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/police-file-case-against-sakshi-telugu-daily/1702/125159735",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_014915.png",
-        "timestamp": "2025-09-02 01:49:31",
-        "item": "image_20250902_014915.png"
     }
 ]
