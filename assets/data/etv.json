@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/around-20-per-cent-of-the-worlds-chip-design-engineers-are-based-in-india/0101/125159878",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_085031.png",
+        "timestamp": "2025-09-02 08:50:44",
+        "item": "image_20250902_085031.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/russian-oil-gets-cheaper-for-india-as-us-amps-up-trade-criticism/0101/125159867",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_075229.png",
         "timestamp": "2025-09-02 07:52:57",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_005000.png",
         "timestamp": "2025-09-02 00:50:11",
         "item": "image_20250902_005000.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/amazon-great-indian-festival-sale-2025-and-flipkart-big-billion-days-sale-2025-in-india-announced/0110/125159296",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_213057.png",
-        "timestamp": "2025-09-01 21:31:16",
-        "item": "image_20250901_213057.png"
     }
 ]
