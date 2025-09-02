@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/india-needs-to-be-with-us-not-russia-says-trump-aide/0800/125159863",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_065233.png",
+        "timestamp": "2025-09-02 06:52:46",
+        "item": "image_20250902_065233.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/allu-arjun-chiranjeevi-and-other-celebrities-wishes-to-pawan-kalyan/0210/125159858",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_055039.png",
         "timestamp": "2025-09-02 05:50:52",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_185246.png",
         "timestamp": "2025-09-01 18:53:02",
         "item": "image_20250901_185246.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/kavitha-accepted-corruption-in-kaleswaram-said-mp-chamala/1801/125159334",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_175412.png",
-        "timestamp": "2025-09-01 17:54:35",
-        "item": "image_20250901_175412.png"
     }
 ]
