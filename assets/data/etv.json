@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/allu-arjun-chiranjeevi-and-other-celebrities-wishes-to-pawan-kalyan/0210/125159858",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_055039.png",
+        "timestamp": "2025-09-02 05:50:52",
+        "item": "image_20250902_055039.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/teachers-should-pass-tet-supreme-court-verdict/1702/125159577",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_044950.png",
         "timestamp": "2025-09-02 04:50:01",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_175412.png",
         "timestamp": "2025-09-01 17:54:35",
         "item": "image_20250901_175412.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/india-offered-zero-tariffs-but-its-late-trump/0800/125159316",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_164952.png",
-        "timestamp": "2025-09-01 16:50:02",
-        "item": "image_20250901_164952.png"
     }
 ]
