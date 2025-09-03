@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com//www.prod.euronews.com/news/international",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_222132.png",
+        "timestamp": "2025-09-03 22:21:45",
+        "item": "image_20250903_222132.png"
+    },
+    {
         "url": "https://www.euronews.com/next/tech-news",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_224811.png",
         "timestamp": "2025-09-02 22:49:11",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_094941.png",
         "timestamp": "2025-09-02 09:50:03",
         "item": "image_20250902_094941.png"
-    },
-    {
-        "url": "https://www.euronews.com/culture/culture-news",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_084748.png",
-        "timestamp": "2025-09-02 08:48:05",
-        "item": "image_20250902_084748.png"
     }
 ]
