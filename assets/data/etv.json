@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/anushka-shetty-interview-about-her-new-film-ghaati/0206/125160690",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_222612.png",
+        "timestamp": "2025-09-03 22:26:27",
+        "item": "image_20250903_222612.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/suicide-bombing-at-political-rally-in-balochistan-in-pak-11-people-killed/0800/125160057",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_215729.png",
         "timestamp": "2025-09-02 21:57:47",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_085031.png",
         "timestamp": "2025-09-02 08:50:44",
         "item": "image_20250902_085031.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/russian-oil-gets-cheaper-for-india-as-us-amps-up-trade-criticism/0101/125159867",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_075229.png",
-        "timestamp": "2025-09-02 07:52:57",
-        "item": "image_20250902_075229.png"
     }
 ]
