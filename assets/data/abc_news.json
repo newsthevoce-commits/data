@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-04/chinese-embassy-concert-in-parliament-house-blocked-by-officials/105732664",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_222346.png",
+        "timestamp": "2025-09-03 22:24:00",
+        "item": "image_20250903_222346.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-02/traveldream-collapse-administrators-report/105723904",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_064938.png",
         "timestamp": "2025-09-02 06:49:57",
@@ -46,11 +52,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_014845.png",
         "timestamp": "2025-08-31 01:48:48",
         "item": "image_20250831_014845.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-08-31/canary-mission-website-targets-pro-palestine-activists/105707820",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250830_214348.png",
-        "timestamp": "2025-08-30 21:43:51",
-        "item": "image_20250830_214348.png"
     }
 ]
