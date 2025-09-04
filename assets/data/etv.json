@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/unrestrained-chinese-cyberattack-may-have-stolen-data-from-almost-every-american/0800/125161257",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_102948.png",
+        "timestamp": "2025-09-04 10:29:56",
+        "item": "image_20250904_102948.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/man-lifts-bike-on-his-head-to-beat-traffic-video-goes-viral/0700/125161249",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_093021.png",
         "timestamp": "2025-09-04 09:30:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_115216.png",
         "timestamp": "2025-09-02 11:52:32",
         "item": "image_20250902_115216.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/anushka-speaks-about-crossover-between-pushpa-and-sheela/0210/125159907",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_105047.png",
-        "timestamp": "2025-09-02 10:50:58",
-        "item": "image_20250902_105047.png"
     }
 ]
