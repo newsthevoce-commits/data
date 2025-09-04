@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/indian-plastic-pipes-manufacturing-sector-path-recovery-2555108",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_013055.png",
+        "timestamp": "2025-09-05 01:31:06",
+        "item": "image_20250905_013055.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/cm-chandrababu-naidu-repeatedly-announces-ban-rice-cultivation-2555096",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_003212.png",
         "timestamp": "2025-09-05 00:32:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_153157.png",
         "timestamp": "2025-09-04 15:32:08",
         "item": "image_20250904_153157.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/content-creator-fires-vijay-deverakonda-over-take-down-instagram-video-2555013",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_143059.png",
-        "timestamp": "2025-09-04 14:31:11",
-        "item": "image_20250904_143059.png"
     }
 ]
