@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-05/anthony-albanese-donald-trump-talk-trade-security-minerals/105737812",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_212837.png",
+        "timestamp": "2025-09-04 21:28:46",
+        "item": "image_20250904_212837.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-04/daniel-andrews-releases-china-photo-statement/105736700",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_092824.png",
         "timestamp": "2025-09-04 09:28:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_105056.png",
         "timestamp": "2025-08-31 10:51:04",
         "item": "image_20250831_105056.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-08-31/a-country-practice-40-years-since-mollys-death/105717796",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_064947.png",
-        "timestamp": "2025-08-31 06:49:49",
-        "item": "image_20250831_064947.png"
     }
 ]
