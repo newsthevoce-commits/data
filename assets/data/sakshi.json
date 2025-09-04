@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/cm-chandrababu-naidu-repeatedly-announces-ban-rice-cultivation-2555096",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_003212.png",
+        "timestamp": "2025-09-05 00:32:30",
+        "item": "image_20250905_003212.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/us-open-organizers-present-single-size-trophy-2555077",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_232947.png",
         "timestamp": "2025-09-04 23:29:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_143059.png",
         "timestamp": "2025-09-04 14:31:11",
         "item": "image_20250904_143059.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/avatar-way-water-re-releasing-october-2nd-2025-india-2554987",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_123134.png",
-        "timestamp": "2025-09-04 12:31:48",
-        "item": "image_20250904_123134.png"
     }
 ]
