@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/trump-personal-rapport-with-modi-gone-now-says-former-us-nsa-bolton/0800/125161351",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_012849.png",
+        "timestamp": "2025-09-05 01:28:58",
+        "item": "image_20250905_012849.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/general/0400/125161527",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_003007.png",
         "timestamp": "2025-09-05 00:30:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_122928.png",
         "timestamp": "2025-09-04 12:29:38",
         "item": "image_20250904_122928.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/shashi-tharoor-warns-us-over-donald-trump-tariffs/0700/125161269",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_112808.png",
-        "timestamp": "2025-09-04 11:28:16",
-        "item": "image_20250904_112808.png"
     }
 ]
