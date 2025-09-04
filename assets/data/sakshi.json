@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/world-cup-tickets-go-live-record-low-pricing-2555043",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_173333.png",
+        "timestamp": "2025-09-04 17:33:48",
+        "item": "image_20250904_173333.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ysrcp-leaders-visit-turakapalem-guntur-district-2555039",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_163201.png",
         "timestamp": "2025-09-04 16:32:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_073800.png",
         "timestamp": "2025-09-04 07:38:10",
         "item": "image_20250904_073800.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/gold-and-silver-prices-rally-futures-hit-lifetime-highs-mcx-2554017",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_233008.png",
-        "timestamp": "2025-09-03 23:30:23",
-        "item": "image_20250903_233008.png"
     }
 ]
