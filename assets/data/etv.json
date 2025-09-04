@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/five-star-rating-for-4-coal-mines-in-singareni/1801/125161327",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_162949.png",
+        "timestamp": "2025-09-04 16:29:57",
+        "item": "image_20250904_162949.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/telangana-government-announces-best-lecturers-awards/1801/125161308",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_142852.png",
         "timestamp": "2025-09-04 14:29:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_222612.png",
         "timestamp": "2025-09-03 22:26:27",
         "item": "image_20250903_222612.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/suicide-bombing-at-political-rally-in-balochistan-in-pak-11-people-killed/0800/125160057",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_215729.png",
-        "timestamp": "2025-09-02 21:57:47",
-        "item": "image_20250902_215729.png"
     }
 ]
