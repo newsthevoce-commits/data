@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-04/daniel-andrews-releases-china-photo-statement/105736700",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_092824.png",
+        "timestamp": "2025-09-04 09:28:36",
+        "item": "image_20250904_092824.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-04/liberal-party-faces-fierce-backlash-from-indian-community/105735164",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_073416.png",
         "timestamp": "2025-09-04 07:34:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_064947.png",
         "timestamp": "2025-08-31 06:49:49",
         "item": "image_20250831_064947.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-08-31/police-search-for-dezi-freeman-enters-sixth-day-porepunkah/105716332",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_014845.png",
-        "timestamp": "2025-08-31 01:48:48",
-        "item": "image_20250831_014845.png"
     }
 ]
