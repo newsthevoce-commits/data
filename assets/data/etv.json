@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/shashi-tharoor-warns-us-over-donald-trump-tariffs/0700/125161269",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_112808.png",
+        "timestamp": "2025-09-04 11:28:16",
+        "item": "image_20250904_112808.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/unrestrained-chinese-cyberattack-may-have-stolen-data-from-almost-every-american/0800/125161257",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_102948.png",
         "timestamp": "2025-09-04 10:29:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_135237.png",
         "timestamp": "2025-09-02 13:53:07",
         "item": "image_20250902_135237.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/air-india-has-rolled-out-senior-citizen-concessions/0101/125159913",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_115216.png",
-        "timestamp": "2025-09-02 11:52:32",
-        "item": "image_20250902_115216.png"
     }
 ]
