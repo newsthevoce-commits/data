@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/bhatti-vikramarka-meets-union-finance-minister-nirmala-sitharaman/1801/125161296",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_132911.png",
+        "timestamp": "2025-09-04 13:29:21",
+        "item": "image_20250904_132911.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/jagan-is-full-of-hatred-says-prathipati-pullarao/1701/125161276",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_122928.png",
         "timestamp": "2025-09-04 12:29:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_155327.png",
         "timestamp": "2025-09-02 15:53:44",
         "item": "image_20250902_155327.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/we-have-won-says-jarange-as-govt-accepts-most-of-his-demands/0700/125159963",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_144955.png",
-        "timestamp": "2025-09-02 14:50:13",
-        "item": "image_20250902_144955.png"
     }
 ]
