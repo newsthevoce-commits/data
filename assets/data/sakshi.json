@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/bhatti-vikramarka-tummala-nageswara-rao-met-amit-shah-2555066",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_222907.png",
+        "timestamp": "2025-09-04 22:29:18",
+        "item": "image_20250904_222907.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-05-09-2025-telugu-2555062",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_213148.png",
         "timestamp": "2025-09-04 21:31:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_113017.png",
         "timestamp": "2025-09-04 11:30:36",
         "item": "image_20250904_113017.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/anonymous-person-barged-bengaluru-court-room-and-said-give-capital-punishment",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_103202.png",
-        "timestamp": "2025-09-04 10:32:16",
-        "item": "image_20250904_103202.png"
     }
 ]
