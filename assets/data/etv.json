@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/jagan-is-full-of-hatred-says-prathipati-pullarao/1701/125161276",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_122928.png",
+        "timestamp": "2025-09-04 12:29:38",
+        "item": "image_20250904_122928.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/shashi-tharoor-warns-us-over-donald-trump-tariffs/0700/125161269",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_112808.png",
         "timestamp": "2025-09-04 11:28:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_144955.png",
         "timestamp": "2025-09-02 14:50:13",
         "item": "image_20250902_144955.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/sweet-news-for-farmers-in-telangana/1801/125159957",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_135237.png",
-        "timestamp": "2025-09-02 13:53:07",
-        "item": "image_20250902_135237.png"
     }
 ]
