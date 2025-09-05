@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/bombs-thrown-at-leaders-office-in-tamil-nadu-he-locks-himself-in-toilet-survives/0300/125161982",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193226.png",
+        "timestamp": "2025-09-05 19:32:42",
+        "item": "image_20250905_193226.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/woman-gives-birth-to-twins-on-konark-express/1701/125161993",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_183000.png",
         "timestamp": "2025-09-05 18:30:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_103320.png",
         "timestamp": "2025-09-05 10:33:37",
         "item": "image_20250905_103320.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/bidi-and-bihar-start-with-b-congress-post-that-became-controversial/0700/125161873",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_092952.png",
-        "timestamp": "2025-09-05 09:30:06",
-        "item": "image_20250905_092952.png"
     }
 ]
