@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/news/international",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_132729.png",
+        "timestamp": "2025-09-05 13:27:49",
+        "item": "image_20250905_132729.png"
+    },
+    {
         "url": "https://www.euronews.com/business/business",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_122919.png",
         "timestamp": "2025-09-05 12:29:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_182847.png",
         "timestamp": "2025-09-04 18:29:03",
         "item": "image_20250904_182847.png"
-    },
-    {
-        "url": "https://www.euronews.com/my-europe/europe-news",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_162745.png",
-        "timestamp": "2025-09-04 16:27:56",
-        "item": "image_20250904_162745.png"
     }
 ]
