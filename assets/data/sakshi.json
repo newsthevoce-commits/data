@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/kadambari-kiran-financial-help-comedian-ramachandra-2555991",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_083159.png",
+        "timestamp": "2025-09-05 08:32:11",
+        "item": "image_20250905_083159.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/breetzke-world-record-help-bavumas-south-africa-script-history-england-2555970",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_073104.png",
         "timestamp": "2025-09-05 07:31:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_232947.png",
         "timestamp": "2025-09-04 23:29:58",
         "item": "image_20250904_232947.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/bhatti-vikramarka-tummala-nageswara-rao-met-amit-shah-2555066",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_222907.png",
-        "timestamp": "2025-09-04 22:29:18",
-        "item": "image_20250904_222907.png"
     }
 ]
