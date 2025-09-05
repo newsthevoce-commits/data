@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/hardik-pandya-gets-a-new-look-ahead-of-asia-cup/0400/125161885",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_103320.png",
+        "timestamp": "2025-09-05 10:33:37",
+        "item": "image_20250905_103320.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/bidi-and-bihar-start-with-b-congress-post-that-became-controversial/0700/125161873",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_092952.png",
         "timestamp": "2025-09-05 09:30:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_012849.png",
         "timestamp": "2025-09-05 01:28:58",
         "item": "image_20250905_012849.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/general/0400/125161527",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_003007.png",
-        "timestamp": "2025-09-05 00:30:16",
-        "item": "image_20250905_003007.png"
     }
 ]
