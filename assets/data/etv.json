@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/financially-independent-wife-cant-claim-interim-maintenance/0700/125161700",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_022924.png",
+        "timestamp": "2025-09-05 02:29:32",
+        "item": "image_20250905_022924.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/trump-personal-rapport-with-modi-gone-now-says-former-us-nsa-bolton/0800/125161351",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_012849.png",
         "timestamp": "2025-09-05 01:28:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_132911.png",
         "timestamp": "2025-09-04 13:29:21",
         "item": "image_20250904_132911.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/jagan-is-full-of-hatred-says-prathipati-pullarao/1701/125161276",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_122928.png",
-        "timestamp": "2025-09-04 12:29:38",
-        "item": "image_20250904_122928.png"
     }
 ]
