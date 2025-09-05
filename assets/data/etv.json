@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/western-troops-deployed-in-ukraine-would-be-target-for-russian-army-putin/0800/125161917",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_133121.png",
+        "timestamp": "2025-09-05 13:31:39",
+        "item": "image_20250905_133121.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/england-in-danger-of-missing-automatic-qualification-for-2027-world-cup/0400/125161900",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_123314.png",
         "timestamp": "2025-09-05 12:33:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_042829.png",
         "timestamp": "2025-09-05 04:28:38",
         "item": "image_20250905_042829.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/benefits-of-gst-for-consumers/0101/125161524",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_032920.png",
-        "timestamp": "2025-09-05 03:29:33",
-        "item": "image_20250905_032920.png"
     }
 ]
