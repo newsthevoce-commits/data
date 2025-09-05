@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-participated-in-the-teachers-day-program/1701/125161970",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_162942.png",
+        "timestamp": "2025-09-05 16:29:50",
+        "item": "image_20250905_162942.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/two-prisoners-escape-from-chodavaram-sub-jail/0300/125161952",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_153020.png",
         "timestamp": "2025-09-05 15:30:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_072906.png",
         "timestamp": "2025-09-05 07:29:14",
         "item": "image_20250905_072906.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/stock-market-opens-high-today/0101/125161847",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_063106.png",
-        "timestamp": "2025-09-05 06:31:14",
-        "item": "image_20250905_063106.png"
     }
 ]
