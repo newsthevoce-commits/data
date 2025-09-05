@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/green/green-news",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_212725.png",
+        "timestamp": "2025-09-05 21:27:46",
+        "item": "image_20250905_212725.png"
+    },
+    {
         "url": "https://www.euronews.com/business/markets",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_192828.png",
         "timestamp": "2025-09-05 19:28:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_112834.png",
         "timestamp": "2025-09-05 11:28:57",
         "item": "image_20250905_112834.png"
-    },
-    {
-        "url": "https://www.euronews.com/culture/culture-series",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_102842.png",
-        "timestamp": "2025-09-05 10:28:58",
-        "item": "image_20250905_102842.png"
     }
 ]
