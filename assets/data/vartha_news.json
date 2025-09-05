@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/live-news-todays-latest-news-05-09-2025/live-news/541470/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_083256.png",
+        "timestamp": "2025-09-05 08:33:08",
+        "item": "image_20250905_083256.png"
+    },
+    {
         "url": "https://vaartha.com/womens-world-cup-match-ticket-for-rs-100/sports/541400/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_073209.png",
         "timestamp": "2025-09-05 07:32:21",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_135740.png",
         "timestamp": "2025-09-02 13:58:29",
         "item": "image_20250902_135740.png"
-    },
-    {
-        "url": "https://vaartha.com/starc-retires-from-t20-internationals-focuses-on-tests/sports/539777/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_085426.png",
-        "timestamp": "2025-09-02 08:54:54",
-        "item": "image_20250902_085426.png"
     }
 ]
