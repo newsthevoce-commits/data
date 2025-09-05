@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-06-09-2025-telugu-2556189",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_223220.png",
+        "timestamp": "2025-09-05 22:32:47",
+        "item": "image_20250905_223220.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/akshay-kumar-5-cr-donate-punjab-floods-2556179",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193507.png",
         "timestamp": "2025-09-05 19:35:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_103632.png",
         "timestamp": "2025-09-05 10:36:56",
         "item": "image_20250905_103632.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/kairan-quazi-santa-clara-university-youngest-graduate-2556058",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_093310.png",
-        "timestamp": "2025-09-05 09:33:28",
-        "item": "image_20250905_093310.png"
     }
 ]
