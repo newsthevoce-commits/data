@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/gst-rate-cut-benefits-should-reach-common-man-says-fm-nirmala-sitharaman",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_133414.png",
+        "timestamp": "2025-09-05 13:34:29",
+        "item": "image_20250905_133414.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/alyssa-healy-lead-strong-australia-squad-womens-world-cup-2025-india-2556112",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_123625.png",
         "timestamp": "2025-09-05 12:36:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_043024.png",
         "timestamp": "2025-09-05 04:30:43",
         "item": "image_20250905_043024.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/no-javed-akhtar-bring-javed-akhtar-kolkata-defeat-islamists-2555723",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_033135.png",
-        "timestamp": "2025-09-05 03:31:48",
-        "item": "image_20250905_033135.png"
     }
 ]
