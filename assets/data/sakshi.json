@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/hockey-asia-cup-india-final-2557069",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_202831.png",
+        "timestamp": "2025-09-06 20:28:41",
+        "item": "image_20250906_202831.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/england-announce-playing-xi-third-odi-vs-south-africa-2557062",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201750.png",
         "timestamp": "2025-09-06 20:18:04",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_103108.png",
         "timestamp": "2025-09-06 10:31:21",
         "item": "image_20250906_103108.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/actor-ashish-warang-passed-away-55-2556967",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_093008.png",
-        "timestamp": "2025-09-06 09:30:22",
-        "item": "image_20250906_093008.png"
     }
 ]
