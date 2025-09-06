@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-07/australian-power-market-allows-world-highest-price-spikes/105673588",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_212928.png",
+        "timestamp": "2025-09-06 21:29:39",
+        "item": "image_20250906_212928.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-06/sydney-surfer-dies-in-shark-attack-long-reef-northern-beaches/105743246",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_072851.png",
         "timestamp": "2025-09-06 07:28:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_052721.png",
         "timestamp": "2025-09-05 05:27:35",
         "item": "image_20250905_052721.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-05/supercare-dental-and-cosmetics-creditors-report/105730098",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_032723.png",
-        "timestamp": "2025-09-05 03:27:36",
-        "item": "image_20250905_032723.png"
     }
 ]
