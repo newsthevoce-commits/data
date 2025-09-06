@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/general/1801/125162486",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073049.png",
+        "timestamp": "2025-09-06 07:30:57",
+        "item": "image_20250906_073049.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/prakasam-news/8/125162424",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_063046.png",
         "timestamp": "2025-09-06 06:30:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_183000.png",
         "timestamp": "2025-09-05 18:30:08",
         "item": "image_20250905_183000.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/special-story-on-drinking-water/1802/125161761",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_172956.png",
-        "timestamp": "2025-09-05 17:30:04",
-        "item": "image_20250905_172956.png"
     }
 ]
