@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-06/sydney-surfer-dies-in-shark-attack-long-reef-northern-beaches/105743246",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_072851.png",
+        "timestamp": "2025-09-06 07:28:59",
+        "item": "image_20250906_072851.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-06/molly-wilkes-domestic-violence-but-super-went-to-abuser/105686332",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_062849.png",
         "timestamp": "2025-09-06 06:28:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_032723.png",
         "timestamp": "2025-09-05 03:27:36",
         "item": "image_20250905_032723.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-05/anthony-albanese-donald-trump-talk-trade-security-minerals/105737812",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_212837.png",
-        "timestamp": "2025-09-04 21:28:46",
-        "item": "image_20250904_212837.png"
     }
 ]
