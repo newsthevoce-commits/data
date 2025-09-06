@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/when-trump-sent-us-navy-seal-team-that-killed-bin-laden-into-north-korea/0800/125162552",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_213124.png",
+        "timestamp": "2025-09-06 21:31:35",
+        "item": "image_20250906_213124.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/israel-calls-on-residents-to-flee-targets-more-high-rises-in-gaza-city/0800/125162604",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201511.png",
         "timestamp": "2025-09-06 20:15:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_102907.png",
         "timestamp": "2025-09-06 10:29:16",
         "item": "image_20250906_102907.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/billionaire-leaves-his-entire-1bn-dollar-fortune-to-football-star-neymar/0400/125162504",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_092809.png",
-        "timestamp": "2025-09-06 09:28:17",
-        "item": "image_20250906_092809.png"
     }
 ]
