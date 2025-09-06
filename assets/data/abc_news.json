@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-06/molly-wilkes-domestic-violence-but-super-went-to-abuser/105686332",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_062849.png",
+        "timestamp": "2025-09-06 06:28:58",
+        "item": "image_20250906_062849.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-06/suspected-shark-attack-on-sydney-s-northern-beaches/105743246",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_052727.png",
         "timestamp": "2025-09-06 05:27:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_212837.png",
         "timestamp": "2025-09-04 21:28:46",
         "item": "image_20250904_212837.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-04/daniel-andrews-releases-china-photo-statement/105736700",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_092824.png",
-        "timestamp": "2025-09-04 09:28:36",
-        "item": "image_20250904_092824.png"
     }
 ]
