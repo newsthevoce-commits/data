@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/amid-trump-comments-pm-modi-skip-un-session-2556928",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_063309.png",
+        "timestamp": "2025-09-06 06:33:25",
+        "item": "image_20250906_063309.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/wife-and-husband-incident-2556855",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_053126.png",
         "timestamp": "2025-09-06 05:31:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_163203.png",
         "timestamp": "2025-09-05 16:32:13",
         "item": "image_20250905_163203.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/onam-2025-special-malayalam-actress-latest-2556156",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_153240.png",
-        "timestamp": "2025-09-05 15:32:54",
-        "item": "image_20250905_153240.png"
     }
 ]
