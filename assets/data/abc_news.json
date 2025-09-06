@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-06/police-offer-1m-reward-for-dezi-freeman-arrest/105742966",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_042855.png",
+        "timestamp": "2025-09-06 04:29:04",
+        "item": "image_20250906_042855.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-05/katharine-duchess-of-kent-dies-aged-92/105742340",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_032807.png",
         "timestamp": "2025-09-06 03:28:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_073416.png",
         "timestamp": "2025-09-04 07:34:30",
         "item": "image_20250904_073416.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-04/chinese-embassy-concert-in-parliament-house-blocked-by-officials/105732664",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_222346.png",
-        "timestamp": "2025-09-03 22:24:00",
-        "item": "image_20250903_222346.png"
     }
 ]
