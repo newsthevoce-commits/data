@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/prakasam-news/8/125162424",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_063046.png",
+        "timestamp": "2025-09-06 06:30:54",
+        "item": "image_20250906_063046.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/meghalaya-police-files-chargesheet-against-sonam-4-others-in-honeymoon-murder/0700/125162477",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_052922.png",
         "timestamp": "2025-09-06 05:29:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_172956.png",
         "timestamp": "2025-09-05 17:30:04",
         "item": "image_20250905_172956.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-participated-in-the-teachers-day-program/1701/125161970",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_162942.png",
-        "timestamp": "2025-09-05 16:29:50",
-        "item": "image_20250905_162942.png"
     }
 ]
