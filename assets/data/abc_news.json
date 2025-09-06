@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-05/katharine-duchess-of-kent-dies-aged-92/105742340",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_032807.png",
+        "timestamp": "2025-09-06 03:28:16",
+        "item": "image_20250906_032807.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-06/catholic-chuch-ellis-defence-court-sexual-abuse-survivors/105731360",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_002919.png",
         "timestamp": "2025-09-06 00:29:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250903_222346.png",
         "timestamp": "2025-09-03 22:24:00",
         "item": "image_20250903_222346.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-02/traveldream-collapse-administrators-report/105723904",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250902_064938.png",
-        "timestamp": "2025-09-02 06:49:57",
-        "item": "image_20250902_064938.png"
     }
 ]
