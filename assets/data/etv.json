@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-lokesh-congratulates-youth-who-got-jobs-in-germany/1701/125162597",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173159.png",
+        "timestamp": "2025-09-06 17:32:12",
+        "item": "image_20250906_173159.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/bcci-annual-general-meeting-on-september-28/0400/125162565",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_163022.png",
         "timestamp": "2025-09-06 16:30:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_082945.png",
         "timestamp": "2025-09-06 08:29:53",
         "item": "image_20250906_082945.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/general/1801/125162486",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073049.png",
-        "timestamp": "2025-09-06 07:30:57",
-        "item": "image_20250906_073049.png"
     }
 ]
