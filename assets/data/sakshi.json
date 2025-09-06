@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/cm-revanth-reddy-visits-tank-bund-ganesh-nimajjanam-2557036",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_143343.png",
+        "timestamp": "2025-09-06 14:34:02",
+        "item": "image_20250906_143343.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/kbc-17-construction-labourer-asif-wins-rs-25-lakh-2557027",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_133206.png",
         "timestamp": "2025-09-06 13:32:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_053126.png",
         "timestamp": "2025-09-06 05:31:44",
         "item": "image_20250906_053126.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/khairathabad-ganesh-nimajjanam-2025-2556816",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_043312.png",
-        "timestamp": "2025-09-06 04:33:28",
-        "item": "image_20250906_043312.png"
     }
 ]
