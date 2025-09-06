@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/israel-calls-on-residents-to-flee-targets-more-high-rises-in-gaza-city/0800/125162604",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201511.png",
+        "timestamp": "2025-09-06 20:15:25",
+        "item": "image_20250906_201511.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-lokesh-congratulates-youth-who-got-jobs-in-germany/1701/125162597",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173159.png",
         "timestamp": "2025-09-06 17:32:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_092809.png",
         "timestamp": "2025-09-06 09:28:17",
         "item": "image_20250906_092809.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/renault-to-cut-vehicle-prices-by-up-to-rs-96395-from-sep-22/0101/125162494",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_082945.png",
-        "timestamp": "2025-09-06 08:29:53",
-        "item": "image_20250906_082945.png"
     }
 ]
