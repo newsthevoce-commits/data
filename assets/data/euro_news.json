@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/news/international",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_222701.png",
+        "timestamp": "2025-09-06 22:27:11",
+        "item": "image_20250906_222701.png"
+    },
+    {
         "url": "https://www.euronews.com/culture/2025/09/06/venice-film-festival-2025-golden-lion-to-father-mother-sister-brother-by-jim-jarmusch",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_212809.png",
         "timestamp": "2025-09-06 21:28:20",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_212725.png",
         "timestamp": "2025-09-05 21:27:46",
         "item": "image_20250905_212725.png"
-    },
-    {
-        "url": "https://www.euronews.com/business/markets",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_192828.png",
-        "timestamp": "2025-09-05 19:28:50",
-        "item": "image_20250905_192828.png"
     }
 ]
