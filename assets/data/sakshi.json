@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/acb-court-granted-interim-bail-mithun-reddy-2556953",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_083127.png",
+        "timestamp": "2025-09-06 08:31:44",
+        "item": "image_20250906_083127.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/35-lacs-balapur-laddu-auction-2025-2556945",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073312.png",
         "timestamp": "2025-09-06 07:33:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193507.png",
         "timestamp": "2025-09-05 19:35:26",
         "item": "image_20250905_193507.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/team-india-suryakumar-yadav-and-co-commence-asia-cup-preparations-2556175",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_183209.png",
-        "timestamp": "2025-09-05 18:32:20",
-        "item": "image_20250905_183209.png"
     }
 ]
