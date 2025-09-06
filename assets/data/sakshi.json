@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/kbc-17-construction-labourer-asif-wins-rs-25-lakh-2557027",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_133206.png",
+        "timestamp": "2025-09-06 13:32:23",
+        "item": "image_20250906_133206.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/meet-akrit-pran-jaswal-who-became-world-youngest-surgeon-age-7-2557015",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_123234.png",
         "timestamp": "2025-09-06 12:32:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_043312.png",
         "timestamp": "2025-09-06 04:33:28",
         "item": "image_20250906_043312.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/sundeep-sikka-appointed-chairman-and-vishal-kapoor-vice-chairman-amfi-2556681",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_033213.png",
-        "timestamp": "2025-09-06 03:32:29",
-        "item": "image_20250906_033213.png"
     }
 ]
