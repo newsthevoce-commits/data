@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/gameskraft-files-police-complaint-after-profit-falls-2557057",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173434.png",
+        "timestamp": "2025-09-06 17:34:57",
+        "item": "image_20250906_173434.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/nirmal-wooden-toys-history-and-interesting-facts-2557049",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_163312.png",
         "timestamp": "2025-09-06 16:33:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_083127.png",
         "timestamp": "2025-09-06 08:31:44",
         "item": "image_20250906_083127.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/35-lacs-balapur-laddu-auction-2025-2556945",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073312.png",
-        "timestamp": "2025-09-06 07:33:29",
-        "item": "image_20250906_073312.png"
     }
 ]
