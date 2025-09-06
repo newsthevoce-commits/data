@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/billionaire-leaves-his-entire-1bn-dollar-fortune-to-football-star-neymar/0400/125162504",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_092809.png",
+        "timestamp": "2025-09-06 09:28:17",
+        "item": "image_20250906_092809.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/renault-to-cut-vehicle-prices-by-up-to-rs-96395-from-sep-22/0101/125162494",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_082945.png",
         "timestamp": "2025-09-06 08:29:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_213215.png",
         "timestamp": "2025-09-05 21:32:37",
         "item": "image_20250905_213215.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/bombs-thrown-at-leaders-office-in-tamil-nadu-he-locks-himself-in-toilet-survives/0300/125161982",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193226.png",
-        "timestamp": "2025-09-05 19:32:42",
-        "item": "image_20250905_193226.png"
     }
 ]
