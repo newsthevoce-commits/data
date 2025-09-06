@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/harish-rao-responds-on-kavitha-comments/1801/125162466",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_033010.png",
+        "timestamp": "2025-09-06 03:30:20",
+        "item": "image_20250906_033010.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/rental-helicopter-for-cm-chandrababu/1702/125162336",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_022851.png",
         "timestamp": "2025-09-06 02:28:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_142907.png",
         "timestamp": "2025-09-05 14:29:15",
         "item": "image_20250905_142907.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/western-troops-deployed-in-ukraine-would-be-target-for-russian-army-putin/0800/125161917",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_133121.png",
-        "timestamp": "2025-09-05 13:31:39",
-        "item": "image_20250905_133121.png"
     }
 ]
