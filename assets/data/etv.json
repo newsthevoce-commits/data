@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/pregnant-woman-miscarriage-at-5-months/1802/125162743",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_002925.png",
+        "timestamp": "2025-09-07 00:29:35",
+        "item": "image_20250907_002925.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-september-07th-2025-sunday-in-telugu/0700/125162652",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_222910.png",
         "timestamp": "2025-09-06 22:29:21",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_123022.png",
         "timestamp": "2025-09-06 12:30:34",
         "item": "image_20250906_123022.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/this-week-ott-release-movies-telugu-and-other-languages/0209/125162522",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_113118.png",
-        "timestamp": "2025-09-06 11:31:29",
-        "item": "image_20250906_113118.png"
     }
 ]
