@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-september-07th-2025-sunday-in-telugu/0700/125162652",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_222910.png",
+        "timestamp": "2025-09-06 22:29:21",
+        "item": "image_20250906_222910.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/when-trump-sent-us-navy-seal-team-that-killed-bin-laden-into-north-korea/0800/125162552",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_213124.png",
         "timestamp": "2025-09-06 21:31:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_113118.png",
         "timestamp": "2025-09-06 11:31:29",
         "item": "image_20250906_113118.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/nimmala-ramanaidu-speech-about-short-films/1701/125162513",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_102907.png",
-        "timestamp": "2025-09-06 10:29:16",
-        "item": "image_20250906_102907.png"
     }
 ]
