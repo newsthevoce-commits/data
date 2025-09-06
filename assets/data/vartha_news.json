@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/latest-news-ricky-ponting-dhoni-is-the-only-captain-who-takes-advice-from-the-dugout/sports/542448/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_123349.png",
+        "timestamp": "2025-09-06 12:34:00",
+        "item": "image_20250906_123349.png"
+    },
+    {
         "url": "https://vaartha.com/khairatabad-ganesh-procession-begins/hyderabad/542206/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073419.png",
         "timestamp": "2025-09-06 07:34:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_073209.png",
         "timestamp": "2025-09-05 07:32:21",
         "item": "image_20250905_073209.png"
-    },
-    {
-        "url": "https://vaartha.com/rasi-phalalu-today-05-september-2025/rasi-phalalu-today-horoscope/541300/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_063437.png",
-        "timestamp": "2025-09-05 06:34:51",
-        "item": "image_20250905_063437.png"
     }
 ]
