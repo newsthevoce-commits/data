@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/actor-ashish-warang-passed-away-55-2556967",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_093008.png",
+        "timestamp": "2025-09-06 09:30:22",
+        "item": "image_20250906_093008.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/acb-court-granted-interim-bail-mithun-reddy-2556953",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_083127.png",
         "timestamp": "2025-09-06 08:31:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_223220.png",
         "timestamp": "2025-09-05 22:32:47",
         "item": "image_20250905_223220.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/akshay-kumar-5-cr-donate-punjab-floods-2556179",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193507.png",
-        "timestamp": "2025-09-05 19:35:26",
-        "item": "image_20250905_193507.png"
     }
 ]
