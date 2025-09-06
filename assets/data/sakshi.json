@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/india-food-processing-sector-touch-535-billion-dillers-fy26-2557108",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_013054.png",
+        "timestamp": "2025-09-07 01:31:09",
+        "item": "image_20250907_013054.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/secretariat-employees-reported-duty-wearing-black-badges-2557103",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_003135.png",
         "timestamp": "2025-09-07 00:31:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_143343.png",
         "timestamp": "2025-09-06 14:34:02",
         "item": "image_20250906_143343.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/kbc-17-construction-labourer-asif-wins-rs-25-lakh-2557027",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_133206.png",
-        "timestamp": "2025-09-06 13:32:23",
-        "item": "image_20250906_133206.png"
     }
 ]
