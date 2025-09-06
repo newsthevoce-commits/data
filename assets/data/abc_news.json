@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-06/suspected-shark-attack-on-sydney-s-northern-beaches/105743246",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_052727.png",
+        "timestamp": "2025-09-06 05:27:36",
+        "item": "image_20250906_052727.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-06/police-offer-1m-reward-for-dezi-freeman-arrest/105742966",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_042855.png",
         "timestamp": "2025-09-06 04:29:04",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_092824.png",
         "timestamp": "2025-09-04 09:28:36",
         "item": "image_20250904_092824.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-04/liberal-party-faces-fierce-backlash-from-indian-community/105735164",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250904_073416.png",
-        "timestamp": "2025-09-04 07:34:30",
-        "item": "image_20250904_073416.png"
     }
 ]
