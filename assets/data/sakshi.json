@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/secretariat-employees-reported-duty-wearing-black-badges-2557103",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_003135.png",
+        "timestamp": "2025-09-07 00:31:49",
+        "item": "image_20250907_003135.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/telangana-team-good-start-rajmata-jijabai-trophy-2557092",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_232947.png",
         "timestamp": "2025-09-06 23:29:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_133206.png",
         "timestamp": "2025-09-06 13:32:23",
         "item": "image_20250906_133206.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/meet-akrit-pran-jaswal-who-became-world-youngest-surgeon-age-7-2557015",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_123234.png",
-        "timestamp": "2025-09-06 12:32:49",
-        "item": "image_20250906_123234.png"
     }
 ]
