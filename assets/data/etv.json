@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/rental-helicopter-for-cm-chandrababu/1702/125162336",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_022851.png",
+        "timestamp": "2025-09-06 02:28:59",
+        "item": "image_20250906_022851.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/little-hearts-movie-success-press-meet-etv-win/0210/125161997",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_233041.png",
         "timestamp": "2025-09-05 23:30:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_133121.png",
         "timestamp": "2025-09-05 13:31:39",
         "item": "image_20250905_133121.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/england-in-danger-of-missing-automatic-qualification-for-2027-world-cup/0400/125161900",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_123314.png",
-        "timestamp": "2025-09-05 12:33:34",
-        "item": "image_20250905_123314.png"
     }
 ]
