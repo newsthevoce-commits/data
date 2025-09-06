@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/renault-to-cut-vehicle-prices-by-up-to-rs-96395-from-sep-22/0101/125162494",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_082945.png",
+        "timestamp": "2025-09-06 08:29:53",
+        "item": "image_20250906_082945.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/general/1801/125162486",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073049.png",
         "timestamp": "2025-09-06 07:30:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193226.png",
         "timestamp": "2025-09-05 19:32:42",
         "item": "image_20250905_193226.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/woman-gives-birth-to-twins-on-konark-express/1701/125161993",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_183000.png",
-        "timestamp": "2025-09-05 18:30:08",
-        "item": "image_20250905_183000.png"
     }
 ]
