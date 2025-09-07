@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/bigg-boss-9-telugu-contestants-list/0210/125163175",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_163025.png",
+        "timestamp": "2025-09-07 16:30:38",
+        "item": "image_20250907_163025.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125163052",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_152954.png",
         "timestamp": "2025-09-07 15:30:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_073047.png",
         "timestamp": "2025-09-07 07:30:55",
         "item": "image_20250907_073047.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/a-person-killed-his-father/0300/125163071",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_063017.png",
-        "timestamp": "2025-09-07 06:30:29",
-        "item": "image_20250907_063017.png"
     }
 ]
