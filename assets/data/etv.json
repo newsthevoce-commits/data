@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/a-person-killed-his-father/0300/125163071",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_063017.png",
+        "timestamp": "2025-09-07 06:30:29",
+        "item": "image_20250907_063017.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/trump-planing-to-visit-south-korea-to-meet-xi-jingping/0800/125163069",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_053044.png",
         "timestamp": "2025-09-07 05:30:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173159.png",
         "timestamp": "2025-09-06 17:32:12",
         "item": "image_20250906_173159.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/bcci-annual-general-meeting-on-september-28/0400/125162565",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_163022.png",
-        "timestamp": "2025-09-06 16:30:41",
-        "item": "image_20250906_163022.png"
     }
 ]
