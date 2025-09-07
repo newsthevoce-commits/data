@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-kanaka-durga-temple-in-vijayawada-announce-closure-for-lunar-eclipse-on-sept-7/6/125162878",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_022818.png",
+        "timestamp": "2025-09-07 02:28:28",
+        "item": "image_20250907_022818.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/pregnant-woman-miscarriage-at-5-months/1802/125162743",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_002925.png",
         "timestamp": "2025-09-07 00:29:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_132856.png",
         "timestamp": "2025-09-06 13:29:10",
         "item": "image_20250906_132856.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/drug-manufacturing-unit-busted-in-medchal-district/0300/125162536",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_123022.png",
-        "timestamp": "2025-09-06 12:30:34",
-        "item": "image_20250906_123022.png"
     }
 ]
