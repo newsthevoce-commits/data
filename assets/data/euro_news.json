@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.euronews.com/culture/culture-news",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_082836.png",
+        "timestamp": "2025-09-07 08:28:48",
+        "item": "image_20250907_082836.png"
+    },
+    {
         "url": "https://www.euronews.com/travel/experiences",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_072829.png",
         "timestamp": "2025-09-07 07:28:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_082736.png",
         "timestamp": "2025-09-06 08:27:46",
         "item": "image_20250906_082736.png"
-    },
-    {
-        "url": "https://www.euronews.com/travel/experiences",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_072731.png",
-        "timestamp": "2025-09-06 07:27:42",
-        "item": "image_20250906_072731.png"
     }
 ]
