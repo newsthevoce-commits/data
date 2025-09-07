@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/international/japanese-pm-shigeru-ishiba-quit-his-post-2557843",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_103331.png",
+        "timestamp": "2025-09-07 10:33:56",
+        "item": "image_20250907_103331.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/sunday-special-new-style-healthy-dinner-recipe-2557831",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_093351.png",
         "timestamp": "2025-09-07 09:34:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_013054.png",
         "timestamp": "2025-09-07 01:31:09",
         "item": "image_20250907_013054.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/secretariat-employees-reported-duty-wearing-black-badges-2557103",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_003135.png",
-        "timestamp": "2025-09-07 00:31:49",
-        "item": "image_20250907_003135.png"
     }
 ]
