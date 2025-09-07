@@ -7,10 +7,17 @@ app = Flask(__name__)
 CORS(app)  # ✅ enables CORS for all routes
 
 VOTES_FILE = 'votes.json'
+BB_FILE = 'biggbosspage.json'
 
 def read_votes():
     if os.path.exists(VOTES_FILE):
         with open(VOTES_FILE, 'r') as f:
+            return json.load(f)
+    return {"votes1": 0, "votes2": 0, "votes3": 0}
+
+def read_bb():
+    if os.path.exists(BB_FILE):
+        with open(BB_FILE, 'r') as f:
             return json.load(f)
     return {"votes1": 0, "votes2": 0, "votes3": 0}
 
@@ -32,6 +39,12 @@ def update_votes():
     current_votes.update(data)
     write_votes(current_votes)
     return jsonify(current_votes)
+
+
+
+@app.route('/biggboss-content', methods=['GET'])
+def get_biggboss_content():
+    return jsonify(read_bb())
 
 
 if __name__ == '__main__':
