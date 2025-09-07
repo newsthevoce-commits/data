@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-08/deep-sea-mining-minerals-gerard-barron-trump-four-corners/105733478",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_212949.png",
+        "timestamp": "2025-09-07 21:30:04",
+        "item": "image_20250907_212949.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-07/teen-stabbing-melbourne-cobblebank-two-boys-police/105744644",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_052845.png",
         "timestamp": "2025-09-07 05:28:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_002919.png",
         "timestamp": "2025-09-06 00:29:30",
         "item": "image_20250906_002919.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-06/molly-wilkes-domestic-violence-but-super-went-to-abuser/105686332",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_212924.png",
-        "timestamp": "2025-09-05 21:29:40",
-        "item": "image_20250905_212924.png"
     }
 ]
