@@ -8,6 +8,9 @@ CORS(app)  # ✅ enables CORS for all routes
 
 VOTES_FILE = 'votes.json'
 BB_FILE = 'biggbosspage.json'
+meta_home = 'meta_home.json'
+meta_bb = 'meta_bb.json'
+meta_news = 'meta_news.json'
 
 # ---------------- Vote Read/Write ------------------
 
@@ -20,6 +23,7 @@ def read_votes():
 def write_votes(votes):
     with open(VOTES_FILE, 'w') as f:
         json.dump(votes, f, indent=2)
+
 
 # ---------------- BiggBoss Content Read/Write ------------------
 
@@ -34,6 +38,22 @@ def write_bb(data):
         json.dump(data, f, indent=2)
 
 # ---------------- API Routes ------------------
+
+
+def read_meta(file):
+    if os.path.exists(file):
+        with open(file, 'r') as f:
+            return json.load(f)
+    return []
+
+def write_meta(file, data):
+    with open(file, 'w') as f:
+        json.dump(data, f, indent=2)
+
+
+
+
+
 
 @app.route('/votes', methods=['GET'])
 def get_votes():
@@ -64,6 +84,47 @@ def update_biggboss_content():
         return jsonify({"message": "BiggBoss content updated successfully"}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+
+@app.get("/meta_home", methods = ['GET'])
+def get_meta():
+    return jsonify(read_meta(meta_home))
+@app.get("/meta_bb", methods = ['GET'])
+def get_meta():
+    return jsonify(read_meta(meta_bb))
+@app.get("/meta_news", methods = ['GET'])
+def get_meta():
+    return jsonify(read_meta(meta_news))
+
+
+
+def update_meta_content(meta_file, data):
+    try:
+        
+        if not isinstance(data, list):
+            return jsonify({"error": "Expected a JSON list of content blocks"}), 400
+        write_meta(meta_file, data)
+        return jsonify({"message": "BiggBoss content updated successfully"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/meta_home', methods=['POST'])
+def meta(meta_home):
+    data = request.get_json()
+    update_meta_content(meta_home, data)
+
+@app.route('/meta_bb', methods=['POST'])
+def meta(meta_bb):
+    data = request.get_json()
+    update_meta_content(meta_bb, data)
+
+@app.route('/memeta_newsta_bb', methods=['POST'])
+def meta(meta_news):
+    data = request.get_json()
+    update_meta_content(meta_news, data)
+
+
+
 
 # ---------------- Start Server ------------------
 
