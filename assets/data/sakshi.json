@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/godfather-ai-warns-massive-unemployment-corporate-profits-soar-2557852",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_113129.png",
+        "timestamp": "2025-09-07 11:31:53",
+        "item": "image_20250907_113129.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/international/japanese-pm-shigeru-ishiba-quit-his-post-2557843",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_103331.png",
         "timestamp": "2025-09-07 10:33:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_023023.png",
         "timestamp": "2025-09-07 02:30:35",
         "item": "image_20250907_023023.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/india-food-processing-sector-touch-535-billion-dillers-fy26-2557108",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_013054.png",
-        "timestamp": "2025-09-07 01:31:09",
-        "item": "image_20250907_013054.png"
     }
 ]
