@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/indian-army-chief-upendra-dwivedi-launches-book-operation-sindoor-2557122",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_023023.png",
+        "timestamp": "2025-09-07 02:30:35",
+        "item": "image_20250907_023023.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/india-food-processing-sector-touch-535-billion-dillers-fy26-2557108",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_013054.png",
         "timestamp": "2025-09-07 01:31:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_153253.png",
         "timestamp": "2025-09-06 15:33:10",
         "item": "image_20250906_153253.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/cm-revanth-reddy-visits-tank-bund-ganesh-nimajjanam-2557036",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_143343.png",
-        "timestamp": "2025-09-06 14:34:02",
-        "item": "image_20250906_143343.png"
     }
 ]
