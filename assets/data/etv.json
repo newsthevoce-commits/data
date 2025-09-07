@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/adivi-sesh-recalls-his-career-karma-panjaa/0210/125163099",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_103022.png",
+        "timestamp": "2025-09-07 10:30:41",
+        "item": "image_20250907_103022.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/amid-hookah-controversy-fresh-irfan-pathan-and-ms-dhoni-story/0400/125163092",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_093051.png",
         "timestamp": "2025-09-07 09:31:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_002925.png",
         "timestamp": "2025-09-07 00:29:35",
         "item": "image_20250907_002925.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-september-07th-2025-sunday-in-telugu/0700/125162652",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_222910.png",
-        "timestamp": "2025-09-06 22:29:21",
-        "item": "image_20250906_222910.png"
     }
 ]
