@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/tpcc-chief-mahesh-kumar-goud-meeting-with-tg-ministers/1801/125163122",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_123219.png",
+        "timestamp": "2025-09-07 12:32:38",
+        "item": "image_20250907_123219.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/cong-chief-kharge-accuses-ec-of-stonewalling-crucial-information-in-karnataka-voter-fraud-matter/0700/125163103",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_112841.png",
         "timestamp": "2025-09-07 11:28:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_032851.png",
         "timestamp": "2025-09-07 03:28:59",
         "item": "image_20250907_032851.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-kanaka-durga-temple-in-vijayawada-announce-closure-for-lunar-eclipse-on-sept-7/6/125162878",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_022818.png",
-        "timestamp": "2025-09-07 02:28:28",
-        "item": "image_20250907_022818.png"
     }
 ]
