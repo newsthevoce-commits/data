@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/poet-ramadevi-receives-kaloji-award/1801/125163189",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_182851.png",
+        "timestamp": "2025-09-07 18:29:00",
+        "item": "image_20250907_182851.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/kolkata-woman-gang-raped-during-her-birthday-party-police-search-for-accused/0300/125163138",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_172852.png",
         "timestamp": "2025-09-07 17:29:02",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_093051.png",
         "timestamp": "2025-09-07 09:31:05",
         "item": "image_20250907_093051.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/sunil-chhetri-on-virat-kohli-fitness-tests-in-london/0400/125163082",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_083023.png",
-        "timestamp": "2025-09-07 08:30:37",
-        "item": "image_20250907_083023.png"
     }
 ]
