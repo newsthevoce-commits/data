@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/ganesh-idols-immersion-continue-hyderabad-2557509",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_043100.png",
+        "timestamp": "2025-09-07 04:31:11",
+        "item": "image_20250907_043100.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/how-select-plot-constructing-house-construction-tips-2556958",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_033108.png",
         "timestamp": "2025-09-07 03:31:21",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173434.png",
         "timestamp": "2025-09-06 17:34:57",
         "item": "image_20250906_173434.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/nirmal-wooden-toys-history-and-interesting-facts-2557049",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_163312.png",
-        "timestamp": "2025-09-06 16:33:42",
-        "item": "image_20250906_163312.png"
     }
 ]
