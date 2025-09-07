@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/national/chilling-video-shows-ukrainian-refugee-stabbed-to-death-on-american-train-2-2134251",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_123704.png",
+        "timestamp": "2025-09-07 12:37:24",
+        "item": "image_20250907_123704.png"
+    },
+    {
         "url": "https://www.ntnews.com/karimnagar/lingam-kumar-is-the-president-of-mala-mahanadu-manakondur-constituency-2134222",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_113307.png",
         "timestamp": "2025-09-07 11:33:35",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_033212.png",
         "timestamp": "2025-09-07 03:32:30",
         "item": "image_20250907_033212.png"
-    },
-    {
-        "url": "https://www.ntnews.com/cinema/allari-naresh-65th-film-launched-at-annapurna-studios-in-hyderabad-2133844",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_013215.png",
-        "timestamp": "2025-09-07 01:32:37",
-        "item": "image_20250907_013215.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
