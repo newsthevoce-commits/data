@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-06/China-calls-for-upholding-multilateralism-at-UN-General-Assembly-1GrkjcoImTS/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_062717.png",
+        "timestamp": "2025-09-07 06:27:34",
+        "item": "image_20250907_062717.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-06/China-s-Xinjiang-is-more-dynamic-attractive-amid-increasing-openness-1GrIHODsHOE/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_172849.png",
         "timestamp": "2025-09-06 17:29:04",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_084918.png",
         "timestamp": "2025-09-01 08:49:33",
         "item": "image_20250901_084918.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-08-31/Xi-s-article-on-great-spirit-of-resisting-aggression-to-be-published-1GhJtqejeWQ/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250831_113957.png",
-        "timestamp": "2025-08-31 11:40:06",
-        "item": "image_20250831_113957.png"
     }
 ]
