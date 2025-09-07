@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/telugu-news-jharkhand-200-cattle-in-the-station-premises/national/542758/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_133414.png",
+        "timestamp": "2025-09-07 13:34:41",
+        "item": "image_20250907_133414.png"
+    },
+    {
         "url": "https://vaartha.com/telugu-newsemployment-10-thousand-teacher-posts-vacant/telangana/542551/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_123557.png",
         "timestamp": "2025-09-07 12:36:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_053233.png",
         "timestamp": "2025-09-06 05:32:45",
         "item": "image_20250906_053233.png"
-    },
-    {
-        "url": "https://vaartha.com/sachin-tendulkar-teachers-day-emotional-post/sports/542093/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_193644.png",
-        "timestamp": "2025-09-05 19:37:04",
-        "item": "image_20250905_193644.png"
     }
 ]
