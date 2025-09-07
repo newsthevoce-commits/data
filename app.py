@@ -86,7 +86,7 @@ def update_biggboss_content():
         return jsonify({"error": str(e)}), 500
     
 
-@app.get("/meta_home", methods = ['GET'])
+@app.get('/meta_home', methods = ['GET'])
 def get_meta():
     return jsonify(read_meta(meta_home))
 @app.get("/meta_bb", methods = ['GET'])
