@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-9-telugu-contestant-who-sanjana-galrani-2557942",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_192954.png",
+        "timestamp": "2025-09-07 19:30:06",
+        "item": "image_20250907_192954.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/2025-yamaha-r15-range-launched-new-colour-2557935",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_183102.png",
         "timestamp": "2025-09-07 18:31:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_093351.png",
         "timestamp": "2025-09-07 09:34:10",
         "item": "image_20250907_093351.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/lunar-eclipse-effect-2557795",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_083213.png",
-        "timestamp": "2025-09-07 08:32:28",
-        "item": "image_20250907_083213.png"
     }
 ]
