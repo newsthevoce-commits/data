@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/lunar-eclipse-effect-2557795",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_083213.png",
+        "timestamp": "2025-09-07 08:32:28",
+        "item": "image_20250907_083213.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/heavy-rain-fall-warangal-district-2557789",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_073314.png",
         "timestamp": "2025-09-07 07:33:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_232947.png",
         "timestamp": "2025-09-06 23:29:59",
         "item": "image_20250906_232947.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/star-heroes-busy-shooting-hyderabad-2557079",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_213332.png",
-        "timestamp": "2025-09-06 21:33:46",
-        "item": "image_20250906_213332.png"
     }
 ]
