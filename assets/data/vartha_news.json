@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/latest-news-rohit-sharma-kohli-rohit-sharma-to-return-to-the-field/sports/542823/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143448.png",
+        "timestamp": "2025-09-07 14:35:06",
+        "item": "image_20250907_143448.png"
+    },
+    {
         "url": "https://vaartha.com/telugu-news-jharkhand-200-cattle-in-the-station-premises/national/542758/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_133414.png",
         "timestamp": "2025-09-07 13:34:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073419.png",
         "timestamp": "2025-09-06 07:34:34",
         "item": "image_20250906_073419.png"
-    },
-    {
-        "url": "https://vaartha.com/water-supply-to-be-cut-off-for-48-hours-in-hyderabad/hyderabad/542139/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_053233.png",
-        "timestamp": "2025-09-06 05:32:45",
-        "item": "image_20250906_053233.png"
     }
 ]
