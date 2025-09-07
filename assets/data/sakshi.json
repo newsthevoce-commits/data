@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-9-telugu-bharani-details-2557943",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_203253.png",
+        "timestamp": "2025-09-07 20:33:12",
+        "item": "image_20250907_203253.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-9-telugu-contestant-who-sanjana-galrani-2557942",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_192954.png",
         "timestamp": "2025-09-07 19:30:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_103331.png",
         "timestamp": "2025-09-07 10:33:56",
         "item": "image_20250907_103331.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/sunday-special-new-style-healthy-dinner-recipe-2557831",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_093351.png",
-        "timestamp": "2025-09-07 09:34:10",
-        "item": "image_20250907_093351.png"
     }
 ]
