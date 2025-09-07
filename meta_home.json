@@ -1,0 +1,27 @@
+{
+  "title": "Bigg Boss 9 Telugu: Launch date, host salary, tasks — all about Nagarjuna’s show - Hindustan Times",
+  "icons": [
+    {
+      "href": "/NV.png",
+      "type": "image/png"
+    },
+    {
+      "href": "/NV.png"
+    }
+  ],
+  "meta": {
+    "keywords": "Bigg Boss Telugu, Bigg Boss house, Akkineni Nagarjuna, Bigg Boss 9 Telugu, OTTplay Premium",
+    "description": "Bigg Boss Telugu is back for its ninth season, stream on JioHotstar, via OTTplay Premium"
+  },
+  "og": {
+    "title": "Bigg Boss 9 Telugu: Launch date, host salary, tasks — all about Nagarjuna’s show",
+    "description": "Bigg Boss Telugu is back for its ninth season, stream on JioHotstar, via OTTplay Premium",
+    "url": "https://nodevisiontech.vercel.app/bigboss",
+    "image": "https://nodevisiontech.vercel.app/images/biggboss9_logo.jpg"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "Bigg Boss 9 Telugu: Launch date, host salary, tasks — all about Nagarjuna’s show",
+    "image": "https://nodevisiontech.vercel.app/images/biggboss9_logo.jpg"
+  }
+}

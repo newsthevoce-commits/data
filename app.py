@@ -86,15 +86,6 @@ def update_biggboss_content():
         return jsonify({"error": str(e)}), 500
     
 
-@app.get('/meta_home', methods = ['GET'])
-def get_meta():
-    return jsonify(read_meta(meta_home))
-@app.get("/meta_bb", methods = ['GET'])
-def get_meta():
-    return jsonify(read_meta(meta_bb))
-@app.get("/meta_news", methods = ['GET'])
-def get_meta():
-    return jsonify(read_meta(meta_news))
 
 
 
@@ -107,21 +98,42 @@ def update_meta_content(meta_file, data):
         return jsonify({"message": "BiggBoss content updated successfully"}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+# ----------- Meta GET routes -----------
+
+@app.route('/meta_home', methods=['GET'])
+def get_meta_home():
+    return jsonify(read_meta(meta_home))
+
+@app.route("/meta_bb", methods=['GET'])
+def get_meta_bb():
+    return jsonify(read_meta(meta_bb))
+
+@app.route("/meta_news", methods=['GET'])
+def get_meta_news():
+    return jsonify(read_meta(meta_news))
+
+
+# ----------- Meta POST routes -----------
 
 @app.route('/meta_home', methods=['POST'])
-def meta(meta_home):
+def update_meta_home():
     data = request.get_json()
-    update_meta_content(meta_home, data)
+    return update_meta_content(meta_home, data)
 
 @app.route('/meta_bb', methods=['POST'])
-def meta(meta_bb):
+def update_meta_bb():
     data = request.get_json()
-    update_meta_content(meta_bb, data)
+    return update_meta_content(meta_bb, data)
 
-@app.route('/memeta_newsta_bb', methods=['POST'])
-def meta(meta_news):
+@app.route('/meta_news', methods=['POST'])
+def update_meta_news():
     data = request.get_json()
-    update_meta_content(meta_news, data)
+    return update_meta_content(meta_news, data)
+
+
+
+
+
 
 
 
