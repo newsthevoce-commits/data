@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/amid-hookah-controversy-fresh-irfan-pathan-and-ms-dhoni-story/0400/125163092",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_093051.png",
+        "timestamp": "2025-09-07 09:31:05",
+        "item": "image_20250907_093051.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/sunil-chhetri-on-virat-kohli-fitness-tests-in-london/0400/125163082",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_083023.png",
         "timestamp": "2025-09-07 08:30:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_222910.png",
         "timestamp": "2025-09-06 22:29:21",
         "item": "image_20250906_222910.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/when-trump-sent-us-navy-seal-team-that-killed-bin-laden-into-north-korea/0800/125162552",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_213124.png",
-        "timestamp": "2025-09-06 21:31:35",
-        "item": "image_20250906_213124.png"
     }
 ]
