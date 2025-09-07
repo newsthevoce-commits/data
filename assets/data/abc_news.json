@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-07/teen-stabbing-melbourne-cobblebank-two-boys-police/105744644",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_052845.png",
+        "timestamp": "2025-09-07 05:28:53",
+        "item": "image_20250907_052845.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-07/overseas-neo-nazi-groups-shaping-australian-far-right/105741342",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_002725.png",
         "timestamp": "2025-09-07 00:27:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_212924.png",
         "timestamp": "2025-09-05 21:29:40",
         "item": "image_20250905_212924.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-05/penny-wong-comments-on-dan-andrews-in-japan-tokyo-visit/105741584",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_103035.png",
-        "timestamp": "2025-09-05 10:30:52",
-        "item": "image_20250905_103035.png"
     }
 ]
