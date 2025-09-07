@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/sunil-chhetri-on-virat-kohli-fitness-tests-in-london/0400/125163082",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_083023.png",
+        "timestamp": "2025-09-07 08:30:37",
+        "item": "image_20250907_083023.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/two-rtc-buses-stuck-in-flood/1801/125163079",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_073047.png",
         "timestamp": "2025-09-07 07:30:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_213124.png",
         "timestamp": "2025-09-06 21:31:35",
         "item": "image_20250906_213124.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/israel-calls-on-residents-to-flee-targets-more-high-rises-in-gaza-city/0800/125162604",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201511.png",
-        "timestamp": "2025-09-06 20:15:25",
-        "item": "image_20250906_201511.png"
     }
 ]
