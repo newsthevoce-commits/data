@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/two-rtc-buses-stuck-in-flood/1801/125163079",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_073047.png",
+        "timestamp": "2025-09-07 07:30:55",
+        "item": "image_20250907_073047.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/a-person-killed-his-father/0300/125163071",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_063017.png",
         "timestamp": "2025-09-07 06:30:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201511.png",
         "timestamp": "2025-09-06 20:15:25",
         "item": "image_20250906_201511.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-lokesh-congratulates-youth-who-got-jobs-in-germany/1701/125162597",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173159.png",
-        "timestamp": "2025-09-06 17:32:12",
-        "item": "image_20250906_173159.png"
     }
 ]
