@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/telugu-news-narendra-modi-the-tradition-followed-by-prime-minister-modi-the-mistake-made-by-rajiv-gandhi/news/politics/542931/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_193052.png",
+        "timestamp": "2025-09-07 19:31:04",
+        "item": "image_20250907_193052.png"
+    },
+    {
         "url": "https://vaartha.com/latest-news-rohit-sharma-kohli-rohit-sharma-to-return-to-the-field/sports/542823/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143448.png",
         "timestamp": "2025-09-07 14:35:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_123349.png",
         "timestamp": "2025-09-06 12:34:00",
         "item": "image_20250906_123349.png"
-    },
-    {
-        "url": "https://vaartha.com/khairatabad-ganesh-procession-begins/hyderabad/542206/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_073419.png",
-        "timestamp": "2025-09-06 07:34:34",
-        "item": "image_20250906_073419.png"
     }
 ]
