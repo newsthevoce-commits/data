@@ -11,6 +11,8 @@ BB_FILE = 'biggbosspage.json'
 meta_home = 'meta_home.json'
 meta_bb = 'meta_bb.json'
 meta_news = 'meta_news.json'
+bigboss_contest = 'bigboss_contest.json'
+
 
 # ---------------- Vote Read/Write ------------------
 
@@ -51,7 +53,14 @@ def write_meta(file, data):
         json.dump(data, f, indent=2)
 
 
-
+def read_bb_contest(file):
+        if os.path.exists(file):
+        with open(file, 'r') as f:
+            return json.load(f)
+    return []
+def write_meta(file, data):
+    with open(file, 'w') as f:
+        json.dump(data, f, indent=2)
 
 
 
@@ -85,6 +94,24 @@ def update_biggboss_content():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     
+
+
+@app.route('/bigboss_contest', methods=['GET'])
+def get_bigboss_contest():
+    return jsonify(read_bb_contest(bigboss_contest))
+
+@app.route('/bigboss_contest', methods=['POST'])
+def update_bigboss_contest():
+    try:
+        data = request.get_json()
+        if not isinstance(data, list):
+            return jsonify({"error": "Expected a JSON list of content blocks"}), 400
+        write_bb_contest(bigboss_contest, data)
+        return jsonify({"message": "BiggBoss content updated successfully"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
 
 
 
