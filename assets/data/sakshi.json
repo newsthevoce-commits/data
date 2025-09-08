@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/cm-revanth-reddy-comments-kcr-govt-godavari-water-2558888",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_003032.png",
+        "timestamp": "2025-09-09 00:30:42",
+        "item": "image_20250909_003032.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-09-09-2025-telugu-2558885",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_223132.png",
         "timestamp": "2025-09-08 22:31:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_123207.png",
         "timestamp": "2025-09-08 12:32:24",
         "item": "image_20250908_123207.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/indian-playback-singer-asha-bhosle-birthday-special-story-2558804",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_113205.png",
-        "timestamp": "2025-09-08 11:32:24",
-        "item": "image_20250908_113205.png"
     }
 ]
