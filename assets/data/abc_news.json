@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-08/chatbots-banned-from-talking-sex-or-suicide-with-australian-kids/105750012",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_182846.png",
+        "timestamp": "2025-09-08 18:29:01",
+        "item": "image_20250908_182846.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-08/mushroom-murderer-erin-patterson-sentenced-to-life-in-prison/105735360",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_093416.png",
         "timestamp": "2025-09-08 09:34:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_042855.png",
         "timestamp": "2025-09-06 04:29:04",
         "item": "image_20250906_042855.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-05/katharine-duchess-of-kent-dies-aged-92/105742340",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_032807.png",
-        "timestamp": "2025-09-06 03:28:16",
-        "item": "image_20250906_032807.png"
     }
 ]
