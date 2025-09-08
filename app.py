@@ -83,11 +83,11 @@ def update_bigboss_contest():
         
         
 @app.route('/api/votes', methods=['GET'])
-def get_bigboss_contest():
+def get_bigboss_votes():
     return jsonify(read_file(votes, []))
 
 @app.route('/api/votes', methods=['POST'])
-def update_bigboss_contest():
+def update_bigboss_votes():
     try:
         data = request.get_json()
         if not isinstance(data, list):
