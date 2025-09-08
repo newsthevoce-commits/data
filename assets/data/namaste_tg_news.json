@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/national/over-100-mobile-phones-and-gold-chains-stolen-during-lalbaugcha-raja-visarjan-2135154",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_103148.png",
+        "timestamp": "2025-09-08 10:32:08",
+        "item": "image_20250908_103148.png"
+    },
+    {
         "url": "https://www.ntnews.com/khammam/badradri-kothagudem/protest-in-front-of-mla-camp-office-demanding-amendment-of-g-o-no-99-2135108",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_093949.png",
         "timestamp": "2025-09-08 09:40:07",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_153312.png",
         "timestamp": "2025-09-07 15:34:13",
         "item": "image_20250907_153312.png"
-    },
-    {
-        "url": "https://www.ntnews.com/andhrapradesh-news/srivari-temple-gates-closed-in-tirumala-on-the-occasion-of-lunar-eclipse-2134369",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143615.png",
-        "timestamp": "2025-09-07 14:36:52",
-        "item": "image_20250907_143615.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
