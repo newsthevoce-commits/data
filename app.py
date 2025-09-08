@@ -12,6 +12,7 @@ meta_home = 'meta_home.json'
 meta_bb = 'meta_bb.json'
 meta_news = 'meta_news.json'
 bigboss_contest = 'bigboss_contest.json'
+votes = 'vote_details.json'
 
 
 # ---------------- File Utilities ------------------
@@ -76,6 +77,22 @@ def update_bigboss_contest():
         if not isinstance(data, list):
             return jsonify({"error": "Expected a JSON list of content blocks"}), 400
         write_file(bigboss_contest, data)
+        return jsonify({"message": "BigBoss contest updated successfully"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+        
+        
+@app.route('/api/votes', methods=['GET'])
+def get_bigboss_contest():
+    return jsonify(read_file(votes, []))
+
+@app.route('/api/votes', methods=['POST'])
+def update_bigboss_contest():
+    try:
+        data = request.get_json()
+        if not isinstance(data, list):
+            return jsonify({"error": "Expected a JSON list of content blocks"}), 400
+        write_file(votes, data)
         return jsonify({"message": "BigBoss contest updated successfully"}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
