@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/after-violent-protests-nepal-govt-lifts-ban-on-social-media/0800/125163879",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_222924.png",
+        "timestamp": "2025-09-08 22:29:40",
+        "item": "image_20250908_222924.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/evm-an-aggregator-of-votes-cant-be-used-in-presidential-vice-presidential-elections/0700/125163784",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_213346.png",
         "timestamp": "2025-09-08 21:34:01",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_122918.png",
         "timestamp": "2025-09-08 12:29:37",
         "item": "image_20250908_122918.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/bhatti-vikramarka-review-meeting-with-bankers/1801/125163717",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_102847.png",
-        "timestamp": "2025-09-08 10:28:55",
-        "item": "image_20250908_102847.png"
     }
 ]
