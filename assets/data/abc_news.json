@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-09/rupert-murdoch-james-lachlan-news-fox-media-empire/105751262",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_232934.png",
+        "timestamp": "2025-09-08 23:29:43",
+        "item": "image_20250908_232934.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-09/erin-patterson-mushroom-trial-sentencing-biggest-moments/105748098",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_213051.png",
         "timestamp": "2025-09-08 21:31:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_062849.png",
         "timestamp": "2025-09-06 06:28:58",
         "item": "image_20250906_062849.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-06/suspected-shark-attack-on-sydney-s-northern-beaches/105743246",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_052727.png",
-        "timestamp": "2025-09-06 05:27:36",
-        "item": "image_20250906_052727.png"
     }
 ]
