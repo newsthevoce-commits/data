@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/telugu-news-medak-farmers-face-shortage-of-urea-farmers-queue-for-urea/telangana/543216/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133809.png",
+        "timestamp": "2025-09-08 13:38:32",
+        "item": "image_20250908_133809.png"
+    },
+    {
         "url": "https://vaartha.com/telugu-news-breaking-news-child-falls-into-canal/andhra-pradesh/543084/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_103048.png",
         "timestamp": "2025-09-08 10:31:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201911.png",
         "timestamp": "2025-09-06 20:19:30",
         "item": "image_20250906_201911.png"
-    },
-    {
-        "url": "https://vaartha.com/latest-news-asia-cup-2025-sanju-samson-should-be-played-at-first-down-instead-of-as-an-opener/sports/542532/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_173623.png",
-        "timestamp": "2025-09-06 17:36:54",
-        "item": "image_20250906_173623.png"
     }
 ]
