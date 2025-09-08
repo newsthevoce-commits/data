@@ -54,7 +54,7 @@ def write_meta(file, data):
 
 
 def read_bb_contest(file):
-        if os.path.exists(file):
+    if os.path.exists(file):
         with open(file, 'r') as f:
             return json.load(f)
     return []
