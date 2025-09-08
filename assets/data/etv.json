@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/speaker-ayyannapatrudu-comments-on-ysrcp-mlas/1702/125164040",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_002817.png",
+        "timestamp": "2025-09-09 00:28:27",
+        "item": "image_20250909_002817.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/after-violent-protests-nepal-govt-lifts-ban-on-social-media/0800/125163879",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_222924.png",
         "timestamp": "2025-09-08 22:29:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133318.png",
         "timestamp": "2025-09-08 13:33:39",
         "item": "image_20250908_133318.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/massive-transfers-of-ias-officers-in-ap/1701/125163744",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_122918.png",
-        "timestamp": "2025-09-08 12:29:37",
-        "item": "image_20250908_122918.png"
     }
 ]
