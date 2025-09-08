@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/linkedin-expanding-its-verification-tools-build-trust-and-reduce-fraud-2558863",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_163014.png",
+        "timestamp": "2025-09-08 16:30:34",
+        "item": "image_20250908_163014.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/promote-gst-20-make-india-says-pm-modi-mps-2558855",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_153237.png",
         "timestamp": "2025-09-08 15:32:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_192954.png",
         "timestamp": "2025-09-07 19:30:06",
         "item": "image_20250907_192954.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/2025-yamaha-r15-range-launched-new-colour-2557935",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_183102.png",
-        "timestamp": "2025-09-07 18:31:15",
-        "item": "image_20250907_183102.png"
     }
 ]
