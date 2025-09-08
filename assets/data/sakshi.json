@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/director-kaushik-pegallapati-about-bellamkonda-sai-srinivas-kishkindhapuri",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_012904.png",
+        "timestamp": "2025-09-09 01:29:15",
+        "item": "image_20250909_012904.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/cm-revanth-reddy-comments-kcr-govt-godavari-water-2558888",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_003032.png",
         "timestamp": "2025-09-09 00:30:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133633.png",
         "timestamp": "2025-09-08 13:36:50",
         "item": "image_20250908_133633.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/top-10-influential-people-ai-net-worth-snapshot-2558807",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_123207.png",
-        "timestamp": "2025-09-08 12:32:24",
-        "item": "image_20250908_123207.png"
     }
 ]
