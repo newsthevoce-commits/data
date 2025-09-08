@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/top-10-influential-people-ai-net-worth-snapshot-2558807",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_123207.png",
+        "timestamp": "2025-09-08 12:32:24",
+        "item": "image_20250908_123207.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/indian-playback-singer-asha-bhosle-birthday-special-story-2558804",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_113205.png",
         "timestamp": "2025-09-08 11:32:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143314.png",
         "timestamp": "2025-09-07 14:33:40",
         "item": "image_20250907_143314.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/alekhya-chitti-pickle-sister-felt-uncomfortable-theatre-disha-app-helps-her-2557876",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_133223.png",
-        "timestamp": "2025-09-07 13:32:50",
-        "item": "image_20250907_133223.png"
     }
 ]
