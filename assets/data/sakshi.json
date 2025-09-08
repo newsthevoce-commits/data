@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-09-09-2025-telugu-2558885",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_223132.png",
+        "timestamp": "2025-09-08 22:31:55",
+        "item": "image_20250908_223132.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/chandrababu-coalition-govt-restrictions-annadata-poru-program-2558879",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_213705.png",
         "timestamp": "2025-09-08 21:37:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_113205.png",
         "timestamp": "2025-09-08 11:32:24",
         "item": "image_20250908_113205.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/international/volodymyr-zelensky-says-right-idea-tariff-india-2558771",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_093749.png",
-        "timestamp": "2025-09-08 09:38:01",
-        "item": "image_20250908_093749.png"
     }
 ]
