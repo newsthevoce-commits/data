@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/bhatti-vikramarka-review-meeting-with-bankers/1801/125163717",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_102847.png",
+        "timestamp": "2025-09-08 10:28:55",
+        "item": "image_20250908_102847.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/sanjay-dutt-recalls-a-chilling-jail-memory/0210/125163697",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_093600.png",
         "timestamp": "2025-09-08 09:36:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143028.png",
         "timestamp": "2025-09-07 14:30:46",
         "item": "image_20250907_143028.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/trumps-venezuela-gunboat-diplomacy-sabre-rattling-or-prelude-to-invasion/0800/125163136",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_132858.png",
-        "timestamp": "2025-09-07 13:29:08",
-        "item": "image_20250907_132858.png"
     }
 ]
