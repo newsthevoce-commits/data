@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/tg-cm-revanth-reddy-review-meet-on-medaram/1801/125163758",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133318.png",
+        "timestamp": "2025-09-08 13:33:39",
+        "item": "image_20250908_133318.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/massive-transfers-of-ias-officers-in-ap/1701/125163744",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_122918.png",
         "timestamp": "2025-09-08 12:29:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_163025.png",
         "timestamp": "2025-09-07 16:30:38",
         "item": "image_20250907_163025.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125163052",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_152954.png",
-        "timestamp": "2025-09-07 15:30:11",
-        "item": "image_20250907_152954.png"
     }
 ]
