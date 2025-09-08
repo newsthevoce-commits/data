@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/latest-news-chris-gayle-punjab-kings-franchise-insulted-me-chris-gayle/sports/543413/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_143157.png",
+        "timestamp": "2025-09-08 14:32:09",
+        "item": "image_20250908_143157.png"
+    },
+    {
         "url": "https://vaartha.com/telugu-news-medak-farmers-face-shortage-of-urea-farmers-queue-for-urea/telangana/543216/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133809.png",
         "timestamp": "2025-09-08 13:38:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_053353.png",
         "timestamp": "2025-09-07 05:34:07",
         "item": "image_20250907_053353.png"
-    },
-    {
-        "url": "https://vaartha.com/bccis-94th-annual-general-meeting-date-finalized/sports/542582/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_201911.png",
-        "timestamp": "2025-09-06 20:19:30",
-        "item": "image_20250906_201911.png"
     }
 ]
