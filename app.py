@@ -52,12 +52,6 @@ def write_meta(file, data):
     with open(file, 'w') as f:
         json.dump(data, f, indent=2)
 
-
-def read_bb_contest(file):
-    if os.path.exists(file):
-        with open(file, 'r') as f:
-            return json.load(f)
-    return []
 def write_meta(file, data):
     with open(file, 'w') as f:
         json.dump(data, f, indent=2)
@@ -79,18 +73,29 @@ def update_votes():
     write_votes(current_votes)
     return jsonify(current_votes)
 
-@app.route('/biggboss-content', methods=['GET'])
-def get_biggboss_content():
-    return jsonify(read_bb())
+def read_bb_contest(file):
+    if os.path.exists(file):
+        with open(file, 'r') as f:
+            return json.load(f)
+    return []
 
-@app.route('/biggboss-content', methods=['POST'])
-def update_biggboss_content():
+def write_bb_contest(file, data):
+    with open(file, 'w') as f:
+        json.dump(data, f, indent=2)
+
+
+@app.route('/bigboss_contest', methods=['GET'])
+def get_bigboss_contest():
+    return jsonify(read_bb_contest(bigboss_contest))
+
+@app.route('/bigboss_contest', methods=['POST'])
+def update_bigboss_contest():
     try:
         data = request.get_json()
         if not isinstance(data, list):
             return jsonify({"error": "Expected a JSON list of content blocks"}), 400
-        write_bb(data)
-        return jsonify({"message": "BiggBoss content updated successfully"}), 200
+        write_bb_contest(bigboss_contest, data)
+        return jsonify({"message": "BigBoss contest updated successfully"}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     
@@ -110,8 +115,6 @@ def update_bigboss_contest():
         return jsonify({"message": "BiggBoss content updated successfully"}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-
-
 
 
 
