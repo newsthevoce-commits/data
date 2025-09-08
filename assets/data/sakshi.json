@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/tollywood-hero-rag-mayur-latest-movie-pooja-ceremony-2558867",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_173056.png",
+        "timestamp": "2025-09-08 17:31:06",
+        "item": "image_20250908_173056.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/linkedin-expanding-its-verification-tools-build-trust-and-reduce-fraud-2558863",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_163014.png",
         "timestamp": "2025-09-08 16:30:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_203253.png",
         "timestamp": "2025-09-07 20:33:12",
         "item": "image_20250907_203253.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-9-telugu-contestant-who-sanjana-galrani-2557942",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_192954.png",
-        "timestamp": "2025-09-07 19:30:06",
-        "item": "image_20250907_192954.png"
     }
 ]
