@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-09/erin-patterson-mushroom-trial-sentencing-biggest-moments/105748098",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_213051.png",
+        "timestamp": "2025-09-08 21:31:06",
+        "item": "image_20250908_213051.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-08/chatbots-banned-from-talking-sex-or-suicide-with-australian-kids/105750012",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_182846.png",
         "timestamp": "2025-09-08 18:29:01",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_052727.png",
         "timestamp": "2025-09-06 05:27:36",
         "item": "image_20250906_052727.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-06/police-offer-1m-reward-for-dezi-freeman-arrest/105742966",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_042855.png",
-        "timestamp": "2025-09-06 04:29:04",
-        "item": "image_20250906_042855.png"
     }
 ]
