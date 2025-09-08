@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/vellampalli-srinivas-fire-chandrababu-2558835",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133633.png",
+        "timestamp": "2025-09-08 13:36:50",
+        "item": "image_20250908_133633.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/top-10-influential-people-ai-net-worth-snapshot-2558807",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_123207.png",
         "timestamp": "2025-09-08 12:32:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_163242.png",
         "timestamp": "2025-09-07 16:32:56",
         "item": "image_20250907_163242.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/tiger-shroff-another-flop-baaghi-4-movie-2557884",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143314.png",
-        "timestamp": "2025-09-07 14:33:40",
-        "item": "image_20250907_143314.png"
     }
 ]
