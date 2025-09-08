@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-08/China-s-outward-investment-rose-by-8-4-in-2024-1Gv81tLM9gI/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_132748.png",
+        "timestamp": "2025-09-08 13:28:03",
+        "item": "image_20250908_132748.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-08/Poll-on-2025-China-International-Fair-for-Trade-in-Services-1GuJj3td93q/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_092928.png",
         "timestamp": "2025-09-08 09:29:39",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_124804.png",
         "timestamp": "2025-09-01 12:48:22",
         "item": "image_20250901_124804.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-01/President-Xi-China-to-host-ensure-success-of-SCO-forums-1Gjtvl79Cne/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250901_104757.png",
-        "timestamp": "2025-09-01 10:48:07",
-        "item": "image_20250901_104757.png"
     }
 ]
