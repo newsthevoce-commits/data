@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/chandrababu-coalition-govt-restrictions-annadata-poru-program-2558879",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_213705.png",
+        "timestamp": "2025-09-08 21:37:23",
+        "item": "image_20250908_213705.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/physicswallah-files-updated-draft-papers-rs-3820-crore-ipo-2558876",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_193316.png",
         "timestamp": "2025-09-08 19:33:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_093749.png",
         "timestamp": "2025-09-08 09:38:01",
         "item": "image_20250908_093749.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/40-percent-women-india-urban-areas-fear-their-safety-2557952",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_213355.png",
-        "timestamp": "2025-09-07 21:34:17",
-        "item": "image_20250907_213355.png"
     }
 ]
