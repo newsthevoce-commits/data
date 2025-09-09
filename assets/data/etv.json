@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/maharashtra-governor-and-2-term-mp/0700/125164448",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_163127.png",
+        "timestamp": "2025-09-09 16:31:36",
+        "item": "image_20250909_163127.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/ghmc-sent-notoce-to-allu-aravind/0210/125164491",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_152933.png",
         "timestamp": "2025-09-09 15:29:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_052914.png",
         "timestamp": "2025-09-09 05:29:26",
         "item": "image_20250909_052914.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/karimnagar-news/530/125164130",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_042855.png",
-        "timestamp": "2025-09-09 04:29:03",
-        "item": "image_20250909_042855.png"
     }
 ]
