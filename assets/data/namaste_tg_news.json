@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/editpage/us-president-donald-trump-says-this-in-the-oval-office-of-the-white-house-2136945",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_233049.png",
+        "timestamp": "2025-09-09 23:31:13",
+        "item": "image_20250909_233049.png"
+    },
+    {
         "url": "https://www.ntnews.com/hyderabad/polluted-water-in-rahmatnagar-2136766",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_223007.png",
         "timestamp": "2025-09-09 22:30:35",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_143301.png",
         "timestamp": "2025-09-09 14:33:15",
         "item": "image_20250909_143301.png"
-    },
-    {
-        "url": "https://www.ntnews.com/cinema/nithin-sreenu-vaitla-combination-news-viral-on-tollywood-2136489",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_133408.png",
-        "timestamp": "2025-09-09 13:34:41",
-        "item": "image_20250909_133408.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
