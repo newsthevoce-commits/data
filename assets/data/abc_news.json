@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-09/australians-with-us-e3-working-visas-hit-with-new-rules/105752706",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_082730.png",
+        "timestamp": "2025-09-09 08:27:41",
+        "item": "image_20250909_082730.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-09/victoria-treaty-legislation-parliment-first-peoples/105749692",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_062806.png",
         "timestamp": "2025-09-09 06:28:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_212928.png",
         "timestamp": "2025-09-06 21:29:39",
         "item": "image_20250906_212928.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-06/sydney-surfer-dies-in-shark-attack-long-reef-northern-beaches/105743246",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_072851.png",
-        "timestamp": "2025-09-06 07:28:59",
-        "item": "image_20250906_072851.png"
     }
 ]
