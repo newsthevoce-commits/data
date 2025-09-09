@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/srileela-pujas-at-kartik-aaryans-house/breaking-news/543717/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_083305.png",
+        "timestamp": "2025-09-09 08:33:17",
+        "item": "image_20250909_083305.png"
+    },
+    {
         "url": "https://vaartha.com/asia-cup-buzz-huge-prize-money-for-tournament-winners/sports/543648/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_073201.png",
         "timestamp": "2025-09-09 07:32:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_103048.png",
         "timestamp": "2025-09-08 10:31:00",
         "item": "image_20250908_103048.png"
-    },
-    {
-        "url": "https://vaartha.com/latest-news-ganesh-festival-ycp-conspiracy-to-destroy-hinduism/andhra-pradesh/543097/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_093849.png",
-        "timestamp": "2025-09-08 09:39:01",
-        "item": "image_20250908_093849.png"
     }
 ]
