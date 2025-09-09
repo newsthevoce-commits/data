@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/rains-in-many-districts-in-the-next-24-hours/1701/125164435",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_122849.png",
+        "timestamp": "2025-09-09 12:28:57",
+        "item": "image_20250909_122849.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/suryakumar-yadav-says-we-will-remain-aggressive-when-he-steps-on-the-field/0400/125164424",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_112924.png",
         "timestamp": "2025-09-09 11:29:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_002817.png",
         "timestamp": "2025-09-09 00:28:27",
         "item": "image_20250909_002817.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/after-violent-protests-nepal-govt-lifts-ban-on-social-media/0800/125163879",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_222924.png",
-        "timestamp": "2025-09-08 22:29:40",
-        "item": "image_20250908_222924.png"
     }
 ]
