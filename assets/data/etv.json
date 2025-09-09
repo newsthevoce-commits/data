@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/raj-kundra-summoned-on-60-crore-rupees-cheating-case/0700/125164367",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_063009.png",
+        "timestamp": "2025-09-09 06:30:18",
+        "item": "image_20250909_063009.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-news/704/125163847",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_052914.png",
         "timestamp": "2025-09-09 05:29:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_183135.png",
         "timestamp": "2025-09-08 18:31:51",
         "item": "image_20250908_183135.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/union-govt-agreed-to-run-tirupati-shirdi-train-daily-service/1701/125163827",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_172910.png",
-        "timestamp": "2025-09-08 17:29:19",
-        "item": "image_20250908_172910.png"
     }
 ]
