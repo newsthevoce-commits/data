@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/chandrababu-naidu-congratulates-radhakrishnan-on-being-elected-as-vice-president-of-india/1701/125164511",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_173111.png",
+        "timestamp": "2025-09-09 17:31:24",
+        "item": "image_20250909_173111.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/maharashtra-governor-and-2-term-mp/0700/125164448",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_163127.png",
         "timestamp": "2025-09-09 16:31:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_063009.png",
         "timestamp": "2025-09-09 06:30:18",
         "item": "image_20250909_063009.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-news/704/125163847",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_052914.png",
-        "timestamp": "2025-09-09 05:29:26",
-        "item": "image_20250909_052914.png"
     }
 ]
