@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/fire-accident-visakhapatnam-steel-plant-2559201",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_053104.png",
+        "timestamp": "2025-09-09 05:31:14",
+        "item": "image_20250909_053104.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/jaithraya-song-out-mirai-movie-2559108",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_043106.png",
         "timestamp": "2025-09-09 04:31:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_173056.png",
         "timestamp": "2025-09-08 17:31:06",
         "item": "image_20250908_173056.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/linkedin-expanding-its-verification-tools-build-trust-and-reduce-fraud-2558863",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_163014.png",
-        "timestamp": "2025-09-08 16:30:34",
-        "item": "image_20250908_163014.png"
     }
 ]
