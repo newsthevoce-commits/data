@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-news/704/125163847",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_052914.png",
+        "timestamp": "2025-09-09 05:29:26",
+        "item": "image_20250909_052914.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/karimnagar-news/530/125164130",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_042855.png",
         "timestamp": "2025-09-09 04:29:03",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_172910.png",
         "timestamp": "2025-09-08 17:29:19",
         "item": "image_20250908_172910.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/working-during-the-day-and-playing-cricket-in-the-evenings/0400/125163778",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_162808.png",
-        "timestamp": "2025-09-08 16:28:17",
-        "item": "image_20250908_162808.png"
     }
 ]
