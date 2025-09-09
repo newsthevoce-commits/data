@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/dabang-delhi-fourth-consecutive-win-pro-kabaddi-league-2560387",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_013059.png",
+        "timestamp": "2025-09-10 01:31:10",
+        "item": "image_20250910_013059.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/nepal-gen-z-rallies-around-balendra-shah-2560160",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_002826.png",
         "timestamp": "2025-09-10 00:28:39",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_153203.png",
         "timestamp": "2025-09-09 15:32:14",
         "item": "image_20250909_153203.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/vashu-bhagnani-claims-ali-abbas-zafar-inflated-budget-rs-80-crore-2559858",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_143049.png",
-        "timestamp": "2025-09-09 14:31:00",
-        "item": "image_20250909_143049.png"
     }
 ]
