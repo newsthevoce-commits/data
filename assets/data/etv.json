@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/general/0400/125164385",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_082931.png",
+        "timestamp": "2025-09-09 08:29:40",
+        "item": "image_20250909_082931.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/raj-kundra-summoned-on-60-crore-rupees-cheating-case/0700/125164367",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_063009.png",
         "timestamp": "2025-09-09 06:30:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_193048.png",
         "timestamp": "2025-09-08 19:31:03",
         "item": "image_20250908_193048.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/pm-modi-asks-nda-mps-to-hold-swadeshi-mela/0700/125163833",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_183135.png",
-        "timestamp": "2025-09-08 18:31:51",
-        "item": "image_20250908_183135.png"
     }
 ]
