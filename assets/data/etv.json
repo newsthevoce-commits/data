@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-nara-lokesh-meets-union-minister-cr-patil/1702/125164738",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_012912.png",
+        "timestamp": "2025-09-10 01:29:25",
+        "item": "image_20250910_012912.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/apple-event-launched-17-series-phones/0101/125164539",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_213051.png",
         "timestamp": "2025-09-09 21:30:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_132928.png",
         "timestamp": "2025-09-09 13:29:37",
         "item": "image_20250909_132928.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/rains-in-many-districts-in-the-next-24-hours/1701/125164435",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_122849.png",
-        "timestamp": "2025-09-09 12:28:57",
-        "item": "image_20250909_122849.png"
     }
 ]
