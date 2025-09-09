@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/cm-revanth-reddy-meets-central-minister-nitin-gadkari/1801/125164516",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_182817.png",
+        "timestamp": "2025-09-09 18:28:27",
+        "item": "image_20250909_182817.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/chandrababu-naidu-congratulates-radhakrishnan-on-being-elected-as-vice-president-of-india/1701/125164511",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_173111.png",
         "timestamp": "2025-09-09 17:31:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_082931.png",
         "timestamp": "2025-09-09 08:29:40",
         "item": "image_20250909_082931.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/raj-kundra-summoned-on-60-crore-rupees-cheating-case/0700/125164367",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_063009.png",
-        "timestamp": "2025-09-09 06:30:18",
-        "item": "image_20250909_063009.png"
     }
 ]
