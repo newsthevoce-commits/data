@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/diplomatic-teams-engaging-with-us-for-trade-talks-fm/0101/125164520",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_192854.png",
+        "timestamp": "2025-09-09 19:29:04",
+        "item": "image_20250909_192854.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/cm-revanth-reddy-meets-central-minister-nitin-gadkari/1801/125164516",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_182817.png",
         "timestamp": "2025-09-09 18:28:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_092819.png",
         "timestamp": "2025-09-09 09:28:32",
         "item": "image_20250909_092819.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/general/0400/125164385",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_082931.png",
-        "timestamp": "2025-09-09 08:29:40",
-        "item": "image_20250909_082931.png"
     }
 ]
