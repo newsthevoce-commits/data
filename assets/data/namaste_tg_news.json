@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/cinema/bigg-boss-9-first-day-tension-atmospher-in-bigg-boss-2136006",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_033202.png",
+        "timestamp": "2025-09-09 03:32:17",
+        "item": "image_20250909_033202.png"
+    },
+    {
         "url": "https://www.ntnews.com/telangana/rats-bite-female-students-in-gurukul-2135984",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_023341.png",
         "timestamp": "2025-09-09 02:34:02",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_153428.png",
         "timestamp": "2025-09-08 15:34:49",
         "item": "image_20250908_153428.png"
-    },
-    {
-        "url": "https://www.ntnews.com/nalgonda/chandampet-mandal-final-voter-list-displayed-2135430",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_143258.png",
-        "timestamp": "2025-09-08 14:33:13",
-        "item": "image_20250908_143258.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
