@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/power-icon-global-stars-in-one-frame/breaking-news/543575/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_043211.png",
+        "timestamp": "2025-09-09 04:32:29",
+        "item": "image_20250909_043211.png"
+    },
+    {
         "url": "https://vaartha.com/four-people-caught-with-demonetized-notes-taken-to-police-station/hyderabad/543542/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_193446.png",
         "timestamp": "2025-09-08 19:35:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_143448.png",
         "timestamp": "2025-09-07 14:35:06",
         "item": "image_20250907_143448.png"
-    },
-    {
-        "url": "https://vaartha.com/telugu-news-jharkhand-200-cattle-in-the-station-premises/national/542758/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_133414.png",
-        "timestamp": "2025-09-07 13:34:41",
-        "item": "image_20250907_133414.png"
     }
 ]
