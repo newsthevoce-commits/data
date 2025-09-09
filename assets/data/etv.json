@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/cm-revanth-reddy-house--wall-demolished-in-road-expansion/1802/125164346",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_032820.png",
+        "timestamp": "2025-09-09 03:28:32",
+        "item": "image_20250909_032820.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/nellore-nellore-lady-don-aruna-scam/9/125164050",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_023029.png",
         "timestamp": "2025-09-09 02:30:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_153042.png",
         "timestamp": "2025-09-08 15:30:51",
         "item": "image_20250908_153042.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/special-story-on-road-accidents/1802/125163557",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_142903.png",
-        "timestamp": "2025-09-08 14:29:11",
-        "item": "image_20250908_142903.png"
     }
 ]
