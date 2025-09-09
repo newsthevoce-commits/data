@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-09/victoria-treaty-legislation-parliment-first-peoples/105749692",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_062806.png",
+        "timestamp": "2025-09-09 06:28:15",
+        "item": "image_20250909_062806.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-09/rupert-murdoch-james-lachlan-news-fox-media-empire/105751262",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_232934.png",
         "timestamp": "2025-09-08 23:29:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_072851.png",
         "timestamp": "2025-09-06 07:28:59",
         "item": "image_20250906_072851.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-06/molly-wilkes-domestic-violence-but-super-went-to-abuser/105686332",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_062849.png",
-        "timestamp": "2025-09-06 06:28:58",
-        "item": "image_20250906_062849.png"
     }
 ]
