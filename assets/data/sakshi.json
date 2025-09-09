@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/bjp-telangana-state-executive-committee-22-members-2558937",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_023234.png",
+        "timestamp": "2025-09-09 02:32:47",
+        "item": "image_20250909_023234.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/director-kaushik-pegallapati-about-bellamkonda-sai-srinivas-kishkindhapuri",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_012904.png",
         "timestamp": "2025-09-09 01:29:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_143056.png",
         "timestamp": "2025-09-08 14:31:07",
         "item": "image_20250908_143056.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/vellampalli-srinivas-fire-chandrababu-2558835",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_133633.png",
-        "timestamp": "2025-09-08 13:36:50",
-        "item": "image_20250908_133633.png"
     }
 ]
