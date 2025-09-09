@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/vashu-bhagnani-claims-ali-abbas-zafar-inflated-budget-rs-80-crore-2559858",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_143049.png",
+        "timestamp": "2025-09-09 14:31:00",
+        "item": "image_20250909_143049.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/dmk-lost-lost-its-sleep-tvk-vijays-action-2559845",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_133201.png",
         "timestamp": "2025-09-09 13:32:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_043106.png",
         "timestamp": "2025-09-09 04:31:18",
         "item": "image_20250909_043106.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/international/palestinian-prisoners-not-being-given-adequate-food-2558951",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_033053.png",
-        "timestamp": "2025-09-09 03:31:05",
-        "item": "image_20250909_033053.png"
     }
 ]
