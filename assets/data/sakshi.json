@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/telangana-high-court-key-judgement-group-1-details-2559419",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_073104.png",
+        "timestamp": "2025-09-09 07:31:15",
+        "item": "image_20250909_073104.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/fire-accident-visakhapatnam-steel-plant-2559201",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_053104.png",
         "timestamp": "2025-09-09 05:31:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_193316.png",
         "timestamp": "2025-09-08 19:33:43",
         "item": "image_20250908_193316.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/tollywood-hero-rag-mayur-latest-movie-pooja-ceremony-2558867",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_173056.png",
-        "timestamp": "2025-09-08 17:31:06",
-        "item": "image_20250908_173056.png"
     }
 ]
