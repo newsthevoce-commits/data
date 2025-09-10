@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/south-korea-overturns-60-year-ruling-on-woman-self-defence-case/0800/125165219",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_203032.png",
+        "timestamp": "2025-09-10 20:30:46",
+        "item": "image_20250910_203032.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/woman-murdered-in-kukatpally-after-being-hit-with-cooker-lid/0300/125165213",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_182948.png",
         "timestamp": "2025-09-10 18:30:02",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_082954.png",
         "timestamp": "2025-09-10 08:30:07",
         "item": "image_20250910_082954.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/shaant-and-shaitaan-the-story-of-gill-and-abhishek-friendship/0400/125165062",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_073026.png",
-        "timestamp": "2025-09-10 07:30:36",
-        "item": "image_20250910_073026.png"
     }
 ]
