@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/shaant-and-shaitaan-the-story-of-gill-and-abhishek-friendship/0400/125165062",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_073026.png",
+        "timestamp": "2025-09-10 07:30:36",
+        "item": "image_20250910_073026.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/explained/tips-to-overcome-sadness/0900/125161984",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_062902.png",
         "timestamp": "2025-09-10 06:29:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_182817.png",
         "timestamp": "2025-09-09 18:28:27",
         "item": "image_20250909_182817.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/chandrababu-naidu-congratulates-radhakrishnan-on-being-elected-as-vice-president-of-india/1701/125164511",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_173111.png",
-        "timestamp": "2025-09-09 17:31:24",
-        "item": "image_20250909_173111.png"
     }
 ]
