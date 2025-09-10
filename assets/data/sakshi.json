@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/rbi-raises-14900-cr-through-auction-state-government-securities-2560773",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_103221.png",
+        "timestamp": "2025-09-10 10:32:38",
+        "item": "image_20250910_103221.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/kurukshetra-animated-series-ott-streaming-details-2560754",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_093100.png",
         "timestamp": "2025-09-10 09:31:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_013059.png",
         "timestamp": "2025-09-10 01:31:10",
         "item": "image_20250910_013059.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/nepal-gen-z-rallies-around-balendra-shah-2560160",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_002826.png",
-        "timestamp": "2025-09-10 00:28:39",
-        "item": "image_20250910_002826.png"
     }
 ]
