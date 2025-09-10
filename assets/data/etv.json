@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/manchu-manoj-chitchat-with-fans-ahead-of-mirai-release/0210/125165182",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_163052.png",
+        "timestamp": "2025-09-10 16:31:01",
+        "item": "image_20250910_163052.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125164810",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_152927.png",
         "timestamp": "2025-09-10 15:29:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_062902.png",
         "timestamp": "2025-09-10 06:29:11",
         "item": "image_20250910_062902.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125164886",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_053017.png",
-        "timestamp": "2025-09-10 05:30:30",
-        "item": "image_20250910_053017.png"
     }
 ]
