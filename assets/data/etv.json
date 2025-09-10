@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/us-has-put-another-potential-green-card-route-on-hold/0800/125165114",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_113126.png",
+        "timestamp": "2025-09-10 11:31:58",
+        "item": "image_20250910_113126.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/varun-tej-and-lavanya-tripathi-blessed-a-baby-boy/0210/125165111",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_103013.png",
         "timestamp": "2025-09-10 10:30:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_012912.png",
         "timestamp": "2025-09-10 01:29:25",
         "item": "image_20250910_012912.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/apple-event-launched-17-series-phones/0101/125164539",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_213051.png",
-        "timestamp": "2025-09-09 21:30:59",
-        "item": "image_20250909_213051.png"
     }
 ]
