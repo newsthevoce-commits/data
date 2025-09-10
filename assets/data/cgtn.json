@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-10/Chinese-vice-premier-calls-to-reduce-service-trade-barriers-1GyGPjrusqA/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_172802.png",
+        "timestamp": "2025-09-10 17:28:11",
+        "item": "image_20250910_172802.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-10/China-urges-U-S-to-respect-core-interests-in-defense-chiefs-call-1GyGfQ3t4Pe/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_162745.png",
         "timestamp": "2025-09-10 16:27:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_142713.png",
         "timestamp": "2025-09-06 14:27:37",
         "item": "image_20250906_142713.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-06/China-calls-for-upholding-multilateralism-at-UN-General-Assembly-1GrkjcoImTS/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_062715.png",
-        "timestamp": "2025-09-06 06:27:29",
-        "item": "image_20250906_062715.png"
     }
 ]
