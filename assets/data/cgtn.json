@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-10/China-urges-U-S-to-respect-core-interests-in-defense-chiefs-call-1GyGfQ3t4Pe/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_162745.png",
+        "timestamp": "2025-09-10 16:27:55",
+        "item": "image_20250910_162745.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-10/China-condemns-Israel-s-attack-in-Qatar-as-violation-of-sovereignty-1GypvU6KAiA/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_112737.png",
         "timestamp": "2025-09-10 11:27:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_062715.png",
         "timestamp": "2025-09-06 06:27:29",
         "item": "image_20250906_062715.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-05/Xi-sends-congratulatory-letter-to-World-Smart-Industry-Expo-2025-1GpF59Q8IzS/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250905_122745.png",
-        "timestamp": "2025-09-05 12:28:00",
-        "item": "image_20250905_122745.png"
     }
 ]
