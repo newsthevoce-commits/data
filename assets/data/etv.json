@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/woman-murdered-in-kukatpally-after-being-hit-with-cooker-lid/0300/125165213",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_182948.png",
+        "timestamp": "2025-09-10 18:30:02",
+        "item": "image_20250910_182948.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/manchu-manoj-chitchat-with-fans-ahead-of-mirai-release/0210/125165182",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_163052.png",
         "timestamp": "2025-09-10 16:31:01",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_073026.png",
         "timestamp": "2025-09-10 07:30:36",
         "item": "image_20250910_073026.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/explained/tips-to-overcome-sadness/0900/125161984",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_062902.png",
-        "timestamp": "2025-09-10 06:29:11",
-        "item": "image_20250910_062902.png"
     }
 ]
