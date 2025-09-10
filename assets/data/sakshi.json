@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/huge-rally-and-demonstration-drivers-autos-bezawada-2560401",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_023021.png",
+        "timestamp": "2025-09-10 02:30:37",
+        "item": "image_20250910_023021.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/dabang-delhi-fourth-consecutive-win-pro-kabaddi-league-2560387",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_013059.png",
         "timestamp": "2025-09-10 01:31:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_163333.png",
         "timestamp": "2025-09-09 16:33:47",
         "item": "image_20250909_163333.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/keerthy-suresh-and-trisha-latest-news-2559872",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_153203.png",
-        "timestamp": "2025-09-09 15:32:14",
-        "item": "image_20250909_153203.png"
     }
 ]
