@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/international/police-releases-charlie-kirk-assassinant-photo-2138976",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_193352.png",
+        "timestamp": "2025-09-11 19:34:06",
+        "item": "image_20250911_193352.png"
+    },
+    {
         "url": "https://www.ntnews.com/sports/nizakat-and-murtaza-shines-hongkong-scored-142-vs-bangladesh-2138964",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_183547.png",
         "timestamp": "2025-09-11 18:36:04",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_103250.png",
         "timestamp": "2025-09-11 10:33:04",
         "item": "image_20250911_103250.png"
-    },
-    {
-        "url": "https://www.ntnews.com/cinema/siddhu-jonnalagadda-telusu-kada-teaser-out-2138572",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_101046.png",
-        "timestamp": "2025-09-11 10:11:05",
-        "item": "image_20250911_101046.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
