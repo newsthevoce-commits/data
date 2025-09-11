@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/torrential-rain-in-hyderabad-waterlogged-roads/1801/125165808",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_112925.png",
+        "timestamp": "2025-09-11 11:29:33",
+        "item": "image_20250911_112925.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/aishwarya-rai-bachchan-gets-high-court-relief-over-personality-rights/0210/125165788",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_102928.png",
         "timestamp": "2025-09-11 10:29:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_152927.png",
         "timestamp": "2025-09-10 15:29:35",
         "item": "image_20250910_152927.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/tourists-can-travel-to-visa-free-countries/1802/125164850",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_142854.png",
-        "timestamp": "2025-09-10 14:29:02",
-        "item": "image_20250910_142854.png"
     }
 ]
