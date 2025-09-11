@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/openais-sam-altman-breaks-silence-on-whistleblower-suchir-balajis-death/0101/125165823",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_152940.png",
+        "timestamp": "2025-09-11 15:29:49",
+        "item": "image_20250911_152940.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/selling-old-scrap-items-now-digital-kabadi-man-new-startup/0700/125165839",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_143114.png",
         "timestamp": "2025-09-11 14:31:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_213151.png",
         "timestamp": "2025-09-10 21:32:04",
         "item": "image_20250910_213151.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/south-korea-overturns-60-year-ruling-on-woman-self-defence-case/0800/125165219",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_203032.png",
-        "timestamp": "2025-09-10 20:30:46",
-        "item": "image_20250910_203032.png"
     }
 ]
