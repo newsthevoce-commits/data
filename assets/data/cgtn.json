@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-11/China-voices-opposition-to-Mexico-s-50-tariffs-on-Chinese-goods-1GA9Zfy9D3O/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_142808.png",
+        "timestamp": "2025-09-11 14:28:22",
+        "item": "image_20250911_142808.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-11/Chinese-lawmakers-hear-reports-at-NPC-standing-committee-session-1Gzu8Q3d6ww/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_073503.png",
         "timestamp": "2025-09-11 07:35:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250907_062717.png",
         "timestamp": "2025-09-07 06:27:34",
         "item": "image_20250907_062717.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-06/China-s-Xinjiang-is-more-dynamic-attractive-amid-increasing-openness-1GrIHODsHOE/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250906_172849.png",
-        "timestamp": "2025-09-06 17:29:04",
-        "item": "image_20250906_172849.png"
     }
 ]
