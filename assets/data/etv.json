@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/i-am-not-contesting-from-jubilee-hills-says-danam-nagender/1801/125165782",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_100629.png",
+        "timestamp": "2025-09-11 10:06:38",
+        "item": "image_20250911_100629.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/gottipati-ravikumar-comments-on-jagan/1701/125165757",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_083101.png",
         "timestamp": "2025-09-11 08:31:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_122859.png",
         "timestamp": "2025-09-10 12:29:12",
         "item": "image_20250910_122859.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/us-has-put-another-potential-green-card-route-on-hold/0800/125165114",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_113126.png",
-        "timestamp": "2025-09-10 11:31:58",
-        "item": "image_20250910_113126.png"
     }
 ]
