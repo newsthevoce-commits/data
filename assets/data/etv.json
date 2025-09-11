@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/teja-sajja-interview-for-mirai-trailer-telugu/0206/125165888",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_172906.png",
+        "timestamp": "2025-09-11 17:29:19",
+        "item": "image_20250911_172906.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-fact-check-on-fake-video-on-ttd/1701/125165882",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_163015.png",
         "timestamp": "2025-09-11 16:30:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_083101.png",
         "timestamp": "2025-09-11 08:31:16",
         "item": "image_20250911_083101.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/nepal-army-fires-prison-immates-attamet-to-escape/0800/125165740",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_074121.png",
-        "timestamp": "2025-09-11 07:41:34",
-        "item": "image_20250911_074121.png"
     }
 ]
