@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-11/jostling-for-nampijinpa-prices-frontbench-replacement-underway/105762238",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_102730.png",
+        "timestamp": "2025-09-11 10:27:39",
+        "item": "image_20250911_102730.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-11/verify-what-we-know-about-the-charlie-kirk-assassination/105761534",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_082757.png",
         "timestamp": "2025-09-11 08:28:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_062806.png",
         "timestamp": "2025-09-09 06:28:15",
         "item": "image_20250909_062806.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-09/rupert-murdoch-james-lachlan-news-fox-media-empire/105751262",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_232934.png",
-        "timestamp": "2025-09-08 23:29:43",
-        "item": "image_20250908_232934.png"
     }
 ]
