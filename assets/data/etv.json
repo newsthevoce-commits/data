@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/from-mewat-to-jamtara-cybercrime-trail-drains-rs-30-cr-in-2-and-half-years-in-southwest-delhi/0700/125165895",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_183105.png",
+        "timestamp": "2025-09-11 18:31:15",
+        "item": "image_20250911_183105.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/teja-sajja-interview-for-mirai-trailer-telugu/0206/125165888",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_172906.png",
         "timestamp": "2025-09-11 17:29:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_100629.png",
         "timestamp": "2025-09-11 10:06:38",
         "item": "image_20250911_100629.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/gottipati-ravikumar-comments-on-jagan/1701/125165757",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_083101.png",
-        "timestamp": "2025-09-11 08:31:16",
-        "item": "image_20250911_083101.png"
     }
 ]
