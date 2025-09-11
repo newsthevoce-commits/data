@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/rahul-gandhi-violating-security-protocols-during-his-visits-abroad-crpf/0700/125165831",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_132905.png",
+        "timestamp": "2025-09-11 13:29:14",
+        "item": "image_20250911_132905.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/icc-womens-odi-world-cup-umpires-and-match-referees-are-all-women/0400/125165813",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_122933.png",
         "timestamp": "2025-09-11 12:29:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_182948.png",
         "timestamp": "2025-09-10 18:30:02",
         "item": "image_20250910_182948.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/manchu-manoj-chitchat-with-fans-ahead-of-mirai-release/0210/125165182",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_163052.png",
-        "timestamp": "2025-09-10 16:31:01",
-        "item": "image_20250910_163052.png"
     }
 ]
