@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-11/fbi-says-charlie-kirk-search-continues-weapon-found/105764588",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_182859.png",
+        "timestamp": "2025-09-11 18:29:08",
+        "item": "image_20250911_182859.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-11/jostling-for-nampijinpa-prices-frontbench-replacement-underway/105762238",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_102730.png",
         "timestamp": "2025-09-11 10:27:39",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_082730.png",
         "timestamp": "2025-09-09 08:27:41",
         "item": "image_20250909_082730.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-09/victoria-treaty-legislation-parliment-first-peoples/105749692",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_062806.png",
-        "timestamp": "2025-09-09 06:28:15",
-        "item": "image_20250909_062806.png"
     }
 ]
