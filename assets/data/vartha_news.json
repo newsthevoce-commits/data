@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/dry-nuts-chikki/vantalu/545409/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_143446.png",
+        "timestamp": "2025-09-11 14:34:59",
+        "item": "image_20250911_143446.png"
+    },
+    {
         "url": "https://vaartha.com/medipalli-satyam-slams-kcr-over-ellampalli-project-delay/telangana/545214/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_123259.png",
         "timestamp": "2025-09-11 12:33:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_123407.png",
         "timestamp": "2025-09-10 12:34:24",
         "item": "image_20250910_123407.png"
-    },
-    {
-        "url": "https://vaartha.com/latest-news-telangana-record-high-electricity-consumption-in-the-state/telangana/544313/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_083441.png",
-        "timestamp": "2025-09-10 08:35:03",
-        "item": "image_20250910_083441.png"
     }
 ]
