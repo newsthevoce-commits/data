@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/charlie-kirk-shooter-may-be-college-aged-rifle-found/0800/125165912",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_212859.png",
+        "timestamp": "2025-09-11 21:29:08",
+        "item": "image_20250911_212859.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/infosys-announces-its-biggest-ever-share-buyback-of-rs-18000-crore/0101/125165915",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_202815.png",
         "timestamp": "2025-09-11 20:28:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_122933.png",
         "timestamp": "2025-09-11 12:29:42",
         "item": "image_20250911_122933.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/torrential-rain-in-hyderabad-waterlogged-roads/1801/125165808",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_112925.png",
-        "timestamp": "2025-09-11 11:29:33",
-        "item": "image_20250911_112925.png"
     }
 ]
