@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/ktr-post-on-brs-mlas-who-joined-in-congress/1801/125166522",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_122848.png",
+        "timestamp": "2025-09-12 12:29:03",
+        "item": "image_20250912_122848.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-satya-kumar-comments-on-jagan/1701/125166488",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_113030.png",
         "timestamp": "2025-09-12 11:30:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_022901.png",
         "timestamp": "2025-09-12 02:29:12",
         "item": "image_20250912_022901.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/charlie-kirk-shooter-may-be-college-aged-rifle-found/0800/125165912",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_212859.png",
-        "timestamp": "2025-09-11 21:29:08",
-        "item": "image_20250911_212859.png"
     }
 ]
