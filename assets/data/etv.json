@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/us-ambassador-said-their-top-priority-is-to-india-is-pulled-away-from-china/0800/125166426",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_062814.png",
+        "timestamp": "2025-09-12 06:28:26",
+        "item": "image_20250912_062814.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125166368",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_053033.png",
         "timestamp": "2025-09-12 05:30:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_172906.png",
         "timestamp": "2025-09-11 17:29:19",
         "item": "image_20250911_172906.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-fact-check-on-fake-video-on-ttd/1701/125165882",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_163015.png",
-        "timestamp": "2025-09-11 16:30:36",
-        "item": "image_20250911_163015.png"
     }
 ]
