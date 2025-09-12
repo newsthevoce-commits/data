@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/centre-and-states-to-earn-rs-40000-cr-in-gst-if-all-97-lakh-polluting-vehicles-scrapped/0101/125166606",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_212837.png",
+        "timestamp": "2025-09-12 21:28:47",
+        "item": "image_20250912_212837.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/asia-cup-pakistan-won-on-oman/0400/125166638",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_202807.png",
         "timestamp": "2025-09-12 20:28:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_132938.png",
         "timestamp": "2025-09-12 13:29:54",
         "item": "image_20250912_132938.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/ktr-post-on-brs-mlas-who-joined-in-congress/1801/125166522",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_122848.png",
-        "timestamp": "2025-09-12 12:29:03",
-        "item": "image_20250912_122848.png"
     }
 ]
