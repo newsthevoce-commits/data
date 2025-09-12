@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/kishkindhapuri-team-press-meet-bellamkonda-sai-srinivas/0210/125166566",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_153130.png",
+        "timestamp": "2025-09-12 15:31:43",
+        "item": "image_20250912_153130.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/supreme-court-bans-clicking-photos-making-reels-in-its-high-security-zone/0700/125166544",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_143012.png",
         "timestamp": "2025-09-12 14:30:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_053033.png",
         "timestamp": "2025-09-12 05:30:41",
         "item": "image_20250912_053033.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125166381",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_043020.png",
-        "timestamp": "2025-09-12 04:30:28",
-        "item": "image_20250912_043020.png"
     }
 ]
