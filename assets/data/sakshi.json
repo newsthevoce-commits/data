@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/naukri-september-2025-report-employee-investment-behavior-youth-finance",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_113239.png",
+        "timestamp": "2025-09-12 11:32:49",
+        "item": "image_20250912_113239.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/india-welcoming-global-companies-test-their-products-2562811",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_103032.png",
         "timestamp": "2025-09-12 10:30:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_012905.png",
         "timestamp": "2025-09-12 01:29:15",
         "item": "image_20250912_012905.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/guest-columns/sakshi-guest-column-nepal-very-difficult-situation-2561889",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_213104.png",
-        "timestamp": "2025-09-11 21:31:16",
-        "item": "image_20250911_213104.png"
     }
 ]
