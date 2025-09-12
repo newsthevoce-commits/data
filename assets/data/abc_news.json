@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-12/manhunt-underway-for-charlie-kirk-trump-ally-shot-and-killed/105765746",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_042815.png",
+        "timestamp": "2025-09-12 04:28:27",
+        "item": "image_20250912_042815.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-11/fbi-says-charlie-kirk-search-continues-weapon-found/105764588",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_182859.png",
         "timestamp": "2025-09-11 18:29:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_172917.png",
         "timestamp": "2025-09-09 17:29:31",
         "item": "image_20250909_172917.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-09/australians-with-us-e3-working-visas-hit-with-new-rules/105752706",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250909_082730.png",
-        "timestamp": "2025-09-09 08:27:41",
-        "item": "image_20250909_082730.png"
     }
 ]
