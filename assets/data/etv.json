@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/centre-and-states-to-earn-rs-40000-cr-in-gst-if-all-97-lakh-polluting-vehicles-scrapped/0101/125166606",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_192803.png",
+        "timestamp": "2025-09-12 19:28:11",
+        "item": "image_20250912_192803.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/declining-interest-among-fans-in-the-asia-cup/0400/125166616",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_191935.png",
         "timestamp": "2025-09-12 19:19:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_113030.png",
         "timestamp": "2025-09-12 11:30:38",
         "item": "image_20250912_113030.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/what-if-you-fail-to-file-itr-by-due-date-september-15/0103/125165942",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_092815.png",
-        "timestamp": "2025-09-12 09:28:27",
-        "item": "image_20250912_092815.png"
     }
 ]
