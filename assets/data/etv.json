@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/road-accident-in-karnataka-8-people-killed/0300/125166637",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_232845.png",
+        "timestamp": "2025-09-12 23:28:53",
+        "item": "image_20250912_232845.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/centre-and-states-to-earn-rs-40000-cr-in-gst-if-all-97-lakh-polluting-vehicles-scrapped/0101/125166606",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_212837.png",
         "timestamp": "2025-09-12 21:28:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_143012.png",
         "timestamp": "2025-09-12 14:30:27",
         "item": "image_20250912_143012.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/commissioner-ranganath-responds-to-yakutpura-incident/1801/125166542",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_132938.png",
-        "timestamp": "2025-09-12 13:29:54",
-        "item": "image_20250912_132938.png"
     }
 ]
