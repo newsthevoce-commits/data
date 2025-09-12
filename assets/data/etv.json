@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/huge-revenue-for-the-transport-department-with-fancy-numbers/1801/125166622",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_173124.png",
+        "timestamp": "2025-09-12 17:31:38",
+        "item": "image_20250912_173124.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/kishkindhapuri-team-press-meet-bellamkonda-sai-srinivas/0210/125166566",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_153130.png",
         "timestamp": "2025-09-12 15:31:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_062814.png",
         "timestamp": "2025-09-12 06:28:26",
         "item": "image_20250912_062814.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125166368",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_053033.png",
-        "timestamp": "2025-09-12 05:30:41",
-        "item": "image_20250912_053033.png"
     }
 ]
