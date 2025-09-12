@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125166368",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_053033.png",
+        "timestamp": "2025-09-12 05:30:41",
+        "item": "image_20250912_053033.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125166381",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_043020.png",
         "timestamp": "2025-09-12 04:30:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_163015.png",
         "timestamp": "2025-09-11 16:30:36",
         "item": "image_20250911_163015.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/openais-sam-altman-breaks-silence-on-whistleblower-suchir-balajis-death/0101/125165823",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_152940.png",
-        "timestamp": "2025-09-11 15:29:49",
-        "item": "image_20250911_152940.png"
     }
 ]
