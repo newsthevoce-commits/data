@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/big-deal-to-impose-tariffs-on-india-says-trump/0800/125167022",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_012838.png",
+        "timestamp": "2025-09-13 01:28:46",
+        "item": "image_20250913_012838.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/road-accident-in-karnataka-8-people-killed/0300/125166637",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_232845.png",
         "timestamp": "2025-09-12 23:28:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_153130.png",
         "timestamp": "2025-09-12 15:31:43",
         "item": "image_20250912_153130.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/supreme-court-bans-clicking-photos-making-reels-in-its-high-security-zone/0700/125166544",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_143012.png",
-        "timestamp": "2025-09-12 14:30:27",
-        "item": "image_20250912_143012.png"
     }
 ]
