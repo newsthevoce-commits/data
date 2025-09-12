@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/ram-gopal-varma-tweet-about-latest-tollywood-film-mirai-2562858",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_133245.png",
+        "timestamp": "2025-09-12 13:33:02",
+        "item": "image_20250912_133245.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/does-vice-president-india-get-salary-heres-look-perks-and-pension-2562840",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_123135.png",
         "timestamp": "2025-09-12 12:31:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_043222.png",
         "timestamp": "2025-09-12 04:32:33",
         "item": "image_20250912_043222.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/telangana-bjp-president-ramchander-rao-comments-congress-govt-2562079",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_023107.png",
-        "timestamp": "2025-09-12 02:31:21",
-        "item": "image_20250912_023107.png"
     }
 ]
