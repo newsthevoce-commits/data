@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/government-marks-scam-mbbs-annual-exams-2563321",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_023001.png",
+        "timestamp": "2025-09-13 02:30:11",
+        "item": "image_20250913_023001.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/sebi-board-clears-ipo-rule-relaxations-new-norms-foreign-investors-2563302",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_013033.png",
         "timestamp": "2025-09-13 01:30:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_143221.png",
         "timestamp": "2025-09-12 14:32:32",
         "item": "image_20250912_143221.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/ram-gopal-varma-tweet-about-latest-tollywood-film-mirai-2562858",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_133245.png",
-        "timestamp": "2025-09-12 13:33:02",
-        "item": "image_20250912_133245.png"
     }
 ]
