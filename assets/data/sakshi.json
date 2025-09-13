@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ins-fires-chandrababu-govt-harassment-over-sakshi-media-2563898",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_232959.png",
+        "timestamp": "2025-09-13 23:30:08",
+        "item": "image_20250913_232959.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/editorial/sakshi-editorial-chandrababu-govt-neglect-public-health-2563887",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_213053.png",
         "timestamp": "2025-09-13 21:31:04",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_123124.png",
         "timestamp": "2025-09-13 12:31:41",
         "item": "image_20250913_123124.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/vaikha-rose-playing-lions-shares-video-2563819",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_113036.png",
-        "timestamp": "2025-09-13 11:30:49",
-        "item": "image_20250913_113036.png"
     }
 ]
