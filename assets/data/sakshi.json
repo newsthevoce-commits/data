@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/theft-tirumala-temple-hundi-2563677",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_063121.png",
+        "timestamp": "2025-09-13 06:31:32",
+        "item": "image_20250913_063121.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/actor-rajendra-prasad-about-nenevaru-movie-2563661",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_053002.png",
         "timestamp": "2025-09-13 05:30:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_203001.png",
         "timestamp": "2025-09-12 20:30:15",
         "item": "image_20250912_203001.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/renu-desai-strong-reply-netizen-comments-her-2562909",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_183010.png",
-        "timestamp": "2025-09-12 18:30:24",
-        "item": "image_20250912_183010.png"
     }
 ]
