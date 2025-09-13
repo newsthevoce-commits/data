@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/regina-cassandra-want-lead-role-telugu-movie-2563767",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_093356.png",
+        "timestamp": "2025-09-13 09:34:14",
+        "item": "image_20250913_093356.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/historic-day-aizawl-says-pm-modi-2563749",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_083035.png",
         "timestamp": "2025-09-13 08:30:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_002928.png",
         "timestamp": "2025-09-13 00:29:40",
         "item": "image_20250913_002928.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/retail-inflation-rises-marginally-2-07percent-august-2025-2562920",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_222852.png",
-        "timestamp": "2025-09-12 22:29:05",
-        "item": "image_20250912_222852.png"
     }
 ]
