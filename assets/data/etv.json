@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/manoj-bajpayee-takes-a-dig-on-national-crush-tag/0201/125167208",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_073131.png",
+        "timestamp": "2025-09-13 07:31:45",
+        "item": "image_20250913_073131.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/man-acquitted-in-2006-mumbai-blast-case-seeks-9-crores-for-custodial-torture/0700/125167195",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_062921.png",
         "timestamp": "2025-09-13 06:29:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_202807.png",
         "timestamp": "2025-09-12 20:28:17",
         "item": "image_20250912_202807.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/centre-and-states-to-earn-rs-40000-cr-in-gst-if-all-97-lakh-polluting-vehicles-scrapped/0101/125166606",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_192803.png",
-        "timestamp": "2025-09-12 19:28:11",
-        "item": "image_20250912_192803.png"
     }
 ]
