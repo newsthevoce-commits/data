@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-13/Chinese-envoy-stresses-counter-terrorism-in-Syria-chemical-weapons-1GCQHBaoSxG/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_042757.png",
+        "timestamp": "2025-09-13 04:28:06",
+        "item": "image_20250913_042757.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-12/Xi-s-special-envoy-to-attend-PNG-s-50th-independence-anniversary-event-1GBOBwIJhxC/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_152830.png",
         "timestamp": "2025-09-12 15:28:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_072721.png",
         "timestamp": "2025-09-10 07:27:35",
         "item": "image_20250910_072721.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-08/China-s-outward-investment-rose-by-8-4-in-2024-1Gv81tLM9gI/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250908_152759.png",
-        "timestamp": "2025-09-08 15:28:08",
-        "item": "image_20250908_152759.png"
     }
 ]
