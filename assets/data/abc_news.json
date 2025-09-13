@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-13/erika-kirk-pays-tribute-to-late-husband-charlie-kirk/105770008",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_092832.png",
+        "timestamp": "2025-09-13 09:28:52",
+        "item": "image_20250913_092832.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-13/tyler-robinson-charlie-kirks-alleged-killer/105769710",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_072929.png",
         "timestamp": "2025-09-13 07:29:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_082757.png",
         "timestamp": "2025-09-11 08:28:14",
         "item": "image_20250911_082757.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-11/charlie-kirk-shot-utah-university-event/105418226",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_073918.png",
-        "timestamp": "2025-09-11 07:39:32",
-        "item": "image_20250911_073918.png"
     }
 ]
