@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/varshotsav-4-music-event-in-jawaharlal-nehru-fine-arts-university-hyderabad/1801/125167393",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_202758.png",
+        "timestamp": "2025-09-13 20:28:06",
+        "item": "image_20250913_202758.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/shock-confusion-zardari-aide-recalls-fallout-of-osama-killing-in-new-book/0800/125167390",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_194737.png",
         "timestamp": "2025-09-13 19:47:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_102811.png",
         "timestamp": "2025-09-13 10:28:23",
         "item": "image_20250913_102811.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/direction-for-sir-at-regular-interval-encroaches-upon-ecs-exclusive-jurisdiction-poll-panel-to-sc/0700/125167235",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_093059.png",
-        "timestamp": "2025-09-13 09:31:12",
-        "item": "image_20250913_093059.png"
     }
 ]
