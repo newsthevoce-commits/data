@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/karnataka-news/702/125167017",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_022807.png",
+        "timestamp": "2025-09-13 02:28:16",
+        "item": "image_20250913_022807.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/big-deal-to-impose-tariffs-on-india-says-trump/0800/125167022",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_012838.png",
         "timestamp": "2025-09-13 01:28:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_173124.png",
         "timestamp": "2025-09-12 17:31:38",
         "item": "image_20250912_173124.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/kishkindhapuri-team-press-meet-bellamkonda-sai-srinivas/0210/125166566",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_153130.png",
-        "timestamp": "2025-09-12 15:31:43",
-        "item": "image_20250912_153130.png"
     }
 ]
