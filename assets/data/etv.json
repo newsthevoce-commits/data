@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/direction-for-sir-at-regular-interval-encroaches-upon-ecs-exclusive-jurisdiction-poll-panel-to-sc/0700/125167235",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_093059.png",
+        "timestamp": "2025-09-13 09:31:12",
+        "item": "image_20250913_093059.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/suspected-symptoms-of-melioidosis-in-kothareddypalem-too/1701/125167217",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_082838.png",
         "timestamp": "2025-09-13 08:28:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_232845.png",
         "timestamp": "2025-09-12 23:28:53",
         "item": "image_20250912_232845.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/centre-and-states-to-earn-rs-40000-cr-in-gst-if-all-97-lakh-polluting-vehicles-scrapped/0101/125166606",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_212837.png",
-        "timestamp": "2025-09-12 21:28:47",
-        "item": "image_20250912_212837.png"
     }
 ]
