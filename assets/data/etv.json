@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/hul-slashes-prices-from-september-22/0101/125167276",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_112840.png",
+        "timestamp": "2025-09-13 11:28:48",
+        "item": "image_20250913_112840.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/spin-attack-is-main-factor-coming-india-vs-pakistan-match/0400/125167257",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_102811.png",
         "timestamp": "2025-09-13 10:28:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_022807.png",
         "timestamp": "2025-09-13 02:28:16",
         "item": "image_20250913_022807.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/big-deal-to-impose-tariffs-on-india-says-trump/0800/125167022",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_012838.png",
-        "timestamp": "2025-09-13 01:28:46",
-        "item": "image_20250913_012838.png"
     }
 ]
