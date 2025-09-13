@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/anurag-thakur-explains-why-india-is-playing-the-match-against-pakistan/0400/125167287",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_122923.png",
+        "timestamp": "2025-09-13 12:29:34",
+        "item": "image_20250913_122923.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/hul-slashes-prices-from-september-22/0101/125167276",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_112840.png",
         "timestamp": "2025-09-13 11:28:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_033004.png",
         "timestamp": "2025-09-13 03:30:12",
         "item": "image_20250913_033004.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/karnataka-news/702/125167017",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_022807.png",
-        "timestamp": "2025-09-13 02:28:16",
-        "item": "image_20250913_022807.png"
     }
 ]
