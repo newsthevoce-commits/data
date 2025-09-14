@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125167428",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_042915.png",
+        "timestamp": "2025-09-14 04:29:28",
+        "item": "image_20250914_042915.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125167856",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_032755.png",
         "timestamp": "2025-09-14 03:28:03",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_182821.png",
         "timestamp": "2025-09-13 18:28:33",
         "item": "image_20250913_182821.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/nepal-election-will-be-held-on-march-5-says-president-office/0800/125167357",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_162807.png",
-        "timestamp": "2025-09-13 16:28:15",
-        "item": "image_20250913_162807.png"
     }
 ]
