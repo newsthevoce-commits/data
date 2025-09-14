@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/telangana-govt-hold-talks-with-private-education-institutions/1801/125168074",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_223014.png",
+        "timestamp": "2025-09-14 22:30:34",
+        "item": "image_20250914_223014.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/suryakumar-dedicates-india-win-over-pakistan-to-pahalgam-victims/0400/125168061",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_213210.png",
         "timestamp": "2025-09-14 21:32:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_122826.png",
         "timestamp": "2025-09-14 12:28:35",
         "item": "image_20250914_122826.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/husband-attacked-wife-with-blade-in-nagole/0300/125167937",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_112824.png",
-        "timestamp": "2025-09-14 11:28:41",
-        "item": "image_20250914_112824.png"
     }
 ]
