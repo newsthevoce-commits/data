@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-news/11/125167819",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_062901.png",
+        "timestamp": "2025-09-14 06:29:12",
+        "item": "image_20250914_062901.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/political-leaders-tirumala-darshan/1701/125167878",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_052801.png",
         "timestamp": "2025-09-14 05:28:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_194737.png",
         "timestamp": "2025-09-13 19:47:46",
         "item": "image_20250913_194737.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/tvk-chief-actor-politician-vijays-first-poll-campaign-address-lost-in-audio-glitch/0700/125167389",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_192802.png",
-        "timestamp": "2025-09-13 19:28:10",
-        "item": "image_20250913_192802.png"
     }
 ]
