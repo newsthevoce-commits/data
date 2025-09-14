@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/political-leaders-tirumala-darshan/1701/125167878",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_052801.png",
+        "timestamp": "2025-09-14 05:28:09",
+        "item": "image_20250914_052801.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125167428",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_042915.png",
         "timestamp": "2025-09-14 04:29:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_192802.png",
         "timestamp": "2025-09-13 19:28:10",
         "item": "image_20250913_192802.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/case-against-congress-over-ai-video-mocking-pm-modi-and-his-mother/0700/125167381",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_182821.png",
-        "timestamp": "2025-09-13 18:28:33",
-        "item": "image_20250913_182821.png"
     }
 ]
