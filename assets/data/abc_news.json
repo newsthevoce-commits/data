@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-14/dezi-freeman-porepunkah-shooting-search-new-zealand-travellers/105771638",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_072826.png",
+        "timestamp": "2025-09-14 07:28:36",
+        "item": "image_20250914_072826.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-14/perth-dam-remains-low-despite-the-wettest-winter-in-30-years/105767386",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_022756.png",
         "timestamp": "2025-09-14 02:28:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_082814.png",
         "timestamp": "2025-09-12 08:28:25",
         "item": "image_20250912_082814.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-12/manhunt-underway-for-charlie-kirk-trump-ally-shot-and-killed/105765746",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_042815.png",
-        "timestamp": "2025-09-12 04:28:27",
-        "item": "image_20250912_042815.png"
     }
 ]
