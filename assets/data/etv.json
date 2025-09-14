@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/australia-women-team-won-by-8-wkts-aganist-inida/0400/125167992",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_172824.png",
+        "timestamp": "2025-09-14 17:28:38",
+        "item": "image_20250914_172824.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/ed-summons-to-urvashi-rautela-mimi-chakraborthy/0201/125168002",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_152804.png",
         "timestamp": "2025-09-14 15:28:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_073013.png",
         "timestamp": "2025-09-14 07:30:25",
         "item": "image_20250914_073013.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-news/11/125167819",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_062901.png",
-        "timestamp": "2025-09-14 06:29:12",
-        "item": "image_20250914_062901.png"
     }
 ]
