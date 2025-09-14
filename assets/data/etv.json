@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/woman-jumps-to-death-with-mentally-ill-son/0300/125167909",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_092824.png",
+        "timestamp": "2025-09-14 09:28:36",
+        "item": "image_20250914_092824.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/satya-kumar-speech-in-vizag/1701/125167908",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_082823.png",
         "timestamp": "2025-09-14 08:28:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_232801.png",
         "timestamp": "2025-09-13 23:28:09",
         "item": "image_20250913_232801.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-september-14th-2025-sunday-in-telugu/0700/125167402",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_212901.png",
-        "timestamp": "2025-09-13 21:29:09",
-        "item": "image_20250913_212901.png"
     }
 ]
