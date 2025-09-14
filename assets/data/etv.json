@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/husband-attacked-wife-with-blade-in-nagole/0300/125167937",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_112824.png",
+        "timestamp": "2025-09-14 11:28:41",
+        "item": "image_20250914_112824.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/jp-nadda-speechin-vizag/1701/125167927",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_102853.png",
         "timestamp": "2025-09-14 10:29:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_022939.png",
         "timestamp": "2025-09-14 02:29:47",
         "item": "image_20250914_022939.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-father-of-a-young-woman-who-attempted-to-murder-a-young-man/704/125167503",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_002821.png",
-        "timestamp": "2025-09-14 00:28:33",
-        "item": "image_20250914_002821.png"
     }
 ]
