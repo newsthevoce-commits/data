@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-14/Wang-Yi-China-Europe-should-make-right-choices-amid-greatest-changes-1GEx0lO7cKA/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_042709.png",
+        "timestamp": "2025-09-14 04:27:18",
+        "item": "image_20250914_042709.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-13/Chinese-envoy-stresses-counter-terrorism-in-Syria-chemical-weapons-1GCQHBaoSxG/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_042757.png",
         "timestamp": "2025-09-13 04:28:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_112737.png",
         "timestamp": "2025-09-10 11:27:49",
         "item": "image_20250910_112737.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-10/China-Portugal-pledge-to-enhance-cooperation-safeguard-free-trade-1GxSAZlAVAk/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_072721.png",
-        "timestamp": "2025-09-10 07:27:35",
-        "item": "image_20250910_072721.png"
     }
 ]
