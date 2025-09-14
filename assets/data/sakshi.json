@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/cm-revanth-reddy-advice-legal-experts-krishna-waters-2564305",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_023132.png",
+        "timestamp": "2025-09-14 02:31:46",
+        "item": "image_20250914_023132.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/high-court-angry-collector-not-giving-land-ex-naxals-wife-2564287",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_012843.png",
         "timestamp": "2025-09-14 01:28:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_143013.png",
         "timestamp": "2025-09-13 14:30:32",
         "item": "image_20250913_143013.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/bollywood-movie-heer-express-movie-now-released-theaters-2563844",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_133026.png",
-        "timestamp": "2025-09-13 13:30:38",
-        "item": "image_20250913_133026.png"
     }
 ]
