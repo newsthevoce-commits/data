@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/samsung-galaxy-s25-fe-launched-in-india/0110/125168669",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_213301.png",
+        "timestamp": "2025-09-15 21:33:14",
+        "item": "image_20250915_213301.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/tribal-woman-gives-birth-on-road-in-cherla-mandal/1801/125168708",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_203025.png",
         "timestamp": "2025-09-15 20:30:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_102840.png",
         "timestamp": "2025-09-15 10:28:53",
         "item": "image_20250915_102840.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ayyannapatrudu-speech-in-tirupati-summit/1701/125168550",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_092835.png",
-        "timestamp": "2025-09-15 09:28:51",
-        "item": "image_20250915_092835.png"
     }
 ]
