@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/mauritius-prime-minister-reached-tirumala/1701/125168646",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_142926.png",
+        "timestamp": "2025-09-15 14:29:35",
+        "item": "image_20250915_142926.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/maruti-suzuki-swift-gets-cheaper-by-up-to-rs-1-lakh-under-gst-reform/0107/125168616",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_132922.png",
         "timestamp": "2025-09-15 13:29:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_223014.png",
         "timestamp": "2025-09-14 22:30:34",
         "item": "image_20250914_223014.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/suryakumar-dedicates-india-win-over-pakistan-to-pahalgam-victims/0400/125168061",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_213210.png",
-        "timestamp": "2025-09-14 21:32:29",
-        "item": "image_20250914_213210.png"
     }
 ]
