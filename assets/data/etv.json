@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ayyannapatrudu-speech-in-tirupati-summit/1701/125168550",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_092835.png",
+        "timestamp": "2025-09-15 09:28:51",
+        "item": "image_20250915_092835.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/central-zone-beat-south-zone-in-duleep-trophy-final/0400/125168537",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_082933.png",
         "timestamp": "2025-09-15 08:29:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_182828.png",
         "timestamp": "2025-09-14 18:28:44",
         "item": "image_20250914_182828.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/australia-women-team-won-by-8-wkts-aganist-inida/0400/125167992",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_172824.png",
-        "timestamp": "2025-09-14 17:28:38",
-        "item": "image_20250914_172824.png"
     }
 ]
