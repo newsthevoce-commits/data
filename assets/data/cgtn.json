@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-15/26-elected-as-new-legislators-of-Macao-SAR-preliminary-results-show-1GGd2hjXHS8/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061104.png",
+        "timestamp": "2025-09-15 06:11:13",
+        "item": "image_20250915_061104.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-14/Wang-Yi-China-Europe-should-make-right-choices-amid-greatest-changes-1GEx0lO7cKA/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_042709.png",
         "timestamp": "2025-09-14 04:27:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_162745.png",
         "timestamp": "2025-09-10 16:27:55",
         "item": "image_20250910_162745.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-10/China-condemns-Israel-s-attack-in-Qatar-as-violation-of-sovereignty-1GypvU6KAiA/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_112737.png",
-        "timestamp": "2025-09-10 11:27:49",
-        "item": "image_20250910_112737.png"
     }
 ]
