@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/husband-fulfills-wife-wish-by-getting-selected-for-ap-mega-dsc/1702/125168970",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_012826.png",
+        "timestamp": "2025-09-16 01:28:37",
+        "item": "image_20250916_012826.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/samsung-galaxy-s25-fe-launched-in-india/0110/125168669",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_213301.png",
         "timestamp": "2025-09-15 21:33:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_123015.png",
         "timestamp": "2025-09-15 12:30:26",
         "item": "image_20250915_123015.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/realme-p3-lite-5g-launched-in-india/0110/125168565",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_102840.png",
-        "timestamp": "2025-09-15 10:28:53",
-        "item": "image_20250915_102840.png"
     }
 ]
