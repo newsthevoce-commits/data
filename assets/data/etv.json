@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/china-terms-as-bullying-us-call-to-g7-and-nato-to-impose-tariffs-for-importing-russian-oil/0800/125168598",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_123015.png",
+        "timestamp": "2025-09-15 12:30:26",
+        "item": "image_20250915_123015.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/realme-p3-lite-5g-launched-in-india/0110/125168565",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_102840.png",
         "timestamp": "2025-09-15 10:28:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_202927.png",
         "timestamp": "2025-09-14 20:29:44",
         "item": "image_20250914_202927.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/young-men-trapped-in-honeytrap-brutally-attacked-by-psycho-couple/0300/125168044",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_192817.png",
-        "timestamp": "2025-09-14 19:28:36",
-        "item": "image_20250914_192817.png"
     }
 ]
