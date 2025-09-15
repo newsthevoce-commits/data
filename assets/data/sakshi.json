@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/vijayawada-womens-fight-free-bus-2565442",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061711.png",
+        "timestamp": "2025-09-15 06:17:27",
+        "item": "image_20250915_061711.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/patience-evidence-deep-trust-gods-sovereignty-2564758",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_213502.png",
         "timestamp": "2025-09-14 21:35:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_132954.png",
         "timestamp": "2025-09-14 13:30:04",
         "item": "image_20250914_132954.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/actress-sonarika-pregnancy-and-baby-bump-2564696",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_123011.png",
-        "timestamp": "2025-09-14 12:30:26",
-        "item": "image_20250914_123011.png"
     }
 ]
