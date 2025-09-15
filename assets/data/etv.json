@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/maruti-suzuki-swift-gets-cheaper-by-up-to-rs-1-lakh-under-gst-reform/0107/125168616",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_132922.png",
+        "timestamp": "2025-09-15 13:29:30",
+        "item": "image_20250915_132922.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/china-terms-as-bullying-us-call-to-g7-and-nato-to-impose-tariffs-for-importing-russian-oil/0800/125168598",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_123015.png",
         "timestamp": "2025-09-15 12:30:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_213210.png",
         "timestamp": "2025-09-14 21:32:29",
         "item": "image_20250914_213210.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/india-won-on-pakistan-in-asia-cup-2025-leauge--match/0400/125168046",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_202927.png",
-        "timestamp": "2025-09-14 20:29:44",
-        "item": "image_20250914_202927.png"
     }
 ]
