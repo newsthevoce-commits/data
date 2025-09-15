@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/nara-lokesh-congratulated-mega-dsc-winners/1701/125168518",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_072815.png",
+        "timestamp": "2025-09-15 07:28:26",
+        "item": "image_20250915_072815.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-cm-chandrababu-wishes-cricket-and-hockey-teams/1701/125168510",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_062724.png",
         "timestamp": "2025-09-15 06:27:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_152804.png",
         "timestamp": "2025-09-14 15:28:12",
         "item": "image_20250914_152804.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/ind-players-to-wear-black-armbands-against-pak/0400/125167987",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_142925.png",
-        "timestamp": "2025-09-14 14:29:38",
-        "item": "image_20250914_142925.png"
     }
 ]
