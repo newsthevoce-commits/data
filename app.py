@@ -5,14 +5,14 @@ import os
 
 app = Flask(__name__)
 CORS(app)  # ✅ enables CORS for all routes
-
+DATA_DIR = "/data"
 VOTES_FILE = 'votes.json'
 BB_FILE = 'biggbosspage.json'
 meta_home = 'meta_home.json'
 meta_bb = 'meta_bb.json'
 meta_news = 'meta_news.json'
 bigboss_contest = 'bigboss_contest.json'
-votes = 'vote_details.json'
+votes = os.path.join(DATA_DIR, "votes.json")
 
 
 # ---------------- File Utilities ------------------
