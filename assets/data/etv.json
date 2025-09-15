@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/central-zone-beat-south-zone-in-duleep-trophy-final/0400/125168537",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_082933.png",
+        "timestamp": "2025-09-15 08:29:46",
+        "item": "image_20250915_082933.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/nara-lokesh-congratulated-mega-dsc-winners/1701/125168518",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_072815.png",
         "timestamp": "2025-09-15 07:28:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_172824.png",
         "timestamp": "2025-09-14 17:28:38",
         "item": "image_20250914_172824.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/ed-summons-to-urvashi-rautela-mimi-chakraborthy/0201/125168002",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_152804.png",
-        "timestamp": "2025-09-14 15:28:12",
-        "item": "image_20250914_152804.png"
     }
 ]
