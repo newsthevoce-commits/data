@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/nfo-alert-mutual-funds-2565755",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_163145.png",
+        "timestamp": "2025-09-15 16:31:57",
+        "item": "image_20250915_163145.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/ritika-nayak-and-ananya-nagalla-latest-news-2565753",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_153119.png",
         "timestamp": "2025-09-15 15:31:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_073036.png",
         "timestamp": "2025-09-15 07:30:49",
         "item": "image_20250915_073036.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/vijayawada-womens-fight-free-bus-2565442",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061711.png",
-        "timestamp": "2025-09-15 06:17:27",
-        "item": "image_20250915_061711.png"
     }
 ]
