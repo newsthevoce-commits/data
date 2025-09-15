@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/ramesh-babu-says-we-are-calling-private-colleges-strike-2565773",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_203317.png",
+        "timestamp": "2025-09-15 20:33:42",
+        "item": "image_20250915_203317.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/21st-edition-uxindia-conference-set-take-hyderabad-2565771",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_190206.png",
         "timestamp": "2025-09-15 19:02:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_113046.png",
         "timestamp": "2025-09-15 11:30:58",
         "item": "image_20250915_113046.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/congress-foul-over-land-allotment-acharya-balkrishna-2565683",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_103127.png",
-        "timestamp": "2025-09-15 10:31:49",
-        "item": "image_20250915_103127.png"
     }
 ]
