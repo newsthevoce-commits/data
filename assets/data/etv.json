@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/realme-p3-lite-5g-launched-in-india/0110/125168565",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_102840.png",
+        "timestamp": "2025-09-15 10:28:53",
+        "item": "image_20250915_102840.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ayyannapatrudu-speech-in-tirupati-summit/1701/125168550",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_092835.png",
         "timestamp": "2025-09-15 09:28:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_192817.png",
         "timestamp": "2025-09-14 19:28:36",
         "item": "image_20250914_192817.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/asia-cup-2025-ind-vs-pak-match-pakistan-scores-127/0400/125168040",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_182828.png",
-        "timestamp": "2025-09-14 18:28:44",
-        "item": "image_20250914_182828.png"
     }
 ]
