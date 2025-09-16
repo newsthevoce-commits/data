@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-16/idf-launches-military-offensive-to-occupy-gaza/105777948",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_152848.png",
+        "timestamp": "2025-09-16 15:29:07",
+        "item": "image_20250916_152848.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-16/israel-committing-genocide-in-gaza-un-report-says/105780230",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_092737.png",
         "timestamp": "2025-09-16 09:27:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_222857.png",
         "timestamp": "2025-09-13 22:29:07",
         "item": "image_20250913_222857.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-13/albanese-announces-aukus-12-billion-dollar-defence-spend-perth/105770188",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250913_152803.png",
-        "timestamp": "2025-09-13 15:28:12",
-        "item": "image_20250913_152803.png"
     }
 ]
