@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/drug-control-officers-raids-telangana-2566782",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_173143.png",
+        "timestamp": "2025-09-16 17:31:56",
+        "item": "image_20250916_173143.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/indus-towers-and-iit-madras-join-forces-sustainable-infrastructure-2566770",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_153240.png",
         "timestamp": "2025-09-16 15:32:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_073034.png",
         "timestamp": "2025-09-16 07:30:46",
         "item": "image_20250916_073034.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/stock-market-updates-september-16th-2025-2566603",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_063106.png",
-        "timestamp": "2025-09-16 06:31:19",
-        "item": "image_20250916_063106.png"
     }
 ]
