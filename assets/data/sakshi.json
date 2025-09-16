@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/bihar-election-rjd-congress-clash-seat-sharing-formula-2565822",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_033030.png",
+        "timestamp": "2025-09-16 03:30:43",
+        "item": "image_20250916_033030.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/farmers-protest-over-urea-shortage-srikakulam-district-ap-2565806",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_022950.png",
         "timestamp": "2025-09-16 02:30:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_153119.png",
         "timestamp": "2025-09-15 15:31:36",
         "item": "image_20250915_153119.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/nri/ysr-foundation-conduct-mega-blood-donation-camp-2565729",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_143143.png",
-        "timestamp": "2025-09-15 14:31:56",
-        "item": "image_20250915_143143.png"
     }
 ]
