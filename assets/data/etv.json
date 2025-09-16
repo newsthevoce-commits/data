@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/general/0700/125169130",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_032822.png",
+        "timestamp": "2025-09-16 03:28:33",
+        "item": "image_20250916_032822.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/husband-fulfills-wife-wish-by-getting-selected-for-ap-mega-dsc/1702/125168970",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_012826.png",
         "timestamp": "2025-09-16 01:28:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_132922.png",
         "timestamp": "2025-09-15 13:29:30",
         "item": "image_20250915_132922.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/china-terms-as-bullying-us-call-to-g7-and-nato-to-impose-tariffs-for-importing-russian-oil/0800/125168598",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_123015.png",
-        "timestamp": "2025-09-15 12:30:26",
-        "item": "image_20250915_123015.png"
     }
 ]
