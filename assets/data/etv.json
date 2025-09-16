@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/odisha-news/703/125168767",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_043021.png",
+        "timestamp": "2025-09-16 04:30:32",
+        "item": "image_20250916_043021.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/general/0700/125169130",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_032822.png",
         "timestamp": "2025-09-16 03:28:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_142926.png",
         "timestamp": "2025-09-15 14:29:35",
         "item": "image_20250915_142926.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/maruti-suzuki-swift-gets-cheaper-by-up-to-rs-1-lakh-under-gst-reform/0107/125168616",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_132922.png",
-        "timestamp": "2025-09-15 13:29:30",
-        "item": "image_20250915_132922.png"
     }
 ]
