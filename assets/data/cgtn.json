@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-16/Hong-Kong-Zhuhai-Macao-Bridge-sees-90-mln-passenger-trips-since-2018-1GIfNpF7ZNS/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_112725.png",
+        "timestamp": "2025-09-16 11:27:36",
+        "item": "image_20250916_112725.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-15/Chinese-delegation-briefs-the-press-after-trade-talks-with-U-S-side-1GH1IlxBtYY/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_212731.png",
         "timestamp": "2025-09-15 21:27:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_073503.png",
         "timestamp": "2025-09-11 07:35:25",
         "item": "image_20250911_073503.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-10/Chinese-vice-premier-calls-to-reduce-service-trade-barriers-1GyGPjrusqA/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250910_172802.png",
-        "timestamp": "2025-09-10 17:28:11",
-        "item": "image_20250910_172802.png"
     }
 ]
