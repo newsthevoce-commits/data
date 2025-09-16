@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/action-will-be-taken-against-e-commerce-entities-using-dark-patterns/0101/125169420",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_182856.png",
+        "timestamp": "2025-09-16 18:29:06",
+        "item": "image_20250916_182856.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/special-story-drug-market-in-telangana/1802/125169076",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_153042.png",
         "timestamp": "2025-09-16 15:30:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_072824.png",
         "timestamp": "2025-09-16 07:28:36",
         "item": "image_20250916_072824.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/us-strikes-venezuelan-drug-vessel-trump-says-it-posed-a-threat/0800/125169236",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_062900.png",
-        "timestamp": "2025-09-16 06:29:10",
-        "item": "image_20250916_062900.png"
     }
 ]
