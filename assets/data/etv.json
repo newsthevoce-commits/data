@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/google-gemini-nano-banana-ai-saree-trend-leaves-woman-shocked/0110/125169289",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_102833.png",
+        "timestamp": "2025-09-16 10:28:45",
+        "item": "image_20250916_102833.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/parents-of-group-1-rankers-pressmeet/1801/125169277",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_093001.png",
         "timestamp": "2025-09-16 09:30:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_213301.png",
         "timestamp": "2025-09-15 21:33:14",
         "item": "image_20250915_213301.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/tribal-woman-gives-birth-on-road-in-cherla-mandal/1801/125168708",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_203025.png",
-        "timestamp": "2025-09-15 20:30:43",
-        "item": "image_20250915_203025.png"
     }
 ]
