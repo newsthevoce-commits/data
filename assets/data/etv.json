@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/bobby-deol-praises-aryan-khan-bads-of-bollywood/0201/125169347",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_132901.png",
+        "timestamp": "2025-09-16 13:29:11",
+        "item": "image_20250916_132901.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/i-get-out-of-breath-walking-up-the-stairs-these-days-admits-usain-bolt/0400/125169323",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_122935.png",
         "timestamp": "2025-09-16 12:29:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_043021.png",
         "timestamp": "2025-09-16 04:30:32",
         "item": "image_20250916_043021.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/general/0700/125169130",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_032822.png",
-        "timestamp": "2025-09-16 03:28:33",
-        "item": "image_20250916_032822.png"
     }
 ]
