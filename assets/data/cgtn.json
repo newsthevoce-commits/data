@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-16/China-urges-U-S-Japan-to-withdraw-Typhon-missile-system-deployment-1GIIC8AKuis/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_172759.png",
+        "timestamp": "2025-09-16 17:28:15",
+        "item": "image_20250916_172759.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-16/Chinese-vice-president-to-attend-opening-ceremony-of-China-ASEAN-Expo-1GIpgY8Rr44/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_122709.png",
         "timestamp": "2025-09-16 12:27:20",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_052726.png",
         "timestamp": "2025-09-12 05:27:39",
         "item": "image_20250912_052726.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-11/China-voices-opposition-to-Mexico-s-50-tariffs-on-Chinese-goods-1GA9Zfy9D3O/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250911_142808.png",
-        "timestamp": "2025-09-11 14:28:22",
-        "item": "image_20250911_142808.png"
     }
 ]
