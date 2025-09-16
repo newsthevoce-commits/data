@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/jr-ntr-latest-work-out-video-upcoming-movie-prashanth-neel-2566789",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_183056.png",
+        "timestamp": "2025-09-16 18:31:06",
+        "item": "image_20250916_183056.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/drug-control-officers-raids-telangana-2566782",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_173143.png",
         "timestamp": "2025-09-16 17:31:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_083002.png",
         "timestamp": "2025-09-16 08:30:15",
         "item": "image_20250916_083002.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/manchu-lakshmi-comments-her-debits-2566642",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_073034.png",
-        "timestamp": "2025-09-16 07:30:46",
-        "item": "image_20250916_073034.png"
     }
 ]
