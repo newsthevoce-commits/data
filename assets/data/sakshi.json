@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/sebi-clears-7-ipos-september-2025-update-2566391",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_053148.png",
+        "timestamp": "2025-09-16 05:31:59",
+        "item": "image_20250916_053148.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/bihar-election-rjd-congress-clash-seat-sharing-formula-2565822",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_033030.png",
         "timestamp": "2025-09-16 03:30:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_163145.png",
         "timestamp": "2025-09-15 16:31:57",
         "item": "image_20250915_163145.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/ritika-nayak-and-ananya-nagalla-latest-news-2565753",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_153119.png",
-        "timestamp": "2025-09-15 15:31:36",
-        "item": "image_20250915_153119.png"
     }
 ]
