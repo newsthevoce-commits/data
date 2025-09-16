@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/up-cm-yogi-adityanath-calls-disha-patani-family/0210/125169233",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_052943.png",
+        "timestamp": "2025-09-16 05:29:51",
+        "item": "image_20250916_052943.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/odisha-news/703/125168767",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_043021.png",
         "timestamp": "2025-09-16 04:30:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_152919.png",
         "timestamp": "2025-09-15 15:29:32",
         "item": "image_20250915_152919.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/mauritius-prime-minister-reached-tirumala/1701/125168646",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_142926.png",
-        "timestamp": "2025-09-15 14:29:35",
-        "item": "image_20250915_142926.png"
     }
 ]
