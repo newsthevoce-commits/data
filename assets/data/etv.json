@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/trump-sues-new-york-times-for-15bn-over-epstein-links-reports/0800/125169248",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_072824.png",
+        "timestamp": "2025-09-16 07:28:36",
+        "item": "image_20250916_072824.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/us-strikes-venezuelan-drug-vessel-trump-says-it-posed-a-threat/0800/125169236",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_062900.png",
         "timestamp": "2025-09-16 06:29:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_172925.png",
         "timestamp": "2025-09-15 17:29:37",
         "item": "image_20250915_172925.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/swiggy-has-a-new-delivery-app-called-toing-for-pune/0110/125168630",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_162955.png",
-        "timestamp": "2025-09-15 16:30:04",
-        "item": "image_20250915_162955.png"
     }
 ]
