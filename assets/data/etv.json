@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-fact-check-on-sri-mahavishnu-idol-near-alipiri-misinformation/1701/125169373",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_142759.png",
+        "timestamp": "2025-09-16 14:28:14",
+        "item": "image_20250916_142759.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/bobby-deol-praises-aryan-khan-bads-of-bollywood/0201/125169347",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_132901.png",
         "timestamp": "2025-09-16 13:29:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_052943.png",
         "timestamp": "2025-09-16 05:29:51",
         "item": "image_20250916_052943.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/odisha-news/703/125168767",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_043021.png",
-        "timestamp": "2025-09-16 04:30:32",
-        "item": "image_20250916_043021.png"
     }
 ]
