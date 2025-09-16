@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/international/bjp-targets-rahul-gandhi-over-afridi-positive-mindset-remark-2566794",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_193031.png",
+        "timestamp": "2025-09-16 19:30:41",
+        "item": "image_20250916_193031.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/jr-ntr-latest-work-out-video-upcoming-movie-prashanth-neel-2566789",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_183056.png",
         "timestamp": "2025-09-16 18:31:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_093234.png",
         "timestamp": "2025-09-16 09:32:52",
         "item": "image_20250916_093234.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/shanmukh-jaswanth-movie-premaku-namaskaram-title-announcement-video-2566660",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_083002.png",
-        "timestamp": "2025-09-16 08:30:15",
-        "item": "image_20250916_083002.png"
     }
 ]
