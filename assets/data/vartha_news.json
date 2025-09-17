@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/if-you-walk-for-an-hour-every-day/breaking-news/548687/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_083250.png",
+        "timestamp": "2025-09-17 08:33:01",
+        "item": "image_20250917_083250.png"
+    },
+    {
         "url": "https://vaartha.com/ntr-gym-pic/breaking-news/548657/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_073256.png",
         "timestamp": "2025-09-17 07:33:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_083101.png",
         "timestamp": "2025-09-16 08:31:13",
         "item": "image_20250916_083101.png"
-    },
-    {
-        "url": "https://vaartha.com/rasi-phalalu-today-16-september-2025/rasi-phalalu-today-horoscope/547855/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_073132.png",
-        "timestamp": "2025-09-16 07:31:44",
-        "item": "image_20250916_073132.png"
     }
 ]
