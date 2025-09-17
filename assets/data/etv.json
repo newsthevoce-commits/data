@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/healthy-fruits-for-diabetic-patients/1702/125169921",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_142910.png",
+        "timestamp": "2025-09-17 14:29:20",
+        "item": "image_20250917_142910.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/congress-holding-rally-to-save-infiltrators-amit-shah/0700/125170118",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_132959.png",
         "timestamp": "2025-09-17 13:30:07",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_052800.png",
         "timestamp": "2025-09-17 05:28:08",
         "item": "image_20250917_052800.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/trump-jeffrey-epstein-images-project-on-uk-visit/0800/125169996",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_043026.png",
-        "timestamp": "2025-09-17 04:30:37",
-        "item": "image_20250917_043026.png"
     }
 ]
