@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/veena-kumari-dermal-takes-charge-new-chief-post-master-general-telangan-2567757",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_083148.png",
+        "timestamp": "2025-09-17 08:32:00",
+        "item": "image_20250917_083148.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/brs-ktr-key-comments-sep-17th-telangana-bhavan-2567735",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_073149.png",
         "timestamp": "2025-09-17 07:32:02",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_232902.png",
         "timestamp": "2025-09-16 23:29:12",
         "item": "image_20250916_232902.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-17-09-2025-telugu-2566798",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_213103.png",
-        "timestamp": "2025-09-16 21:31:13",
-        "item": "image_20250916_213103.png"
     }
 ]
