@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/actress-mrunal-thakur-about-her-cloth-expenses-2567416",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_053016.png",
+        "timestamp": "2025-09-17 05:30:32",
+        "item": "image_20250917_053016.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/cc-camera-not-working-cyberabad-police-commissionerate-2567302",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_043237.png",
         "timestamp": "2025-09-17 04:32:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_193031.png",
         "timestamp": "2025-09-16 19:30:41",
         "item": "image_20250916_193031.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/jr-ntr-latest-work-out-video-upcoming-movie-prashanth-neel-2566789",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_183056.png",
-        "timestamp": "2025-09-16 18:31:06",
-        "item": "image_20250916_183056.png"
     }
 ]
