@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/international/palestinians-flee-gaza-city-israel-launches-major-ground-offensive",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_023025.png",
+        "timestamp": "2025-09-17 02:30:35",
+        "item": "image_20250917_023025.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/priyanka-arul-mohan-interview-about-og-2566810",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_012959.png",
         "timestamp": "2025-09-17 01:30:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_153240.png",
         "timestamp": "2025-09-16 15:32:52",
         "item": "image_20250916_153240.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/anand-kumar-velkumar-wins-indias-first-ever-gold-speed-skating-worlds-2566762",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_142958.png",
-        "timestamp": "2025-09-16 14:30:12",
-        "item": "image_20250916_142958.png"
     }
 ]
