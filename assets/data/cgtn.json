@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-17/Premier-Li-highlights-innovation-green-growth-in-Gansu-Qinghai-visit-1GJzhKPhCrS/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_042744.png",
+        "timestamp": "2025-09-17 04:27:53",
+        "item": "image_20250917_042744.png"
+    },
+    {
         "url": "https://newsaf.cgtn.com/news/2025-09-17/Chinese-FM-meets-with-Cambodian-deputy-PM-1GJ0LuvIYco/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_032741.png",
         "timestamp": "2025-09-17 03:27:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_152830.png",
         "timestamp": "2025-09-12 15:28:47",
         "item": "image_20250912_152830.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-12/Inside-CIFTIS-2025-From-handshakes-to-horizons-1GBvStvFE2s/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_112726.png",
-        "timestamp": "2025-09-12 11:27:38",
-        "item": "image_20250912_112726.png"
     }
 ]
