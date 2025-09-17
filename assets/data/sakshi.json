@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/brs-ktr-key-comments-sep-17th-telangana-bhavan-2567735",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_073149.png",
+        "timestamp": "2025-09-17 07:32:02",
+        "item": "image_20250917_073149.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/ash-robbery-mulapadu-high-tension-jogi-ramesh-house-latest-news-2567665",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_063035.png",
         "timestamp": "2025-09-17 06:30:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_213103.png",
         "timestamp": "2025-09-16 21:31:13",
         "item": "image_20250916_213103.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/hyderabad-woman-request-indian-external-affairs-minister-jaishankar-2566796",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_203106.png",
-        "timestamp": "2025-09-16 20:31:16",
-        "item": "image_20250916_203106.png"
     }
 ]
