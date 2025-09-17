@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/trump-jeffrey-epstein-images-project-on-uk-visit/0800/125169996",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_043026.png",
+        "timestamp": "2025-09-17 04:30:37",
+        "item": "image_20250917_043026.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125169767",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_033127.png",
         "timestamp": "2025-09-17 03:31:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_132901.png",
         "timestamp": "2025-09-16 13:29:11",
         "item": "image_20250916_132901.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/i-get-out-of-breath-walking-up-the-stairs-these-days-admits-usain-bolt/0400/125169323",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_122935.png",
-        "timestamp": "2025-09-16 12:29:43",
-        "item": "image_20250916_122935.png"
     }
 ]
