@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/kotha-rangula-prapancham-movie-ott-streaming-now-2567774",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_093244.png",
+        "timestamp": "2025-09-17 09:32:54",
+        "item": "image_20250917_093244.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/veena-kumari-dermal-takes-charge-new-chief-post-master-general-telangan-2567757",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_083148.png",
         "timestamp": "2025-09-17 08:32:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_002904.png",
         "timestamp": "2025-09-17 00:29:14",
         "item": "image_20250917_002904.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/indian-badminton-star-jwala-gutta-donates-breast-milk-save-premature-babies",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_232902.png",
-        "timestamp": "2025-09-16 23:29:12",
-        "item": "image_20250916_232902.png"
     }
 ]
