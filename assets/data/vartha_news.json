@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/big-fight-between-husband-and-wife-on-the-street/national/549206/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_163504.png",
+        "timestamp": "2025-09-17 16:35:19",
+        "item": "image_20250917_163504.png"
+    },
+    {
         "url": "https://vaartha.com/narendra-modi-modi-criticized-the-nizams-rule-in-his-own-style/news/politics/549097/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_153146.png",
         "timestamp": "2025-09-17 15:32:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_133205.png",
         "timestamp": "2025-09-16 13:32:16",
         "item": "image_20250916_133205.png"
-    },
-    {
-        "url": "https://vaartha.com/hardik-pandya-dating-a-model/breaking-news/548303/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_123218.png",
-        "timestamp": "2025-09-16 12:32:30",
-        "item": "image_20250916_123218.png"
     }
 ]
