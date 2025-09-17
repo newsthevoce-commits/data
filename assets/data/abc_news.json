@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-17/donald-trump-second-state-visit-uk-met-with-protests/105786186",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_162920.png",
+        "timestamp": "2025-09-17 16:29:33",
+        "item": "image_20250917_162920.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-17/president-donald-trump-and-hostile-relationship-with-media/105783964",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_092846.png",
         "timestamp": "2025-09-17 09:28:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061320.png",
         "timestamp": "2025-09-15 06:13:28",
         "item": "image_20250915_061320.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-15/exclusive-brethren-plymouth-alleged-abuse-nda-four-corners/105762208",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_212942.png",
-        "timestamp": "2025-09-14 21:29:57",
-        "item": "image_20250914_212942.png"
     }
 ]
