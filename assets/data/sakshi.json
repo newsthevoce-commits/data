@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/cm-revanth-telangana-education-policy-finalization-committee-meeting-2567873",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_233336.png",
+        "timestamp": "2025-09-17 23:33:50",
+        "item": "image_20250917_233336.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/england-beat-ireland-4-wickets-1st-t20i-2567865",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_183102.png",
         "timestamp": "2025-09-17 18:31:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_103101.png",
         "timestamp": "2025-09-17 10:31:10",
         "item": "image_20250917_103101.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/kotha-rangula-prapancham-movie-ott-streaming-now-2567774",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_093244.png",
-        "timestamp": "2025-09-17 09:32:54",
-        "item": "image_20250917_093244.png"
     }
 ]
