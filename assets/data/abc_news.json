@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-18/2035-climate-emissions-target-middle-path/105782220",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_232920.png",
+        "timestamp": "2025-09-17 23:29:35",
+        "item": "image_20250917_232920.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-17/donald-trump-second-state-visit-uk-met-with-protests/105786186",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_162920.png",
         "timestamp": "2025-09-17 16:29:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_185033.png",
         "timestamp": "2025-09-15 18:50:50",
         "item": "image_20250915_185033.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-15/climate-risk-assessment-sea-level-rise-2035-target/105765456",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061320.png",
-        "timestamp": "2025-09-15 06:13:28",
-        "item": "image_20250915_061320.png"
     }
 ]
