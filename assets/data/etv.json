@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/good-bad-ugly-taken-off-netflix-after-court-order/0201/125170019",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_072938.png",
+        "timestamp": "2025-09-17 07:29:46",
+        "item": "image_20250917_072938.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/manchu-manoj-about-telugu-film-industry/0210/125170006",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_062835.png",
         "timestamp": "2025-09-17 06:28:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_182856.png",
         "timestamp": "2025-09-16 18:29:06",
         "item": "image_20250916_182856.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/special-story-drug-market-in-telangana/1802/125169076",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_153042.png",
-        "timestamp": "2025-09-16 15:30:50",
-        "item": "image_20250916_153042.png"
     }
 ]
