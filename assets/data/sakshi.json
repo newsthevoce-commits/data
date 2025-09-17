@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/assam-scam-busted-nupur-bora-ex-husband-played-key-role-2567823",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_133203.png",
+        "timestamp": "2025-09-17 13:32:16",
+        "item": "image_20250917_133203.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/varun-chakravarthy-becomes-number-1-ranked-t20i-bowler-world-2567800",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_123045.png",
         "timestamp": "2025-09-17 12:30:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_043237.png",
         "timestamp": "2025-09-17 04:32:49",
         "item": "image_20250917_043237.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/andhra-pradesh-high-court-give-opportunity-choose-post-according-merit",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_033338.png",
-        "timestamp": "2025-09-17 03:33:49",
-        "item": "image_20250917_033338.png"
     }
 ]
