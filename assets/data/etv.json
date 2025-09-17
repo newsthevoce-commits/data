@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-high-court-fines-ap-council-chairman/1702/125169950",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_022814.png",
+        "timestamp": "2025-09-17 02:28:25",
+        "item": "image_20250917_022814.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/mrugesh-rathod-rides-into-guinness-world-records-on-the-worlds-highest-motorable-road/0700/125169379",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_212855.png",
         "timestamp": "2025-09-16 21:29:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_113001.png",
         "timestamp": "2025-09-16 11:30:09",
         "item": "image_20250916_113001.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/google-gemini-nano-banana-ai-saree-trend-leaves-woman-shocked/0110/125169289",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_102833.png",
-        "timestamp": "2025-09-16 10:28:45",
-        "item": "image_20250916_102833.png"
     }
 ]
