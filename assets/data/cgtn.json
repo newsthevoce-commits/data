@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://newsaf.cgtn.com/news/2025-09-17/Chinese-FM-meets-with-Cambodian-deputy-PM-1GJ0LuvIYco/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_032741.png",
+        "timestamp": "2025-09-17 03:27:51",
+        "item": "image_20250917_032741.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-16/China-urges-U-S-Japan-to-withdraw-Typhon-missile-system-deployment-1GIIC8AKuis/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_172759.png",
         "timestamp": "2025-09-16 17:28:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_112726.png",
         "timestamp": "2025-09-12 11:27:38",
         "item": "image_20250912_112726.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-11/CIFTIS-emerges-as-key-engine-for-China-s-high-quality-development-1GAqMbit9hC/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250912_052726.png",
-        "timestamp": "2025-09-12 05:27:39",
-        "item": "image_20250912_052726.png"
     }
 ]
