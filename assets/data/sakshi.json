@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/group1-row-tgpsc-approached-telangana-hc-division-bench-details-2567794",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_113040.png",
+        "timestamp": "2025-09-17 11:30:54",
+        "item": "image_20250917_113040.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/mla-komatireddy-raj-gopal-reddy-comments-jobs-telangana-2567788",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_103101.png",
         "timestamp": "2025-09-17 10:31:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_023025.png",
         "timestamp": "2025-09-17 02:30:35",
         "item": "image_20250917_023025.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/priyanka-arul-mohan-interview-about-og-2566810",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_012959.png",
-        "timestamp": "2025-09-17 01:30:10",
-        "item": "image_20250917_012959.png"
     }
 ]
