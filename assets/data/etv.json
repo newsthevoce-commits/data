@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/teacher-arranged-marriage-poor-girl-on-his-retirement-day/0700/125170076",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_112834.png",
+        "timestamp": "2025-09-17 11:28:42",
+        "item": "image_20250917_112834.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/send-a-few-behind-bars-supreme-court-on-farmers-burning-stubble/0700/125170044",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_102908.png",
         "timestamp": "2025-09-17 10:29:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_022814.png",
         "timestamp": "2025-09-17 02:28:25",
         "item": "image_20250917_022814.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/mrugesh-rathod-rides-into-guinness-world-records-on-the-worlds-highest-motorable-road/0700/125169379",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_212855.png",
-        "timestamp": "2025-09-16 21:29:06",
-        "item": "image_20250916_212855.png"
     }
 ]
