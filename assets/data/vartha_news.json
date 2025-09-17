@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/narendra-modi-modi-criticized-the-nizams-rule-in-his-own-style/news/politics/549097/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_153146.png",
+        "timestamp": "2025-09-17 15:32:00",
+        "item": "image_20250917_153146.png"
+    },
+    {
         "url": "https://vaartha.com/hyderabad-as-a-wireless-city-cm-revanth-reviews/breaking-news/549115/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_133305.png",
         "timestamp": "2025-09-17 13:33:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_123218.png",
         "timestamp": "2025-09-16 12:32:30",
         "item": "image_20250916_123218.png"
-    },
-    {
-        "url": "https://vaartha.com/icc-mohammed-siraj-wins-prestigious-icc-award/sports/548129/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_113303.png",
-        "timestamp": "2025-09-16 11:33:13",
-        "item": "image_20250916_113303.png"
     }
 ]
