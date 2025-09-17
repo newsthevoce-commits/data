@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/manchu-manoj-about-telugu-film-industry/0210/125170006",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_062835.png",
+        "timestamp": "2025-09-17 06:28:43",
+        "item": "image_20250917_062835.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125169585",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_052800.png",
         "timestamp": "2025-09-17 05:28:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_153042.png",
         "timestamp": "2025-09-16 15:30:50",
         "item": "image_20250916_153042.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-fact-check-on-sri-mahavishnu-idol-near-alipiri-misinformation/1701/125169373",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_142759.png",
-        "timestamp": "2025-09-16 14:28:14",
-        "item": "image_20250916_142759.png"
     }
 ]
