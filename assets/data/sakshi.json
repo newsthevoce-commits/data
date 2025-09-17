@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/varun-chakravarthy-becomes-number-1-ranked-t20i-bowler-world-2567800",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_123045.png",
+        "timestamp": "2025-09-17 12:30:57",
+        "item": "image_20250917_123045.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/group1-row-tgpsc-approached-telangana-hc-division-bench-details-2567794",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_113040.png",
         "timestamp": "2025-09-17 11:30:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_033338.png",
         "timestamp": "2025-09-17 03:33:49",
         "item": "image_20250917_033338.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/international/palestinians-flee-gaza-city-israel-launches-major-ground-offensive",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_023025.png",
-        "timestamp": "2025-09-17 02:30:35",
-        "item": "image_20250917_023025.png"
     }
 ]
