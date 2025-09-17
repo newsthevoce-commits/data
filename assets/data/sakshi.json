@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/mla-komatireddy-raj-gopal-reddy-comments-jobs-telangana-2567788",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_103101.png",
+        "timestamp": "2025-09-17 10:31:10",
+        "item": "image_20250917_103101.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/kotha-rangula-prapancham-movie-ott-streaming-now-2567774",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_093244.png",
         "timestamp": "2025-09-17 09:32:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_012959.png",
         "timestamp": "2025-09-17 01:30:10",
         "item": "image_20250917_012959.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/andhra-auto-runs-not-fuel-or-gas-mother-presence-2566807",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_002904.png",
-        "timestamp": "2025-09-17 00:29:14",
-        "item": "image_20250917_002904.png"
     }
 ]
