@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/5-uncapped-players-west-indies-announce-squad-nepal-hosein-lead-2568873",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_133201.png",
+        "timestamp": "2025-09-18 13:32:11",
+        "item": "image_20250918_133201.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/stock-market-closing-update-september-18th-2025-2568862",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_123148.png",
         "timestamp": "2025-09-18 12:31:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_043039.png",
         "timestamp": "2025-09-18 04:30:51",
         "item": "image_20250918_043039.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/falling-birth-rate-girls-2567914",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_033057.png",
-        "timestamp": "2025-09-18 03:31:08",
-        "item": "image_20250918_033057.png"
     }
 ]
