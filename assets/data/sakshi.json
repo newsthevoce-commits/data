@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/peddamma-talli-temple-palvancha-bhadradri-kothagudem-2568426",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_043039.png",
+        "timestamp": "2025-09-18 04:30:51",
+        "item": "image_20250918_043039.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/falling-birth-rate-girls-2567914",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_033057.png",
         "timestamp": "2025-09-18 03:31:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_153042.png",
         "timestamp": "2025-09-17 15:30:53",
         "item": "image_20250917_153042.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/sundarakanda-movie-ott-streaming-details-latest-2567836",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_143111.png",
-        "timestamp": "2025-09-17 14:31:22",
-        "item": "image_20250917_143111.png"
     }
 ]
