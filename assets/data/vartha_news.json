@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/afghanistan-won-the-toss/sports/549954/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_193048.png",
+        "timestamp": "2025-09-18 19:31:02",
+        "item": "image_20250918_193048.png"
+    },
+    {
         "url": "https://vaartha.com/anurag-thakur-slams-rahul-gandhi/national/549823/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_183234.png",
         "timestamp": "2025-09-18 18:32:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_233437.png",
         "timestamp": "2025-09-17 23:34:52",
         "item": "image_20250917_233437.png"
-    },
-    {
-        "url": "https://vaartha.com/especial-de-eclipse-solar/national/549207/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_183200.png",
-        "timestamp": "2025-09-17 18:32:12",
-        "item": "image_20250917_183200.png"
     }
 ]
