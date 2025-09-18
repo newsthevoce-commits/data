@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/us-revokes-visas-of-indian-business-executives/0800/125170858",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_162848.png",
+        "timestamp": "2025-09-18 16:28:56",
+        "item": "image_20250918_162848.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/mahavatar-narsimha-ott-release-date/0209/125170873",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_152851.png",
         "timestamp": "2025-09-18 15:28:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_072839.png",
         "timestamp": "2025-09-18 07:28:47",
         "item": "image_20250918_072839.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/fire-in-battery-manufacturing-industry/0300/125170730",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_062837.png",
-        "timestamp": "2025-09-18 06:28:45",
-        "item": "image_20250918_062837.png"
     }
 ]
