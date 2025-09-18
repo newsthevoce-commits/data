@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/distribution-of-mega-dsc-recruitment-documents-postponed/1701/125170739",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_072839.png",
+        "timestamp": "2025-09-18 07:28:47",
+        "item": "image_20250918_072839.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/fire-in-battery-manufacturing-industry/0300/125170730",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_062837.png",
         "timestamp": "2025-09-18 06:28:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_152833.png",
         "timestamp": "2025-09-17 15:28:42",
         "item": "image_20250917_152833.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/healthy-fruits-for-diabetic-patients/1702/125169921",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_142910.png",
-        "timestamp": "2025-09-17 14:29:20",
-        "item": "image_20250917_142910.png"
     }
 ]
