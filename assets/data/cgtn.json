@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-18/China-s-contribution-to-WWII-victory-under-valued-war-historian-1GLKvdlAIoM/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_132717.png",
+        "timestamp": "2025-09-18 13:27:28",
+        "item": "image_20250918_132717.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-18/UNGA-president-outlines-priorities-for-new-session-1GL7evaNNx6/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_052713.png",
         "timestamp": "2025-09-18 05:27:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_212731.png",
         "timestamp": "2025-09-15 21:27:48",
         "item": "image_20250915_212731.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-15/26-elected-as-new-legislators-of-Macao-SAR-preliminary-results-show-1GGd2hjXHS8/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061104.png",
-        "timestamp": "2025-09-15 06:11:13",
-        "item": "image_20250915_061104.png"
     }
 ]
