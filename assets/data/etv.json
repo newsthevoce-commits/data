@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/maruti-reduces-vehicle-prices-to-offer-gst-rate-cut-benefit-to-customers/0107/125170880",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_182916.png",
+        "timestamp": "2025-09-18 18:29:27",
+        "item": "image_20250918_182916.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/israel-minister-suggests-a-real-estate-bonanza-in-gaza-will-follow-the-war/0800/125170893",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_173019.png",
         "timestamp": "2025-09-18 17:30:31",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_092902.png",
         "timestamp": "2025-09-18 09:29:10",
         "item": "image_20250918_092902.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/global-community-must-ensure-let-jem-no-longer-exploit-afghan-territory-for-terror-activities-india/0700/125170749",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_083031.png",
-        "timestamp": "2025-09-18 08:30:49",
-        "item": "image_20250918_083031.png"
     }
 ]
