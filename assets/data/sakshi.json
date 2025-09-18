@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/asia-cup-2025-sri-lanka-won-afghanistan-six-wickets-2568929",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_213029.png",
+        "timestamp": "2025-09-18 21:30:47",
+        "item": "image_20250918_213029.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/customs-officials-seized-gold-worth-rs-3-crore-shamshabad-airport-2568926",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_203149.png",
         "timestamp": "2025-09-18 20:31:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_113033.png",
         "timestamp": "2025-09-18 11:30:45",
         "item": "image_20250918_113033.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-telugu-season-9-latest-promo-out-now-2568827",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_103047.png",
-        "timestamp": "2025-09-18 10:31:01",
-        "item": "image_20250918_103047.png"
     }
 ]
