@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/tamil-comedian-robo-shankar-passes-away/0201/125170928",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_192834.png",
+        "timestamp": "2025-09-18 19:28:42",
+        "item": "image_20250918_192834.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/maruti-reduces-vehicle-prices-to-offer-gst-rate-cut-benefit-to-customers/0107/125170880",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_182916.png",
         "timestamp": "2025-09-18 18:29:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_102837.png",
         "timestamp": "2025-09-18 10:28:45",
         "item": "image_20250918_102837.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/key-development-in-the-ap-liquor-scam-case/1701/125170762",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_092902.png",
-        "timestamp": "2025-09-18 09:29:10",
-        "item": "image_20250918_092902.png"
     }
 ]
