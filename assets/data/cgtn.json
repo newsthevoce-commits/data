@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-18/UNGA-president-outlines-priorities-for-new-session-1GL7evaNNx6/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_052713.png",
+        "timestamp": "2025-09-18 05:27:26",
+        "item": "image_20250918_052713.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-17/Chinese-VP-outlines-proposals-to-deepen-China-ASEAN-cooperation-1GJVCN4Mbio/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_092708.png",
         "timestamp": "2025-09-17 09:27:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250915_061104.png",
         "timestamp": "2025-09-15 06:11:13",
         "item": "image_20250915_061104.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-14/Wang-Yi-China-Europe-should-make-right-choices-amid-greatest-changes-1GEx0lO7cKA/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250914_042709.png",
-        "timestamp": "2025-09-14 04:27:18",
-        "item": "image_20250914_042709.png"
     }
 ]
