@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-18th-september-2025/0101/125170937",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_212833.png",
+        "timestamp": "2025-09-18 21:28:41",
+        "item": "image_20250918_212833.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/srilanka-won-by-6-wickets-on-afghanistan/0400/125170935",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_202945.png",
         "timestamp": "2025-09-18 20:29:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_122937.png",
         "timestamp": "2025-09-18 12:29:45",
         "item": "image_20250918_122937.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/anil-ravipudi-speech-at-kishkindhapuri-movie-success-meet/0201/125170784",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_112828.png",
-        "timestamp": "2025-09-18 11:28:36",
-        "item": "image_20250918_112828.png"
     }
 ]
