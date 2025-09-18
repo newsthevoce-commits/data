@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/customs-officials-seized-gold-worth-rs-3-crore-shamshabad-airport-2568926",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_203149.png",
+        "timestamp": "2025-09-18 20:31:59",
+        "item": "image_20250918_203149.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/my-restaurant-made-rs-50-said-kangana-ranaut-flood-victims-2568922",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_183127.png",
         "timestamp": "2025-09-18 18:31:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_103047.png",
         "timestamp": "2025-09-18 10:31:01",
         "item": "image_20250918_103047.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/why-countries-have-gold-reserves-and-top-8-countries-list-2568822",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_093104.png",
-        "timestamp": "2025-09-18 09:31:15",
-        "item": "image_20250918_093104.png"
     }
 ]
