@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/falling-birth-rate-girls-2567914",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_033057.png",
+        "timestamp": "2025-09-18 03:31:08",
+        "item": "image_20250918_033057.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/finance-ministry-notifies-new-central-gst-tax-rates-2567898",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_023109.png",
         "timestamp": "2025-09-18 02:31:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_143111.png",
         "timestamp": "2025-09-17 14:31:22",
         "item": "image_20250917_143111.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/assam-scam-busted-nupur-bora-ex-husband-played-key-role-2567823",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_133203.png",
-        "timestamp": "2025-09-17 13:32:16",
-        "item": "image_20250917_133203.png"
     }
 ]
