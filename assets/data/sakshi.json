@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/tvs-and-noise-launch-india-first-ev-smartwatch-integration-2568651",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_063035.png",
+        "timestamp": "2025-09-18 06:30:49",
+        "item": "image_20250918_063035.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/key-highlights-nidhi-khare-comments-ai-2568640",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_053124.png",
         "timestamp": "2025-09-18 05:31:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_173044.png",
         "timestamp": "2025-09-17 17:30:55",
         "item": "image_20250917_173044.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/saiyaara-top-place-netflix-global-non-english-film-debut-week-2567855",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_163406.png",
-        "timestamp": "2025-09-17 16:34:17",
-        "item": "image_20250917_163406.png"
     }
 ]
