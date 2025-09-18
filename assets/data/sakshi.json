@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/ap-speaker-ayyanna-did-it-again-2568696",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_073045.png",
+        "timestamp": "2025-09-18 07:30:59",
+        "item": "image_20250918_073045.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/tvs-and-noise-launch-india-first-ev-smartwatch-integration-2568651",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_063035.png",
         "timestamp": "2025-09-18 06:30:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_183102.png",
         "timestamp": "2025-09-17 18:31:12",
         "item": "image_20250917_183102.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/icc-informs-pcb-its-probe-cleared-pycroft-2567858",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_173044.png",
-        "timestamp": "2025-09-17 17:30:55",
-        "item": "image_20250917_173044.png"
     }
 ]
