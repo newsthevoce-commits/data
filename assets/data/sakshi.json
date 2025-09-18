@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/mohanlal-latest-movie-vrusshabha-official-teaser-out-now-2568911",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_163058.png",
+        "timestamp": "2025-09-18 16:31:11",
+        "item": "image_20250918_163058.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/sripuram-sri-ranganatha-swamy-temple-nagarkurnool-2568900",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_153058.png",
         "timestamp": "2025-09-18 15:31:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_073045.png",
         "timestamp": "2025-09-18 07:30:59",
         "item": "image_20250918_073045.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/tvs-and-noise-launch-india-first-ev-smartwatch-integration-2568651",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_063035.png",
-        "timestamp": "2025-09-18 06:30:49",
-        "item": "image_20250918_063035.png"
     }
 ]
