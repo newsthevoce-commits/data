@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/visakha-pilot-alertness-averted-accident-air-india-express-flight",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_143135.png",
+        "timestamp": "2025-09-18 14:31:45",
+        "item": "image_20250918_143135.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/5-uncapped-players-west-indies-announce-squad-nepal-hosein-lead-2568873",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_133201.png",
         "timestamp": "2025-09-18 13:32:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_053124.png",
         "timestamp": "2025-09-18 05:31:43",
         "item": "image_20250918_053124.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/peddamma-talli-temple-palvancha-bhadradri-kothagudem-2568426",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_043039.png",
-        "timestamp": "2025-09-18 04:30:51",
-        "item": "image_20250918_043039.png"
     }
 ]
