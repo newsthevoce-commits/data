@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/ambani-family-at-the-bads-of-bollywood-premiere/0201/125170720",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_042839.png",
+        "timestamp": "2025-09-18 04:28:48",
+        "item": "image_20250918_042839.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/general/0101/125170358",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_032900.png",
         "timestamp": "2025-09-18 03:29:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_122838.png",
         "timestamp": "2025-09-17 12:28:46",
         "item": "image_20250917_122838.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/teacher-arranged-marriage-poor-girl-on-his-retirement-day/0700/125170076",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_112834.png",
-        "timestamp": "2025-09-17 11:28:42",
-        "item": "image_20250917_112834.png"
     }
 ]
