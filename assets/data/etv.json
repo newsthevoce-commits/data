@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/fire-in-battery-manufacturing-industry/0300/125170730",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_062837.png",
+        "timestamp": "2025-09-18 06:28:45",
+        "item": "image_20250918_062837.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/medak-news/533/125170726",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_052919.png",
         "timestamp": "2025-09-18 05:29:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_142910.png",
         "timestamp": "2025-09-17 14:29:20",
         "item": "image_20250917_142910.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/congress-holding-rally-to-save-infiltrators-amit-shah/0700/125170118",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_132959.png",
-        "timestamp": "2025-09-17 13:30:07",
-        "item": "image_20250917_132959.png"
     }
 ]
