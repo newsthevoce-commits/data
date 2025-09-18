@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/key-highlights-nidhi-khare-comments-ai-2568640",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_053124.png",
+        "timestamp": "2025-09-18 05:31:43",
+        "item": "image_20250918_053124.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/peddamma-talli-temple-palvancha-bhadradri-kothagudem-2568426",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_043039.png",
         "timestamp": "2025-09-18 04:30:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_163406.png",
         "timestamp": "2025-09-17 16:34:17",
         "item": "image_20250917_163406.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/indw-vs-ausw-2nd-odi-though-after-mandhana-smashed-blasting-hundred-team-india",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_153042.png",
-        "timestamp": "2025-09-17 15:30:53",
-        "item": "image_20250917_153042.png"
     }
 ]
