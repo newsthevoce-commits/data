@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/earthquake-in-russia-and-indonesia/0800/125171358",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_022839.png",
+        "timestamp": "2025-09-19 02:28:47",
+        "item": "image_20250919_022839.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-18th-september-2025/0101/125170937",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_212833.png",
         "timestamp": "2025-09-18 21:28:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_133006.png",
         "timestamp": "2025-09-18 13:30:14",
         "item": "image_20250918_133006.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/cm-revanth-reddy-meets-british-high-commissioner-lindy-cameron/1801/125170801",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_122937.png",
-        "timestamp": "2025-09-18 12:29:45",
-        "item": "image_20250918_122937.png"
     }
 ]
