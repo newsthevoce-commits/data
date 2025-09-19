@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/ind-vs-aus-1st-unofficial-test-india-declares-531-aus-get-lead-2569932",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_133439.png",
+        "timestamp": "2025-09-19 13:35:01",
+        "item": "image_20250919_133439.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/apollo-hospitals-celebrates-42-years-healing-and-hope-2569908",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_113125.png",
         "timestamp": "2025-09-19 11:31:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_023047.png",
         "timestamp": "2025-09-19 02:30:59",
         "item": "image_20250919_023047.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/ankit-koyya-about-beauty-movie-2569364",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_002826.png",
-        "timestamp": "2025-09-19 00:28:44",
-        "item": "image_20250919_002826.png"
     }
 ]
