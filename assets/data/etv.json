@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/discussions-with-the-ts-govt-successful-arogyasri-services-as-usual/1801/125171681",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_203025.png",
+        "timestamp": "2025-09-19 20:30:34",
+        "item": "image_20250919_203025.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/bonda-uma-comments-are-threatening-deputy-cm-pawan/1701/125171675",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_192907.png",
         "timestamp": "2025-09-19 19:29:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_103123.png",
         "timestamp": "2025-09-19 10:31:36",
         "item": "image_20250919_103123.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/deputy-cm-pawan-kalyan-speech-on-single-use-plastic-in-assembly/1701/125171527",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_093118.png",
-        "timestamp": "2025-09-19 09:31:28",
-        "item": "image_20250919_093118.png"
     }
 ]
