@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/bhumana-karunakar-reddy-police-investigation-ends/1701/125171669",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_182913.png",
+        "timestamp": "2025-09-19 18:29:28",
+        "item": "image_20250919_182913.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/three-ysrcp-mlcs-join-tdp/1701/125171638",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_162832.png",
         "timestamp": "2025-09-19 16:28:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_082945.png",
         "timestamp": "2025-09-19 08:29:53",
         "item": "image_20250919_082945.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/dunith-wellalage-learns-of-father-death-after-asia-cup-match-against-afghan/0400/125171495",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_072939.png",
-        "timestamp": "2025-09-19 07:29:54",
-        "item": "image_20250919_072939.png"
     }
 ]
