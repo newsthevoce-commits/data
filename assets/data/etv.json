@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/general/0700/125171411",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_052842.png",
+        "timestamp": "2025-09-19 05:28:50",
+        "item": "image_20250919_052842.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125171307",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_042809.png",
         "timestamp": "2025-09-19 04:28:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_162848.png",
         "timestamp": "2025-09-18 16:28:56",
         "item": "image_20250918_162848.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/mahavatar-narsimha-ott-release-date/0209/125170873",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_152851.png",
-        "timestamp": "2025-09-18 15:28:59",
-        "item": "image_20250918_152851.png"
     }
 ]
