@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://newsus.cgtn.com/news/2025-09-20/Xi-says-China-U-S-can-achieve-mutual-success-shared-prosperity-1GO0CF6XAHu/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_012713.png",
+        "timestamp": "2025-09-20 01:27:27",
+        "item": "image_20250920_012713.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-19/President-Xi-congratulates-China-Zhi-Gong-Party-on-founding-centenary-1GN8Gdow5IA/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_172836.png",
         "timestamp": "2025-09-19 17:28:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_042744.png",
         "timestamp": "2025-09-17 04:27:53",
         "item": "image_20250917_042744.png"
-    },
-    {
-        "url": "https://newsaf.cgtn.com/news/2025-09-17/Chinese-FM-meets-with-Cambodian-deputy-PM-1GJ0LuvIYco/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_032741.png",
-        "timestamp": "2025-09-17 03:27:51",
-        "item": "image_20250917_032741.png"
     }
 ]
