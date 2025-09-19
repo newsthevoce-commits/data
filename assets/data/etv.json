@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/dunith-wellalage-learns-of-father-death-after-asia-cup-match-against-afghan/0400/125171495",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_072939.png",
+        "timestamp": "2025-09-19 07:29:54",
+        "item": "image_20250919_072939.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/indian-stock-market-opened-with-losses-on-friday-19th-sep-2025/0101/125171489",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_062920.png",
         "timestamp": "2025-09-19 06:29:31",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_182916.png",
         "timestamp": "2025-09-18 18:29:27",
         "item": "image_20250918_182916.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/israel-minister-suggests-a-real-estate-bonanza-in-gaza-will-follow-the-war/0800/125170893",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_173019.png",
-        "timestamp": "2025-09-18 17:30:31",
-        "item": "image_20250918_173019.png"
     }
 ]
