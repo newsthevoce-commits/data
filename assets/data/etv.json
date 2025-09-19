@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125171307",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_042809.png",
+        "timestamp": "2025-09-19 04:28:18",
+        "item": "image_20250919_042809.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125171453",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_032855.png",
         "timestamp": "2025-09-19 03:29:03",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_152851.png",
         "timestamp": "2025-09-18 15:28:59",
         "item": "image_20250918_152851.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/special-story-on-pre-diabetes-and-how-to-prevent-prediabetes-turning-into-diabetes/1802/125170682",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_142917.png",
-        "timestamp": "2025-09-18 14:29:29",
-        "item": "image_20250918_142917.png"
     }
 ]
