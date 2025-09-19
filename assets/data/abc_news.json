@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-19/first-guardian-shield-collapse-asic-and-superannuation-flaws/105783328",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_062723.png",
+        "timestamp": "2025-09-19 06:27:37",
+        "item": "image_20250919_062723.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-19/what-did-donald-trumps-second-uk-state-visit-achieve/105791450",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_202755.png",
         "timestamp": "2025-09-18 20:28:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_152848.png",
         "timestamp": "2025-09-16 15:29:07",
         "item": "image_20250916_152848.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-16/israel-committing-genocide-in-gaza-un-report-says/105780230",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_092737.png",
-        "timestamp": "2025-09-16 09:27:56",
-        "item": "image_20250916_092737.png"
     }
 ]
