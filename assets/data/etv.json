@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/dy-speaker-raghu-rama-krishna-raju-fun-with-deputy-cm-pawan-kalyan/1702/125171953",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_013119.png",
+        "timestamp": "2025-09-20 01:31:30",
+        "item": "image_20250920_013119.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/arshdeep-singh-becomes-first-indian-bowler-to-reach-100-wickets-in-t20i/0400/125171713",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_222917.png",
         "timestamp": "2025-09-19 22:29:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_133047.png",
         "timestamp": "2025-09-19 13:31:06",
         "item": "image_20250919_133047.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/entry-of-other-arab-countries-in-pak-saudi-defence-pact-not-ruled-out/0800/125171551",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_122919.png",
-        "timestamp": "2025-09-19 12:29:28",
-        "item": "image_20250919_122919.png"
     }
 ]
