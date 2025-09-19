@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/there-is-no-drought-if-water-is-managed-efficiently-cm-chandrababu/1701/125171616",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_142921.png",
+        "timestamp": "2025-09-19 14:29:35",
+        "item": "image_20250919_142921.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/suryakumar-proper-rohit-replacement-as-india-t20i-captain-says-kaif/0400/125171586",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_133047.png",
         "timestamp": "2025-09-19 13:31:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_052842.png",
         "timestamp": "2025-09-19 05:28:50",
         "item": "image_20250919_052842.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125171307",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_042809.png",
-        "timestamp": "2025-09-19 04:28:18",
-        "item": "image_20250919_042809.png"
     }
 ]
