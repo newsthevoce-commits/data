@@ -1,6 +1,12 @@
 [
     {
         "url": "https://news.cgtn.com/news/2025-09-19/President-Xi-congratulates-China-Zhi-Gong-Party-on-founding-centenary-1GN8Gdow5IA/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_172836.png",
+        "timestamp": "2025-09-19 17:28:48",
+        "item": "image_20250919_172836.png"
+    },
+    {
+        "url": "https://news.cgtn.com/news/2025-09-19/President-Xi-congratulates-China-Zhi-Gong-Party-on-founding-centenary-1GN8Gdow5IA/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_102724.png",
         "timestamp": "2025-09-19 10:27:37",
         "item": "image_20250919_102724.png"
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_032741.png",
         "timestamp": "2025-09-17 03:27:51",
         "item": "image_20250917_032741.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-16/China-urges-U-S-Japan-to-withdraw-Typhon-missile-system-deployment-1GIIC8AKuis/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_172759.png",
-        "timestamp": "2025-09-16 17:28:15",
-        "item": "image_20250916_172759.png"
     }
 ]
