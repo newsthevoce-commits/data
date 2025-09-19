@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-19/Dong-Jun-calls-for-more-just-equitable-global-security-governance-1GMS6UZD7Ak/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_082720.png",
+        "timestamp": "2025-09-19 08:27:34",
+        "item": "image_20250919_082720.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-18/Xi-s-special-envoy-attends-PNG-s-50th-independence-anniversary-events-1GM6AjqiIne/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_012739.png",
         "timestamp": "2025-09-19 01:27:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_122709.png",
         "timestamp": "2025-09-16 12:27:20",
         "item": "image_20250916_122709.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-16/Hong-Kong-Zhuhai-Macao-Bridge-sees-90-mln-passenger-trips-since-2018-1GIfNpF7ZNS/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_112725.png",
-        "timestamp": "2025-09-16 11:27:36",
-        "item": "image_20250916_112725.png"
     }
 ]
