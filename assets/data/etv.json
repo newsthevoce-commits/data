@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/entry-of-other-arab-countries-in-pak-saudi-defence-pact-not-ruled-out/0800/125171551",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_122919.png",
+        "timestamp": "2025-09-19 12:29:28",
+        "item": "image_20250919_122919.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ex-minister-somireddy-comments-on-jagan/1701/125171552",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_112918.png",
         "timestamp": "2025-09-19 11:29:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_032855.png",
         "timestamp": "2025-09-19 03:29:03",
         "item": "image_20250919_032855.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/earthquake-in-russia-and-indonesia/0800/125171358",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_022839.png",
-        "timestamp": "2025-09-19 02:28:47",
-        "item": "image_20250919_022839.png"
     }
 ]
