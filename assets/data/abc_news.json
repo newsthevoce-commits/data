@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-19/optus-network-failure-three-people-dead-triple-zero/105796226",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_102933.png",
+        "timestamp": "2025-09-19 10:29:42",
+        "item": "image_20250919_102933.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-19/seven-charged-dau-akueng-chol-achiek-cobblebank-stabbing-deaths/105792860",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_092916.png",
         "timestamp": "2025-09-19 09:29:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_032916.png",
         "timestamp": "2025-09-17 03:29:27",
         "item": "image_20250917_032916.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-17/donald-trump-john-lyons-exchange-before-anthony-albanese-meeting/105781624",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250916_222817.png",
-        "timestamp": "2025-09-16 22:28:28",
-        "item": "image_20250916_222817.png"
     }
 ]
