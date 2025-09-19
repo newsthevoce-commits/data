@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/ghaati-movie-shooting-location-effect-tourists-2569793",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_053050.png",
+        "timestamp": "2025-09-19 05:31:00",
+        "item": "image_20250919_053050.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/international/massive-earthquake-tsunami-warning-russia-61-jolts-indonesia-updates",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_033059.png",
         "timestamp": "2025-09-19 03:31:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_163058.png",
         "timestamp": "2025-09-18 16:31:11",
         "item": "image_20250918_163058.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/sripuram-sri-ranganatha-swamy-temple-nagarkurnool-2568900",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_153058.png",
-        "timestamp": "2025-09-18 15:31:11",
-        "item": "image_20250918_153058.png"
     }
 ]
