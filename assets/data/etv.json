@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ed-searches-in-ap-liquor-scam-case/1701/125171626",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_152851.png",
+        "timestamp": "2025-09-19 15:29:01",
+        "item": "image_20250919_152851.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/there-is-no-drought-if-water-is-managed-efficiently-cm-chandrababu/1701/125171616",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_142921.png",
         "timestamp": "2025-09-19 14:29:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_062920.png",
         "timestamp": "2025-09-19 06:29:31",
         "item": "image_20250919_062920.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/general/0700/125171411",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_052842.png",
-        "timestamp": "2025-09-19 05:28:50",
-        "item": "image_20250919_052842.png"
     }
 ]
