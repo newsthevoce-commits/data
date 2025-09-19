@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/arshdeep-singh-becomes-first-indian-bowler-to-reach-100-wickets-in-t20i/0400/125171713",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_222917.png",
+        "timestamp": "2025-09-19 22:29:32",
+        "item": "image_20250919_222917.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/over-70pc-of-gen-z-losing-sleep-over-financial-stress/0800/125171673",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_213026.png",
         "timestamp": "2025-09-19 21:30:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_122919.png",
         "timestamp": "2025-09-19 12:29:28",
         "item": "image_20250919_122919.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ex-minister-somireddy-comments-on-jagan/1701/125171552",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_112918.png",
-        "timestamp": "2025-09-19 11:29:28",
-        "item": "image_20250919_112918.png"
     }
 ]
