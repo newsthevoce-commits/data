@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/pentala-aarnav-reddy-shines-asian-open-track-speed-skating-championship-2569879",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_093325.png",
+        "timestamp": "2025-09-19 09:33:42",
+        "item": "image_20250919_093325.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/setback-virasam-varavara-rao-supreme-court-2569868",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_083159.png",
         "timestamp": "2025-09-19 08:32:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_213029.png",
         "timestamp": "2025-09-18 21:30:47",
         "item": "image_20250918_213029.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/customs-officials-seized-gold-worth-rs-3-crore-shamshabad-airport-2568926",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_203149.png",
-        "timestamp": "2025-09-18 20:31:59",
-        "item": "image_20250918_203149.png"
     }
 ]
