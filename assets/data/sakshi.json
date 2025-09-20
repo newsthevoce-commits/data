@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/eenadu-yellow-media-false-propaganda-ys-bharathi-reddy-2571423",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_003006.png",
+        "timestamp": "2025-09-21 00:30:25",
+        "item": "image_20250921_003006.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-21-09-2025-2571271",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_233059.png",
         "timestamp": "2025-09-20 23:31:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_223148.png",
         "timestamp": "2025-09-19 22:32:03",
         "item": "image_20250919_223148.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/asia-first-woman-train-driver-surekha-yadav-retired-2569985",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_213308.png",
-        "timestamp": "2025-09-19 21:33:30",
-        "item": "image_20250919_213308.png"
     }
 ]
