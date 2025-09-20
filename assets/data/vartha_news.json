@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/og-movie-shriya-reddys-first-look-from-og-released/movies/551136/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_180400.png",
+        "timestamp": "2025-09-20 18:04:19",
+        "item": "image_20250920_180400.png"
+    },
+    {
         "url": "https://vaartha.com/paid-liquor-rs-15-85-lakh-non-duty-paid-liquor-seized/hyderabad/550744/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_083844.png",
         "timestamp": "2025-09-20 08:39:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_063240.png",
         "timestamp": "2025-09-19 06:32:54",
         "item": "image_20250919_063240.png"
-    },
-    {
-        "url": "https://vaartha.com/afghanistan-won-the-toss/sports/549954/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_193048.png",
-        "timestamp": "2025-09-18 19:31:02",
-        "item": "image_20250918_193048.png"
     }
 ]
