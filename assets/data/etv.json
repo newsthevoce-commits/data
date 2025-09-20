@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/special-schemes-to-empower-women-economically-minister-seethakka/1801/125172272",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_093249.png",
+        "timestamp": "2025-09-20 09:33:05",
+        "item": "image_20250920_093249.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/irctc-shirdi-tour-package-full-details/0105/125171575",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_083410.png",
         "timestamp": "2025-09-20 08:34:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_152851.png",
         "timestamp": "2025-09-19 15:29:01",
         "item": "image_20250919_152851.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/there-is-no-drought-if-water-is-managed-efficiently-cm-chandrababu/1701/125171616",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_142921.png",
-        "timestamp": "2025-09-19 14:29:35",
-        "item": "image_20250919_142921.png"
     }
 ]
