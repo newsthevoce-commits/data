@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/paduthatheeya-selections-for-the-new-age-group-8-to-14-years/0210/125172289",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_102931.png",
+        "timestamp": "2025-09-20 10:29:52",
+        "item": "image_20250920_102931.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/special-schemes-to-empower-women-economically-minister-seethakka/1801/125172272",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_093249.png",
         "timestamp": "2025-09-20 09:33:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_162832.png",
         "timestamp": "2025-09-19 16:28:42",
         "item": "image_20250919_162832.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ed-searches-in-ap-liquor-scam-case/1701/125171626",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_152851.png",
-        "timestamp": "2025-09-19 15:29:01",
-        "item": "image_20250919_152851.png"
     }
 ]
