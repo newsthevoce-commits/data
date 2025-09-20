@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/flipkart-launches-ai-powered-exchange-program-2571008",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_183243.png",
+        "timestamp": "2025-09-20 18:32:58",
+        "item": "image_20250920_183243.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/itlu-mee-yedava-movie-glimpse-2571006",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_180230.png",
         "timestamp": "2025-09-20 18:02:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_183146.png",
         "timestamp": "2025-09-19 18:32:01",
         "item": "image_20250919_183146.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/ys-jagan-fires-chandrababu-government-2569974",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_173347.png",
-        "timestamp": "2025-09-19 17:34:00",
-        "item": "image_20250919_173347.png"
     }
 ]
