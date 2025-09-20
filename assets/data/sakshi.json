@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/pm-modi-gujarat-inauguration-bhavnagar-lothal-national-maritime-heritage",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_093637.png",
+        "timestamp": "2025-09-20 09:36:58",
+        "item": "image_20250920_093637.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/world-transplant-games-varun-anand-gold-medal-gift-mother-2570847",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_083715.png",
         "timestamp": "2025-09-20 08:37:39",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_153115.png",
         "timestamp": "2025-09-19 15:31:34",
         "item": "image_20250919_153115.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/sam-pitroda-says-i-feel-home-pakistan-2569950",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_143132.png",
-        "timestamp": "2025-09-19 14:31:52",
-        "item": "image_20250919_143132.png"
     }
 ]
