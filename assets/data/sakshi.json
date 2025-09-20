@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/cm-revanth-reddy-bathukamma-kanuka-telangana-women-2570928",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_103330.png",
+        "timestamp": "2025-09-20 10:33:55",
+        "item": "image_20250920_103330.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/pm-modi-gujarat-inauguration-bhavnagar-lothal-national-maritime-heritage",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_093637.png",
         "timestamp": "2025-09-20 09:36:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_163114.png",
         "timestamp": "2025-09-19 16:31:40",
         "item": "image_20250919_163114.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/ghmc-electrical-engineers-under-telangana-cmo-scanner-2569959",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_153115.png",
-        "timestamp": "2025-09-19 15:31:34",
-        "item": "image_20250919_153115.png"
     }
 ]
