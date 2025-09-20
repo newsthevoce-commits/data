@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/mea-over-restrictions-to-the-us-h1b-visa-program/0700/125172395",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_213204.png",
+        "timestamp": "2025-09-20 21:32:20",
+        "item": "image_20250920_213204.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/bangladesh-won-by-4-wickets-on-srilank/0400/125172427",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_202815.png",
         "timestamp": "2025-09-20 20:28:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_213026.png",
         "timestamp": "2025-09-19 21:30:42",
         "item": "image_20250919_213026.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/discussions-with-the-ts-govt-successful-arogyasri-services-as-usual/1801/125171681",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_203025.png",
-        "timestamp": "2025-09-19 20:30:34",
-        "item": "image_20250919_203025.png"
     }
 ]
