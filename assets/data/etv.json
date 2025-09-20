@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/goyal-to-visit-us-for-trade-talks-on-sep-22/0700/125172417",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_192924.png",
+        "timestamp": "2025-09-20 19:29:42",
+        "item": "image_20250920_192924.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/srilanka-set-a-169-runs-target-for-bangladesh/0400/125172418",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_183002.png",
         "timestamp": "2025-09-20 18:30:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_192907.png",
         "timestamp": "2025-09-19 19:29:17",
         "item": "image_20250919_192907.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/bhumana-karunakar-reddy-police-investigation-ends/1701/125171669",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_182913.png",
-        "timestamp": "2025-09-19 18:29:28",
-        "item": "image_20250919_182913.png"
     }
 ]
