@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/mithun-manas-filing-nomination-for-president-post/0400/125173018",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_153454.png",
+        "timestamp": "2025-09-21 15:35:16",
+        "item": "image_20250921_153454.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/moneylender-murdered-in-proddatur/0300/125173030",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_143234.png",
         "timestamp": "2025-09-21 14:32:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_052842.png",
         "timestamp": "2025-09-21 05:28:54",
         "item": "image_20250921_052842.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/trump-warns-afganithan-on-bagram-air-base/0800/125172925",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_043012.png",
-        "timestamp": "2025-09-21 04:30:29",
-        "item": "image_20250921_043012.png"
     }
 ]
