@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/general/0101/125172550",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_062922.png",
+        "timestamp": "2025-09-21 06:29:41",
+        "item": "image_20250921_062922.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/who-are-the-celebrities-who-registered-their-assets-in-the-parakamani-case/1702/125172847",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_052842.png",
         "timestamp": "2025-09-21 05:28:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_183002.png",
         "timestamp": "2025-09-20 18:30:12",
         "item": "image_20250920_183002.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/paduthatheeya-selections-for-the-new-age-group-8-to-14-years/0210/125172289",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_102931.png",
-        "timestamp": "2025-09-20 10:29:52",
-        "item": "image_20250920_102931.png"
     }
 ]
