@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-21/NW-China-s-Silk-Road-expo-promotes-cross-cultural-exchange-1GQIAUYXj3i/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_142843.png",
+        "timestamp": "2025-09-21 14:29:08",
+        "item": "image_20250921_142843.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-21/Experts-hail-China-proposed-Global-Governance-Initiative-at-seminars-1GQrH6I43QY/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_092749.png",
         "timestamp": "2025-09-21 09:28:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_092708.png",
         "timestamp": "2025-09-17 09:27:18",
         "item": "image_20250917_092708.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-17/Chinese-VP-meets-ASEAN-leaders-attending-22nd-China-ASEAN-Expo-1GJrIqoTdEk/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_072719.png",
-        "timestamp": "2025-09-17 07:27:31",
-        "item": "image_20250917_072719.png"
     }
 ]
