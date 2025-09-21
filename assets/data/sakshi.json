@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/pm-narendra-modi-will-address-nation-5pm-today-2571880",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_093638.png",
+        "timestamp": "2025-09-21 09:36:56",
+        "item": "image_20250921_093638.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-buggana-rajendranath-key-comments-polavaram-project-2571867",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_083548.png",
         "timestamp": "2025-09-21 08:36:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_233059.png",
         "timestamp": "2025-09-20 23:31:14",
         "item": "image_20250920_233059.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-21-09-2025-telugu-2571016",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_213540.png",
-        "timestamp": "2025-09-20 21:36:07",
-        "item": "image_20250920_213540.png"
     }
 ]
