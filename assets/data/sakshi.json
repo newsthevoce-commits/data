@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/guidelines-devotees-visiting-tirumala-sri-venkateswara-temple-2571758",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_043302.png",
+        "timestamp": "2025-09-21 04:33:19",
+        "item": "image_20250921_043302.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/organized-flexi-staffing-employ-9-million-2025-2571697",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_033332.png",
         "timestamp": "2025-09-21 03:34:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_103330.png",
         "timestamp": "2025-09-20 10:33:55",
         "item": "image_20250920_103330.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/pm-modi-gujarat-inauguration-bhavnagar-lothal-national-maritime-heritage",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_093637.png",
-        "timestamp": "2025-09-20 09:36:58",
-        "item": "image_20250920_093637.png"
     }
 ]
