@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-21/Experts-hail-China-proposed-Global-Governance-Initiative-at-seminars-1GQrH6I43QY/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_092749.png",
+        "timestamp": "2025-09-21 09:28:06",
+        "item": "image_20250921_092749.png"
+    },
+    {
         "url": "https://newsus.cgtn.com/news/2025-09-20/Xi-says-China-U-S-can-achieve-mutual-success-shared-prosperity-1GO0CF6XAHu/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_012713.png",
         "timestamp": "2025-09-20 01:27:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_072719.png",
         "timestamp": "2025-09-17 07:27:31",
         "item": "image_20250917_072719.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-17/Premier-Li-highlights-innovation-green-growth-in-Gansu-Qinghai-visit-1GJzhKPhCrS/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250917_042744.png",
-        "timestamp": "2025-09-17 04:27:53",
-        "item": "image_20250917_042744.png"
     }
 ]
