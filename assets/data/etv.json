@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/moneylender-murdered-in-proddatur/0300/125173030",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_143234.png",
+        "timestamp": "2025-09-21 14:32:56",
+        "item": "image_20250921_143234.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/dulquer-salmaan-react-on-lokah-ott-news/0201/125173002",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_133035.png",
         "timestamp": "2025-09-21 13:30:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_043012.png",
         "timestamp": "2025-09-21 04:30:29",
         "item": "image_20250921_043012.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/how-tigers-establish-and-defend-their-territory/1702/125172793",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_033031.png",
-        "timestamp": "2025-09-21 03:30:53",
-        "item": "image_20250921_033031.png"
     }
 ]
