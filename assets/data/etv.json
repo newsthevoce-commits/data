@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/og-movie-ticket-price-is-rs130-thousand/0201/125173000",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_122912.png",
+        "timestamp": "2025-09-21 12:29:30",
+        "item": "image_20250921_122912.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/festival-and-wedding-trips-canceled-on-h1b-visa-fees-hike-announce/0800/125172964",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_112829.png",
         "timestamp": "2025-09-21 11:28:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_022804.png",
         "timestamp": "2025-09-21 02:28:16",
         "item": "image_20250921_022804.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-september-21st-2025-sunday-in-telugu/0700/125172446",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_222827.png",
-        "timestamp": "2025-09-20 22:28:37",
-        "item": "image_20250920_222827.png"
     }
 ]
