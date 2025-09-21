@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/true-colors-rs-128-cr-public-issue-open-tuesday-2571767",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_053146.png",
+        "timestamp": "2025-09-21 05:32:15",
+        "item": "image_20250921_053146.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/guidelines-devotees-visiting-tirumala-sri-venkateswara-temple-2571758",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_043302.png",
         "timestamp": "2025-09-21 04:33:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_180230.png",
         "timestamp": "2025-09-20 18:02:54",
         "item": "image_20250920_180230.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/cm-revanth-reddy-bathukamma-kanuka-telangana-women-2570928",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_103330.png",
-        "timestamp": "2025-09-20 10:33:55",
-        "item": "image_20250920_103330.png"
     }
 ]
