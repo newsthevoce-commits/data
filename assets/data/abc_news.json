@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-21/baby-death-unlikely-caused-by-optus-outage-police-say/105798926",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_082802.png",
+        "timestamp": "2025-09-21 08:28:20",
+        "item": "image_20250921_082802.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-21/hospital-logjam-blamed-for-delays-to-cancer-surgeries/105724218",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_032826.png",
         "timestamp": "2025-09-21 03:28:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_092916.png",
         "timestamp": "2025-09-19 09:29:27",
         "item": "image_20250919_092916.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-19/first-guardian-shield-collapse-asic-and-superannuation-flaws/105783328",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_062723.png",
-        "timestamp": "2025-09-19 06:27:37",
-        "item": "image_20250919_062723.png"
     }
 ]
