@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/rekha-gupta-mocked-arvind-kejriwal/0700/125173683",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_132819.png",
+        "timestamp": "2025-09-22 13:28:34",
+        "item": "image_20250922_132819.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-lokesh-meets-deputy-cm-pawan-kalyan/1701/125173687",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_130020.png",
         "timestamp": "2025-09-22 13:00:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_083057.png",
         "timestamp": "2025-09-21 08:31:17",
         "item": "image_20250921_083057.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/general/0101/125172550",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_062922.png",
-        "timestamp": "2025-09-21 06:29:41",
-        "item": "image_20250921_062922.png"
     }
 ]
