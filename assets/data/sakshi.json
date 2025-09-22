@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/big-blow-captain-temba-bavuma-ruled-out-south-africa-test-series-vs-pak-2572856",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_130335.png",
+        "timestamp": "2025-09-22 13:03:52",
+        "item": "image_20250922_130335.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/tamanna-remuneration-bads-bollywood-movie-2571930",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_163415.png",
         "timestamp": "2025-09-21 16:34:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_053146.png",
         "timestamp": "2025-09-21 05:32:15",
         "item": "image_20250921_053146.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/guidelines-devotees-visiting-tirumala-sri-venkateswara-temple-2571758",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_043302.png",
-        "timestamp": "2025-09-21 04:33:19",
-        "item": "image_20250921_043302.png"
     }
 ]
