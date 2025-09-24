@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/og-movie-review-in-telugu/0203/125175196",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_002923.png",
+        "timestamp": "2025-09-25 00:29:40",
+        "item": "image_20250925_002923.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/drug-addicted-person-killed-in-rapha-rehabilitation-centre-in-miyapur/0300/125175285",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_222932.png",
         "timestamp": "2025-09-24 22:29:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133451.png",
         "timestamp": "2025-09-24 13:35:00",
         "item": "image_20250924_133451.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/yuvraj-singh-appears-before-ed-in-online-betting-app-case/0400/125174331",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_103114.png",
-        "timestamp": "2025-09-23 10:31:40",
-        "item": "image_20250923_103114.png"
     }
 ]
