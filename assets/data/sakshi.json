@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-25-09-2025-telugu-2574807",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_223254.png",
+        "timestamp": "2025-09-24 22:33:13",
+        "item": "image_20250924_223254.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/india-beat-bangladesh-asia-cup-2025-super-4-match-2574801",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_213401.png",
         "timestamp": "2025-09-24 21:34:22",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_163348.png",
         "timestamp": "2025-09-22 16:34:17",
         "item": "image_20250922_163348.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-house-heated-arguments-nominations-2572884",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_153644.png",
-        "timestamp": "2025-09-22 15:37:25",
-        "item": "image_20250922_153644.png"
     }
 ]
