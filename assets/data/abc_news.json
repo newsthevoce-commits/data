@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-25/new-samoa-prime-minister-election/105789496",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_012901.png",
+        "timestamp": "2025-09-25 01:29:15",
+        "item": "image_20250925_012901.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-25/uts-investigation-into-sexual-harassment-gender-policies/105811036",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_212857.png",
         "timestamp": "2025-09-24 21:29:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_032826.png",
         "timestamp": "2025-09-21 03:28:37",
         "item": "image_20250921_032826.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-21/antinatalism-child-free-climate-change-human-suffering-baby/105695328",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250920_212915.png",
-        "timestamp": "2025-09-20 21:29:42",
-        "item": "image_20250920_212915.png"
     }
 ]
