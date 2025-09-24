@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/drug-addicted-person-killed-in-rapha-rehabilitation-centre-in-miyapur/0300/125175285",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_222932.png",
+        "timestamp": "2025-09-24 22:29:45",
+        "item": "image_20250924_222932.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/telangana-group-1-final-results-announced/1701/125175252",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_213120.png",
         "timestamp": "2025-09-24 21:31:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_103114.png",
         "timestamp": "2025-09-23 10:31:40",
         "item": "image_20250923_103114.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/sc-questioned-tn-govts-plea-to-install-karunanidhi-statue/0700/125174321",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_093122.png",
-        "timestamp": "2025-09-23 09:31:38",
-        "item": "image_20250923_093122.png"
     }
 ]
