@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-24/Xi-visits-exhibition-marking-Xinjiang-Uygur-Autonomous-Region-s-anniv--1GVAgvP7j2w/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_132738.png",
+        "timestamp": "2025-09-24 13:27:49",
+        "item": "image_20250924_132738.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-22/China-tech-SME-loans-grow-by-20-yearly-2021-2025-central-bank-1GSmvOJBTC8/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_125039.png",
         "timestamp": "2025-09-22 12:51:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_132717.png",
         "timestamp": "2025-09-18 13:27:28",
         "item": "image_20250918_132717.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-18/UNGA-president-outlines-priorities-for-new-session-1GL7evaNNx6/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250918_052713.png",
-        "timestamp": "2025-09-18 05:27:26",
-        "item": "image_20250918_052713.png"
     }
 ]
