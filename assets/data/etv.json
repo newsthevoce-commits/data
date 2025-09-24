@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/cds-gen-anil-chauhan-tenure-extended-by-8-months/0700/125175236",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_192947.png",
+        "timestamp": "2025-09-24 19:29:56",
+        "item": "image_20250924_192947.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/2-dead-in-shooting-at-dallas-ice-facility-suspect-also-dead/0800/125175225",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_182959.png",
         "timestamp": "2025-09-24 18:30:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_163000.png",
         "timestamp": "2025-09-22 16:30:19",
         "item": "image_20250922_163000.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/ai-enabled-pothole-filling-machine-presentation-in-mp/0700/125173704",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_153259.png",
-        "timestamp": "2025-09-22 15:33:15",
-        "item": "image_20250922_153259.png"
     }
 ]
