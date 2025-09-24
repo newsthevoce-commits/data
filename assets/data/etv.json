@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/2-dead-in-shooting-at-dallas-ice-facility-suspect-also-dead/0800/125175225",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_182959.png",
+        "timestamp": "2025-09-24 18:30:09",
+        "item": "image_20250924_182959.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/congress-leaders-to-meet-22-observers-in-delhi-tomorrow/1801/125175216",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_172836.png",
         "timestamp": "2025-09-24 17:28:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_153259.png",
         "timestamp": "2025-09-22 15:33:15",
         "item": "image_20250922_153259.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/the-national-human-rights-commission-says-take-an-action-on-ranbir-kapoor/0201/125173703",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_143113.png",
-        "timestamp": "2025-09-22 14:31:41",
-        "item": "image_20250922_143113.png"
     }
 ]
