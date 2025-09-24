@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/rich-dad-poor-dad-robert-kiyosaki-portfolio-surges-40pc-2025-gold-silver",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_183309.png",
+        "timestamp": "2025-09-24 18:33:48",
+        "item": "image_20250924_183309.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/og-movie-director-sujeeth-full-details-and-wife-2574793",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_173127.png",
         "timestamp": "2025-09-24 17:32:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_143452.png",
         "timestamp": "2025-09-22 14:35:14",
         "item": "image_20250922_143452.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/ram-charan-sukumar-new-movie-lead-actress-finalised-2572866",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_133109.png",
-        "timestamp": "2025-09-22 13:31:29",
-        "item": "image_20250922_133109.png"
     }
 ]
