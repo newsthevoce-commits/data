@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/cabinet-okays-rs-6000-crore-connectivity-projects-for-poll-bound-bihar/0700/125175161",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133451.png",
+        "timestamp": "2025-09-24 13:35:00",
+        "item": "image_20250924_133451.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/yuvraj-singh-appears-before-ed-in-online-betting-app-case/0400/125174331",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_103114.png",
         "timestamp": "2025-09-23 10:31:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_143234.png",
         "timestamp": "2025-09-21 14:32:56",
         "item": "image_20250921_143234.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/dulquer-salmaan-react-on-lokah-ott-news/0201/125173002",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_133035.png",
-        "timestamp": "2025-09-21 13:30:46",
-        "item": "image_20250921_133035.png"
     }
 ]
