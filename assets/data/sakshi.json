@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/laughing-emoji-grandfather-death-post-leads-his-murder-2574754",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133718.png",
+        "timestamp": "2025-09-24 13:37:38",
+        "item": "image_20250924_133718.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/guest-columns/poet-sri-sri-kumar-condemn-ap-govt-action-media-2573736",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_103410.png",
         "timestamp": "2025-09-23 10:34:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_153901.png",
         "timestamp": "2025-09-21 15:39:21",
         "item": "image_20250921_153901.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/snigdha-nayani-says-she-never-wear-saree-2571923",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_143515.png",
-        "timestamp": "2025-09-21 14:35:33",
-        "item": "image_20250921_143515.png"
     }
 ]
