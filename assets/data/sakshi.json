@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/india-enters-final-asia-cup-t20-tournament-2574816",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_013310.png",
+        "timestamp": "2025-09-25 01:33:55",
+        "item": "image_20250925_013310.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/candidates-selected-group-1-jobs-list-tgpsc-website-2574812",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_233103.png",
         "timestamp": "2025-09-24 23:31:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_103410.png",
         "timestamp": "2025-09-23 10:34:43",
         "item": "image_20250923_103410.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/karnataka-high-court-temporarily-holds-government-ticket-price-2573725",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_093419.png",
-        "timestamp": "2025-09-23 09:34:39",
-        "item": "image_20250923_093419.png"
     }
 ]
