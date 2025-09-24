@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/india-bloc-backward-classes-reservation-rahul-gandhi-2574785",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_163339.png",
+        "timestamp": "2025-09-24 16:33:52",
+        "item": "image_20250924_163339.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/ladakh-unrest-leh-admin-bans-protests-2574777",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_153339.png",
         "timestamp": "2025-09-24 15:33:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_130335.png",
         "timestamp": "2025-09-22 13:03:52",
         "item": "image_20250922_130335.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/tamanna-remuneration-bads-bollywood-movie-2571930",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_163415.png",
-        "timestamp": "2025-09-21 16:34:57",
-        "item": "image_20250921_163415.png"
     }
 ]
