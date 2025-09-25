@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/fashion-designer-kavya-reddy-2575904",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_233838.png",
+        "timestamp": "2025-09-25 23:38:59",
+        "item": "image_20250925_233838.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-26-09-2025-2575896",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_224058.png",
         "timestamp": "2025-09-25 22:41:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_093250.png",
         "timestamp": "2025-09-25 09:33:05",
         "item": "image_20250925_093250.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/nagarjuna-akkinnei-approach-delhi-highcourt-over-ai-videos-2575392",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_083508.png",
-        "timestamp": "2025-09-25 08:35:37",
-        "item": "image_20250925_083508.png"
     }
 ]
