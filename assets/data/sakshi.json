@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/wef-warns-weak-global-growth-structural-disruptions-2574836",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_023206.png",
+        "timestamp": "2025-09-25 02:32:26",
+        "item": "image_20250925_023206.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/india-enters-final-asia-cup-t20-tournament-2574816",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_013310.png",
         "timestamp": "2025-09-25 01:33:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133718.png",
         "timestamp": "2025-09-24 13:37:38",
         "item": "image_20250924_133718.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/guest-columns/poet-sri-sri-kumar-condemn-ap-govt-action-media-2573736",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_103410.png",
-        "timestamp": "2025-09-23 10:34:43",
-        "item": "image_20250923_103410.png"
     }
 ]
