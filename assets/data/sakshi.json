@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/tollywood-actresses-social-media-updates-goes-viral-2575876",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_184057.png",
+        "timestamp": "2025-09-25 18:41:13",
+        "item": "image_20250925_184057.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/samsung-brings-ai-home-future-living-now-india-2575870",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_173454.png",
         "timestamp": "2025-09-25 17:35:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_063259.png",
         "timestamp": "2025-09-25 06:33:22",
         "item": "image_20250925_063259.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/bathukamma-celebrations-pure-foundation-2575335",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_053349.png",
-        "timestamp": "2025-09-25 05:34:09",
-        "item": "image_20250925_053349.png"
     }
 ]
