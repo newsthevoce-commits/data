@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/actress-rukmini-vasanth-upcoming-movies-2575075",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_043535.png",
+        "timestamp": "2025-09-25 04:35:55",
+        "item": "image_20250925_043535.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/wef-warns-weak-global-growth-structural-disruptions-2574836",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_023206.png",
         "timestamp": "2025-09-25 02:32:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_153339.png",
         "timestamp": "2025-09-24 15:33:59",
         "item": "image_20250924_153339.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/laughing-emoji-grandfather-death-post-leads-his-murder-2574754",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133718.png",
-        "timestamp": "2025-09-24 13:37:38",
-        "item": "image_20250924_133718.png"
     }
 ]
