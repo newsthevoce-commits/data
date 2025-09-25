@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/dharmendra-pradhan-appointed-bjp-poll-in-charge-for-bihar-elections/0700/125175888",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_132959.png",
+        "timestamp": "2025-09-25 13:30:18",
+        "item": "image_20250925_132959.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-speech-in-ap-assembly/1701/125175889",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_123223.png",
         "timestamp": "2025-09-25 12:32:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_043149.png",
         "timestamp": "2025-09-25 04:31:59",
         "item": "image_20250925_043149.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/abhishek-sharma-got-900-plus-rating-points-in-batter-rankings/0400/125175490",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_032951.png",
-        "timestamp": "2025-09-25 03:30:05",
-        "item": "image_20250925_032951.png"
     }
 ]
