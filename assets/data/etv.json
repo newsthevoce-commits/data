@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/heavy-rains-alert-in--ap/1702/125175708",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_043149.png",
+        "timestamp": "2025-09-25 04:31:59",
+        "item": "image_20250925_043149.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/abhishek-sharma-got-900-plus-rating-points-in-batter-rankings/0400/125175490",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_032951.png",
         "timestamp": "2025-09-25 03:30:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_153041.png",
         "timestamp": "2025-09-24 15:31:04",
         "item": "image_20250924_153041.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/gig-workers-meet-ktr/1801/125175179",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_142855.png",
-        "timestamp": "2025-09-24 14:29:07",
-        "item": "image_20250924_142855.png"
     }
 ]
