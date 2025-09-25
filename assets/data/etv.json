@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/delhi-man-robbed-of-jewellery-worth-rs-1-cr-at-gunpoint-near-bharat-mandapam/0300/125175798",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_053058.png",
+        "timestamp": "2025-09-25 05:31:09",
+        "item": "image_20250925_053058.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/heavy-rains-alert-in--ap/1702/125175708",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_043149.png",
         "timestamp": "2025-09-25 04:31:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_163047.png",
         "timestamp": "2025-09-24 16:30:57",
         "item": "image_20250924_163047.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/four-dead-30-injured-in-clashes-in-leh-officials/0700/125175192",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_153041.png",
-        "timestamp": "2025-09-24 15:31:04",
-        "item": "image_20250924_153041.png"
     }
 ]
