@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/child-does-not-take-care-of-their-aged-parents-he-or-she-may-be/0700/125175862",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_112944.png",
+        "timestamp": "2025-09-25 11:30:00",
+        "item": "image_20250925_112944.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/mla-yarapathineni-srinivasa-rao-comments-in-assembly-on-ysrcp-rule/1701/125175852",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_102828.png",
         "timestamp": "2025-09-25 10:28:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_002923.png",
         "timestamp": "2025-09-25 00:29:40",
         "item": "image_20250925_002923.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/drug-addicted-person-killed-in-rapha-rehabilitation-centre-in-miyapur/0300/125175285",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_222932.png",
-        "timestamp": "2025-09-24 22:29:45",
-        "item": "image_20250924_222932.png"
     }
 ]
