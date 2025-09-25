@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/pakistan-set-a-136-runs-target-for-bangladesh-asia-cup-superfour-match/0400/125175975",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_183726.png",
+        "timestamp": "2025-09-25 18:37:39",
+        "item": "image_20250925_183726.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/girl-students-take-charge-as-police-station-in-charges-for-a-day-in-ghaziabad/0700/125175955",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_173001.png",
         "timestamp": "2025-09-25 17:30:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_063050.png",
         "timestamp": "2025-09-25 06:30:59",
         "item": "image_20250925_063050.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/delhi-man-robbed-of-jewellery-worth-rs-1-cr-at-gunpoint-near-bharat-mandapam/0300/125175798",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_053058.png",
-        "timestamp": "2025-09-25 05:31:09",
-        "item": "image_20250925_053058.png"
     }
 ]
