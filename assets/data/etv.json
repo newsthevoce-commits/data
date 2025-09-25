@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/girl-students-take-charge-as-police-station-in-charges-for-a-day-in-ghaziabad/0700/125175955",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_173001.png",
+        "timestamp": "2025-09-25 17:30:54",
+        "item": "image_20250925_173001.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/dharmendra-pradhan-appointed-bjp-poll-in-charge-for-bihar-elections/0700/125175888",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_132959.png",
         "timestamp": "2025-09-25 13:30:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_053058.png",
         "timestamp": "2025-09-25 05:31:09",
         "item": "image_20250925_053058.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/heavy-rains-alert-in--ap/1702/125175708",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_043149.png",
-        "timestamp": "2025-09-25 04:31:59",
-        "item": "image_20250925_043149.png"
     }
 ]
