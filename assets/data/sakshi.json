@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/chittoor-constables-victim-incident-full-details-2575377",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_073346.png",
+        "timestamp": "2025-09-25 07:34:10",
+        "item": "image_20250925_073346.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/political-and-police-tension-jubilee-hills-byelection-2575352",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_063259.png",
         "timestamp": "2025-09-25 06:33:22",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_183309.png",
         "timestamp": "2025-09-24 18:33:48",
         "item": "image_20250924_183309.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/og-movie-director-sujeeth-full-details-and-wife-2574793",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_173127.png",
-        "timestamp": "2025-09-24 17:32:11",
-        "item": "image_20250924_173127.png"
     }
 ]
