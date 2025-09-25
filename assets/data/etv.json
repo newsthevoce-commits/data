@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/injured-taken-to-nursing-home-not-hospital-says-prosecution/0700/125175984",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_203736.png",
+        "timestamp": "2025-09-25 20:37:46",
+        "item": "image_20250925_203736.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/indian-banks-must-change-scale-aim-for-global-top-10-amit-shah/0700/125175983",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_193912.png",
         "timestamp": "2025-09-25 19:39:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_072958.png",
         "timestamp": "2025-09-25 07:30:15",
         "item": "image_20250925_072958.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/india-launches-agni-prime-missile-from-rail-based-mobile-platform/0800/125175804",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_065929.png",
-        "timestamp": "2025-09-25 06:59:48",
-        "item": "image_20250925_065929.png"
     }
 ]
