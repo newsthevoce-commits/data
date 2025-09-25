@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/samsung-brings-ai-home-future-living-now-india-2575870",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_173454.png",
+        "timestamp": "2025-09-25 17:35:23",
+        "item": "image_20250925_173454.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/washington-sundar-magic-county-3-wickets-ball-and-56-runs-bat-2575868",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_172441.png",
         "timestamp": "2025-09-25 17:24:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_053349.png",
         "timestamp": "2025-09-25 05:34:09",
         "item": "image_20250925_053349.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/actress-rukmini-vasanth-upcoming-movies-2575075",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_043535.png",
-        "timestamp": "2025-09-25 04:35:55",
-        "item": "image_20250925_043535.png"
     }
 ]
