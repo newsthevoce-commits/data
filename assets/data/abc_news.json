@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-25/albanese-united-nations-general-assembly-speech/105815200",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_042858.png",
+        "timestamp": "2025-09-25 04:29:11",
+        "item": "image_20250925_042858.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-25/new-samoa-prime-minister-election/105789496",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_012901.png",
         "timestamp": "2025-09-25 01:29:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_082802.png",
         "timestamp": "2025-09-21 08:28:20",
         "item": "image_20250921_082802.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-21/hospital-logjam-blamed-for-delays-to-cancer-surgeries/105724218",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_032826.png",
-        "timestamp": "2025-09-21 03:28:37",
-        "item": "image_20250921_032826.png"
     }
 ]
