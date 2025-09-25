@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/lenovo-focuses-ai-solutions-and-services-2575915",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_014018.png",
+        "timestamp": "2025-09-26 01:40:40",
+        "item": "image_20250926_014018.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/smelly-shoes-land-indian-engineer-duo-nobel-prize-weird-science-2575905",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_003736.png",
         "timestamp": "2025-09-26 00:38:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_113337.png",
         "timestamp": "2025-09-25 11:34:09",
         "item": "image_20250925_113337.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/botsa-strong-counter-tdps-pulivendula-mla-ys-jagan-comment-2575669",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_103121.png",
-        "timestamp": "2025-09-25 10:31:39",
-        "item": "image_20250925_103121.png"
     }
 ]
