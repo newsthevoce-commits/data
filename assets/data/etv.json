@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/trump-orders-secret-service-to-probe-sinister-un-mishaps/0800/125175800",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_063050.png",
+        "timestamp": "2025-09-25 06:30:59",
+        "item": "image_20250925_063050.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/delhi-man-robbed-of-jewellery-worth-rs-1-cr-at-gunpoint-near-bharat-mandapam/0300/125175798",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_053058.png",
         "timestamp": "2025-09-25 05:31:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_172836.png",
         "timestamp": "2025-09-24 17:28:48",
         "item": "image_20250924_172836.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/one-arrested-for-allegedly-providing-logistical-support-to-terrorists-involved-in-pahalgam-attack/0700/125175204",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_163047.png",
-        "timestamp": "2025-09-24 16:30:57",
-        "item": "image_20250924_163047.png"
     }
 ]
