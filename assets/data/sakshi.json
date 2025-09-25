@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/nagarjuna-akkinnei-approach-delhi-highcourt-over-ai-videos-2575392",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_083508.png",
+        "timestamp": "2025-09-25 08:35:37",
+        "item": "image_20250925_083508.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/chittoor-constables-victim-incident-full-details-2575377",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_073346.png",
         "timestamp": "2025-09-25 07:34:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_213401.png",
         "timestamp": "2025-09-24 21:34:22",
         "item": "image_20250924_213401.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/rich-dad-poor-dad-robert-kiyosaki-portfolio-surges-40pc-2025-gold-silver",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_183309.png",
-        "timestamp": "2025-09-24 18:33:48",
-        "item": "image_20250924_183309.png"
     }
 ]
