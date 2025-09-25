@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-speech-in-ap-assembly/1701/125175889",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_123223.png",
+        "timestamp": "2025-09-25 12:32:44",
+        "item": "image_20250925_123223.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/child-does-not-take-care-of-their-aged-parents-he-or-she-may-be/0700/125175862",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_112944.png",
         "timestamp": "2025-09-25 11:30:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_032951.png",
         "timestamp": "2025-09-25 03:30:05",
         "item": "image_20250925_032951.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/og-movie-review-in-telugu/0203/125175196",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_002923.png",
-        "timestamp": "2025-09-25 00:29:40",
-        "item": "image_20250925_002923.png"
     }
 ]
