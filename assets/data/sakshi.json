@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-26-09-2025-2575896",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_224058.png",
+        "timestamp": "2025-09-25 22:41:13",
+        "item": "image_20250925_224058.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/guest-columns/sakshi-guest-column-pakistan-saudi-arabia-defense-agreement-2575882",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_214032.png",
         "timestamp": "2025-09-25 21:40:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_083508.png",
         "timestamp": "2025-09-25 08:35:37",
         "item": "image_20250925_083508.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/chittoor-constables-victim-incident-full-details-2575377",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_073346.png",
-        "timestamp": "2025-09-25 07:34:10",
-        "item": "image_20250925_073346.png"
     }
 ]
