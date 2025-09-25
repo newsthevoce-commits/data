@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/nri/engilipula-bathukamma-celebrated-berlin-germany-2575767",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_113337.png",
+        "timestamp": "2025-09-25 11:34:09",
+        "item": "image_20250925_113337.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/botsa-strong-counter-tdps-pulivendula-mla-ys-jagan-comment-2575669",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_103121.png",
         "timestamp": "2025-09-25 10:31:39",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_013310.png",
         "timestamp": "2025-09-25 01:33:55",
         "item": "image_20250925_013310.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/candidates-selected-group-1-jobs-list-tgpsc-website-2574812",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_233103.png",
-        "timestamp": "2025-09-24 23:31:24",
-        "item": "image_20250924_233103.png"
     }
 ]
