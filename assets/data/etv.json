@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-25th-september-2025/0101/125175994",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_223809.png",
+        "timestamp": "2025-09-25 22:38:25",
+        "item": "image_20250925_223809.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-private-travels-bus-caught-fire/529/125175991",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_213827.png",
         "timestamp": "2025-09-25 21:38:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_102828.png",
         "timestamp": "2025-09-25 10:28:44",
         "item": "image_20250925_102828.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/fans-celebrats-pawan-kalyan-og-movie/0201/125175793",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_092954.png",
-        "timestamp": "2025-09-25 09:30:04",
-        "item": "image_20250925_092954.png"
     }
 ]
