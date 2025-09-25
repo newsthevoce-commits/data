@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/abhishek-sharma-got-900-plus-rating-points-in-batter-rankings/0400/125175490",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_032951.png",
+        "timestamp": "2025-09-25 03:30:05",
+        "item": "image_20250925_032951.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/og-movie-review-in-telugu/0203/125175196",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_002923.png",
         "timestamp": "2025-09-25 00:29:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_142855.png",
         "timestamp": "2025-09-24 14:29:07",
         "item": "image_20250924_142855.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/cabinet-okays-rs-6000-crore-connectivity-projects-for-poll-bound-bihar/0700/125175161",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133451.png",
-        "timestamp": "2025-09-24 13:35:00",
-        "item": "image_20250924_133451.png"
     }
 ]
