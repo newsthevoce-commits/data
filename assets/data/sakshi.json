@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/maruti-suzuki-invicto-scores-5-star-rating-bncap-crash-tests-2576881",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_184304.png",
+        "timestamp": "2025-09-26 18:43:32",
+        "item": "image_20250926_184304.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/janhvi-kapoor-and-samantha-latest-news-2576875",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_174028.png",
         "timestamp": "2025-09-26 17:40:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_093916.png",
         "timestamp": "2025-09-26 09:39:43",
         "item": "image_20250926_093916.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/teen-turned-his-father-rickshaw-viral-career-87k-followers-2576752",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_084204.png",
-        "timestamp": "2025-09-26 08:42:43",
-        "item": "image_20250926_084204.png"
     }
 ]
