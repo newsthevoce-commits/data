@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/kattappa-movie-news-latest-2576830",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_134142.png",
+        "timestamp": "2025-09-26 13:42:36",
+        "item": "image_20250926_134142.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/gst-rationalisation-generated-usual-mix-applause-anxiety-and-apathy-2576805",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_123826.png",
         "timestamp": "2025-09-26 12:38:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_014018.png",
         "timestamp": "2025-09-26 01:40:40",
         "item": "image_20250926_014018.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/smelly-shoes-land-indian-engineer-duo-nobel-prize-weird-science-2575905",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_003736.png",
-        "timestamp": "2025-09-26 00:38:24",
-        "item": "image_20250926_003736.png"
     }
 ]
