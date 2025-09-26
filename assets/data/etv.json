@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/after-violent-protests-killed-4-in-ladakh-sonam-wangchuk-arrested/0700/125176610",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_123537.png",
+        "timestamp": "2025-09-26 12:35:48",
+        "item": "image_20250926_123537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/trump-100-pc-tariff-on-pharma-will-not-impact-generic-makers/0101/125176564",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_103534.png",
         "timestamp": "2025-09-26 10:35:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_013711.png",
         "timestamp": "2025-09-26 01:37:31",
         "item": "image_20250926_013711.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-private-travels-bus-caught-fire/529/125175991",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_003531.png",
-        "timestamp": "2025-09-26 00:35:45",
-        "item": "image_20250926_003531.png"
     }
 ]
