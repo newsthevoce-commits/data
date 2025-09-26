@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/gst-rationalisation-generated-usual-mix-applause-anxiety-and-apathy-2576805",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_123826.png",
+        "timestamp": "2025-09-26 12:38:51",
+        "item": "image_20250926_123826.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/hridayapoorvam-movie-telugu-reveiw-2576800",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_113828.png",
         "timestamp": "2025-09-26 11:38:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_003736.png",
         "timestamp": "2025-09-26 00:38:24",
         "item": "image_20250926_003736.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/fashion-designer-kavya-reddy-2575904",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_233838.png",
-        "timestamp": "2025-09-25 23:38:59",
-        "item": "image_20250925_233838.png"
     }
 ]
