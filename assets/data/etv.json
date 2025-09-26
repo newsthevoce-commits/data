@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125176486",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_033742.png",
+        "timestamp": "2025-09-26 03:37:55",
+        "item": "image_20250926_033742.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/west-godavari-news/13/125176204",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_023732.png",
         "timestamp": "2025-09-26 02:37:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_173001.png",
         "timestamp": "2025-09-25 17:30:54",
         "item": "image_20250925_173001.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/dharmendra-pradhan-appointed-bjp-poll-in-charge-for-bihar-elections/0700/125175888",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_132959.png",
-        "timestamp": "2025-09-25 13:30:18",
-        "item": "image_20250925_132959.png"
     }
 ]
