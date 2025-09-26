@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/special-story-on-digital-personal--data-protection-act/1802/125176326",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_143716.png",
+        "timestamp": "2025-09-26 14:37:28",
+        "item": "image_20250926_143716.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/karisma-kapoors-children-vs-priya-kapur-in-sunjay-kapurs-estate-dispute/0700/125176624",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_133801.png",
         "timestamp": "2025-09-26 13:38:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_033742.png",
         "timestamp": "2025-09-26 03:37:55",
         "item": "image_20250926_033742.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/west-godavari-news/13/125176204",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_023732.png",
-        "timestamp": "2025-09-26 02:37:44",
-        "item": "image_20250926_023732.png"
     }
 ]
