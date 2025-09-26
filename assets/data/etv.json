@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/suryakumar-yadavs-match-fee-cut-by-30-percent/0400/125176675",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_164025.png",
+        "timestamp": "2025-09-26 16:40:42",
+        "item": "image_20250926_164025.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/india-blasts-nato-chief-over-modi-called-putin-remark/0700/125176643",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_153852.png",
         "timestamp": "2025-09-26 15:39:04",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_053529.png",
         "timestamp": "2025-09-26 05:35:44",
         "item": "image_20250926_053529.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/general/0700/125176339",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_043532.png",
-        "timestamp": "2025-09-26 04:35:50",
-        "item": "image_20250926_043532.png"
     }
 ]
