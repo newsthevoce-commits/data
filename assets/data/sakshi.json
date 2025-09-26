@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/avatar-fire-and-ash-new-latest-telugu-trailer-out-now-2576377",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_034044.png",
+        "timestamp": "2025-09-26 03:41:14",
+        "item": "image_20250926_034044.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/international/trump-demands-investigation-alleged-sabotage-un-escalator-2575920",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_024041.png",
         "timestamp": "2025-09-26 02:41:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_172441.png",
         "timestamp": "2025-09-25 17:24:56",
         "item": "image_20250925_172441.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/we-expected-more-agarkar-explains-karun-nair-test-squad-snub-wi-series-2575785",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_123538.png",
-        "timestamp": "2025-09-25 12:35:59",
-        "item": "image_20250925_123538.png"
     }
 ]
