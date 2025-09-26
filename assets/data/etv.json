@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/karisma-kapoors-children-vs-priya-kapur-in-sunjay-kapurs-estate-dispute/0700/125176624",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_133801.png",
+        "timestamp": "2025-09-26 13:38:19",
+        "item": "image_20250926_133801.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/after-violent-protests-killed-4-in-ladakh-sonam-wangchuk-arrested/0700/125176610",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_123537.png",
         "timestamp": "2025-09-26 12:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_023732.png",
         "timestamp": "2025-09-26 02:37:44",
         "item": "image_20250926_023732.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/heavy-rain-forecast-across-ap/1702/125176223",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_013711.png",
-        "timestamp": "2025-09-26 01:37:31",
-        "item": "image_20250926_013711.png"
     }
 ]
