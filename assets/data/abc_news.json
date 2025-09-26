@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-26/trump-100pc-tariff-on-drugs-us-politics-/105820198",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_033433.png",
+        "timestamp": "2025-09-26 03:34:48",
+        "item": "image_20250926_033433.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-26/gim-trading-bond-fraud-allegations-investigation/105782912",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_213555.png",
         "timestamp": "2025-09-25 21:36:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_152952.png",
         "timestamp": "2025-09-22 15:30:17",
         "item": "image_20250922_152952.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-22/annalena-baerbock-united-nations-concerns-trump/105804036",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_125719.png",
-        "timestamp": "2025-09-22 12:57:36",
-        "item": "image_20250922_125719.png"
     }
 ]
