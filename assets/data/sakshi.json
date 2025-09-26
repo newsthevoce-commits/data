@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/teen-turned-his-father-rickshaw-viral-career-87k-followers-2576752",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_084204.png",
+        "timestamp": "2025-09-26 08:42:43",
+        "item": "image_20250926_084204.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/telangana-rains-bad-weather-effected-flights-shamsha-bad-airport-2576626",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_053832.png",
         "timestamp": "2025-09-26 05:39:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_184057.png",
         "timestamp": "2025-09-25 18:41:13",
         "item": "image_20250925_184057.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/samsung-brings-ai-home-future-living-now-india-2575870",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_173454.png",
-        "timestamp": "2025-09-25 17:35:23",
-        "item": "image_20250925_173454.png"
     }
 ]
