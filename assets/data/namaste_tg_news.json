@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/hyderabad/huge-traffic-jam-on-nh-65-with-heavy-rain-in-patancheru-2156036",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_084636.png",
+        "timestamp": "2025-09-26 08:47:07",
+        "item": "image_20250926_084636.png"
+    },
+    {
         "url": "https://www.ntnews.com/cinema/yvs-chowdary-mother-passed-away-2155950",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_064240.png",
         "timestamp": "2025-09-26 06:43:53",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_214159.png",
         "timestamp": "2025-09-25 21:42:25",
         "item": "image_20250925_214159.png"
-    },
-    {
-        "url": "https://www.ntnews.com/business/kinetic-green-e-luna-prime-launched-at-rs-82490-2155477",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_204033.png",
-        "timestamp": "2025-09-25 20:41:03",
-        "item": "image_20250925_204033.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
