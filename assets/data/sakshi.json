@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/international/trump-demands-investigation-alleged-sabotage-un-escalator-2575920",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_024041.png",
+        "timestamp": "2025-09-26 02:41:06",
+        "item": "image_20250926_024041.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/lenovo-focuses-ai-solutions-and-services-2575915",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_014018.png",
         "timestamp": "2025-09-26 01:40:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_123538.png",
         "timestamp": "2025-09-25 12:35:59",
         "item": "image_20250925_123538.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/nri/engilipula-bathukamma-celebrated-berlin-germany-2575767",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_113337.png",
-        "timestamp": "2025-09-25 11:34:09",
-        "item": "image_20250925_113337.png"
     }
 ]
