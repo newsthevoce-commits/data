@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/hridayapoorvam-movie-telugu-reveiw-2576800",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_113828.png",
+        "timestamp": "2025-09-26 11:38:56",
+        "item": "image_20250926_113828.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-bhumana-karunakar-reddy-serious-cbn-2576788",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_103830.png",
         "timestamp": "2025-09-26 10:39:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_233838.png",
         "timestamp": "2025-09-25 23:38:59",
         "item": "image_20250925_233838.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-26-09-2025-2575896",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_224058.png",
-        "timestamp": "2025-09-25 22:41:13",
-        "item": "image_20250925_224058.png"
     }
 ]
