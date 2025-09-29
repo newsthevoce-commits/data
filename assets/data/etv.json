@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/og-ticket-rates-hike-cancelled-in-telangana/0201/125178719",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_173638.png",
+        "timestamp": "2025-09-29 17:36:50",
+        "item": "image_20250929_173638.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/govt-proposes-sound-alert-system-for-all-electric-vehicles-from-october-2027/0107/125178669",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163913.png",
         "timestamp": "2025-09-29 16:39:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_183851.png",
         "timestamp": "2025-09-26 18:39:14",
         "item": "image_20250926_183851.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/suryakumar-yadavs-match-fee-cut-by-30-percent/0400/125176675",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_164025.png",
-        "timestamp": "2025-09-26 16:40:42",
-        "item": "image_20250926_164025.png"
     }
 ]
