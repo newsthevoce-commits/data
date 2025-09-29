@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/german-airline-lufthansa-plans-4000-job-cuts-over-next-5-years/0101/125178638",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_133529.png",
+        "timestamp": "2025-09-29 13:35:48",
+        "item": "image_20250929_133529.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/shivam-dube-wins-impact-player-award-in-asia-cup-final/0400/125178641",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_124053.png",
         "timestamp": "2025-09-29 12:41:02",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_143716.png",
         "timestamp": "2025-09-26 14:37:28",
         "item": "image_20250926_143716.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/karisma-kapoors-children-vs-priya-kapur-in-sunjay-kapurs-estate-dispute/0700/125176624",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_133801.png",
-        "timestamp": "2025-09-26 13:38:19",
-        "item": "image_20250926_133801.png"
     }
 ]
