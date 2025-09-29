@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/2025-has-been-year-farewells-total-20-players-bid-goodbye-game-year-2579633",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_173952.png",
+        "timestamp": "2025-09-29 17:40:09",
+        "item": "image_20250929_173952.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/tilak-varma-surpasses-virat-kohli-huge-t20i-feat-after-asia-cup-heroics-vs",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_164158.png",
         "timestamp": "2025-09-29 16:42:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_184304.png",
         "timestamp": "2025-09-26 18:43:32",
         "item": "image_20250926_184304.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/janhvi-kapoor-and-samantha-latest-news-2576875",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_174028.png",
-        "timestamp": "2025-09-26 17:40:53",
-        "item": "image_20250926_174028.png"
     }
 ]
