@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-everyone-cooperate-in-implementing-42-percent-reservations-says-ponnam/529/125178636",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_113651.png",
+        "timestamp": "2025-09-29 11:37:19",
+        "item": "image_20250929_113651.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/allu-arjun-atlee-movie-latest-update/0205/125178613",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_103530.png",
         "timestamp": "2025-09-29 10:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_123537.png",
         "timestamp": "2025-09-26 12:35:48",
         "item": "image_20250926_123537.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/trump-100-pc-tariff-on-pharma-will-not-impact-generic-makers/0101/125176564",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_103534.png",
-        "timestamp": "2025-09-26 10:35:44",
-        "item": "image_20250926_103534.png"
     }
 ]
