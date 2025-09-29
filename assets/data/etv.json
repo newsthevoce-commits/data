@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/bathukamma-celebrations-in-telangana/1801/125178693",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_153528.png",
+        "timestamp": "2025-09-29 15:35:45",
+        "item": "image_20250929_153528.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/german-airline-lufthansa-plans-4000-job-cuts-over-next-5-years/0101/125178638",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_133529.png",
         "timestamp": "2025-09-29 13:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_153852.png",
         "timestamp": "2025-09-26 15:39:04",
         "item": "image_20250926_153852.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/special-story-on-digital-personal--data-protection-act/1802/125176326",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_143716.png",
-        "timestamp": "2025-09-26 14:37:28",
-        "item": "image_20250926_143716.png"
     }
 ]
