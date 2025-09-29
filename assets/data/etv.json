@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/allu-arjun-atlee-movie-latest-update/0205/125178613",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_103530.png",
+        "timestamp": "2025-09-29 10:35:48",
+        "item": "image_20250929_103530.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/cv-anand-press-meet-on-piracy/0300/125178610",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_093528.png",
         "timestamp": "2025-09-29 09:35:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_103534.png",
         "timestamp": "2025-09-26 10:35:44",
         "item": "image_20250926_103534.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/sriya-reddy-post-about-og-director-sujeeth/0201/125176546",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_093551.png",
-        "timestamp": "2025-09-26 09:36:00",
-        "item": "image_20250926_093551.png"
     }
 ]
