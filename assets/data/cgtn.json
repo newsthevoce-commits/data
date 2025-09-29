@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-29/Macao-SAR-chief-executive-appoints-members-to-8th-Legislative-Assembly-1H3ORlA2w3S/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163519.png",
+        "timestamp": "2025-09-29 16:35:34",
+        "item": "image_20250929_163519.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-28/President-Xi-Jinping-to-honor-fallen-heroes-on-Martyrs-Day-1H2Fk8fkhSo/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_082321.png",
         "timestamp": "2025-09-29 08:23:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_102724.png",
         "timestamp": "2025-09-19 10:27:37",
         "item": "image_20250919_102724.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-19/Dong-Jun-calls-for-more-just-equitable-global-security-governance-1GMS6UZD7Ak/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_082720.png",
-        "timestamp": "2025-09-19 08:27:34",
-        "item": "image_20250919_082720.png"
     }
 ]
