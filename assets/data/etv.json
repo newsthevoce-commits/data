@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/weekend-stress-strikes-the-heart-highest-on-mondays-compared-to-other-weekdays/0700/125178667",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_214044.png",
+        "timestamp": "2025-09-29 21:41:01",
+        "item": "image_20250929_214044.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/tvk-leader-arrested-after-stampede-at-actor-politician-vijays-rally/0700/125178735",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_203713.png",
         "timestamp": "2025-09-29 20:37:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_113651.png",
         "timestamp": "2025-09-29 11:37:19",
         "item": "image_20250929_113651.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/allu-arjun-atlee-movie-latest-update/0205/125178613",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_103530.png",
-        "timestamp": "2025-09-29 10:35:48",
-        "item": "image_20250929_103530.png"
     }
 ]
