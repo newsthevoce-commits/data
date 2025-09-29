@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-30/israel-gaza-peace-plan-white-house-announcement/105832816",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_213720.png",
+        "timestamp": "2025-09-29 21:37:44",
+        "item": "image_20250929_213720.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-29/rsl-nsw-embroiled-conflict-of-interest-secret-sale-plan/105820110",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_123848.png",
         "timestamp": "2025-09-29 12:38:59",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_133239.png",
         "timestamp": "2025-09-24 13:32:50",
         "item": "image_20250924_133239.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-23/andrew-hastie-car-making-coward-muppet-liberals/105808280",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250923_102847.png",
-        "timestamp": "2025-09-23 10:29:08",
-        "item": "image_20250923_102847.png"
     }
 ]
