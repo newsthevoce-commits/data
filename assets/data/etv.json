@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/govt-proposes-sound-alert-system-for-all-electric-vehicles-from-october-2027/0107/125178669",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163913.png",
+        "timestamp": "2025-09-29 16:39:29",
+        "item": "image_20250929_163913.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/bathukamma-celebrations-in-telangana/1801/125178693",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_153528.png",
         "timestamp": "2025-09-29 15:35:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_164025.png",
         "timestamp": "2025-09-26 16:40:42",
         "item": "image_20250926_164025.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/india-blasts-nato-chief-over-modi-called-putin-remark/0700/125176643",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_153852.png",
-        "timestamp": "2025-09-26 15:39:04",
-        "item": "image_20250926_153852.png"
     }
 ]
