@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/chiranjeevi-again-coments-balakrishna-2579590",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_124355.png",
+        "timestamp": "2025-09-29 12:44:29",
+        "item": "image_20250929_124355.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/man-his-family-booked-giving-triple-talaq-whatsapp-2579573",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_114006.png",
         "timestamp": "2025-09-29 11:40:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_143956.png",
         "timestamp": "2025-09-26 14:40:14",
         "item": "image_20250926_143956.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/kattappa-movie-news-latest-2576830",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_134142.png",
-        "timestamp": "2025-09-26 13:42:36",
-        "item": "image_20250926_134142.png"
     }
 ]
