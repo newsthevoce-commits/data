@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/international/bangladesh-durga-puja-amid-rising-concerns-2579563",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_103829.png",
+        "timestamp": "2025-09-29 10:38:57",
+        "item": "image_20250929_103829.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/kuldeep-yadav-becomes-highest-wicket-taker-asia-cup-history-2579535",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_093856.png",
         "timestamp": "2025-09-29 09:39:20",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_123826.png",
         "timestamp": "2025-09-26 12:38:51",
         "item": "image_20250926_123826.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/hridayapoorvam-movie-telugu-reveiw-2576800",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_113828.png",
-        "timestamp": "2025-09-26 11:38:56",
-        "item": "image_20250926_113828.png"
     }
 ]
