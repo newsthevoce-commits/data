@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-don-play-politics-with-fishermen-says-home-minister-anitha/11/125178727",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_183747.png",
+        "timestamp": "2025-09-29 18:37:57",
+        "item": "image_20250929_183747.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/og-ticket-rates-hike-cancelled-in-telangana/0201/125178719",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_173638.png",
         "timestamp": "2025-09-29 17:36:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_083224.png",
         "timestamp": "2025-09-29 08:32:35",
         "item": "image_20250929_083224.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/heavy-rain-forecast-red-alert-across-telangana/1801/125176688",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250926_183851.png",
-        "timestamp": "2025-09-26 18:39:14",
-        "item": "image_20250926_183851.png"
     }
 ]
