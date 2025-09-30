@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/opposition--slams-bjp-to-demolished-padma-shri-awardee-mohammed-shahid-house/0700/125179297",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_103508.png",
+        "timestamp": "2025-09-30 10:35:18",
+        "item": "image_20250930_103508.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/ravichandran-ashwin--says--team-india-won-the-match-easily-because-of-harris-rauf/0400/125179286",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093744.png",
         "timestamp": "2025-09-30 09:37:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_013635.png",
         "timestamp": "2025-09-30 01:36:46",
         "item": "image_20250930_013635.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/weekend-stress-strikes-the-heart-highest-on-mondays-compared-to-other-weekdays/0700/125178667",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_214044.png",
-        "timestamp": "2025-09-29 21:41:01",
-        "item": "image_20250929_214044.png"
     }
 ]
