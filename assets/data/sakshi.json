@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/dimple-hayathi-torcher-her-workers-video-goes-viral-2580558",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_134103.png",
+        "timestamp": "2025-09-30 13:41:14",
+        "item": "image_20250930_134103.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/ayodhya-police-ban-burning-240-ft-ravana-meghnad-and-kumbhkaran-2580529",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_113835.png",
         "timestamp": "2025-09-30 11:38:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_033910.png",
         "timestamp": "2025-09-30 03:39:22",
         "item": "image_20250930_033910.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/mithun-reddy-granted-bail-liquor-smuggling-case-2579686",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_023724.png",
-        "timestamp": "2025-09-30 02:37:36",
-        "item": "image_20250930_023724.png"
     }
 ]
