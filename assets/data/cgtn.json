@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-09-30/Xi-s-article-on-community-for-Chinese-nation-to-be-published-1H5A6VOxzZS/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133517.png",
+        "timestamp": "2025-09-30 13:35:30",
+        "item": "image_20250930_133517.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-09-29/Macao-SAR-chief-executive-appoints-members-to-8th-Legislative-Assembly-1H3ORlA2w3S/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163519.png",
         "timestamp": "2025-09-29 16:35:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_172836.png",
         "timestamp": "2025-09-19 17:28:48",
         "item": "image_20250919_172836.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-19/President-Xi-congratulates-China-Zhi-Gong-Party-on-founding-centenary-1GN8Gdow5IA/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250919_102724.png",
-        "timestamp": "2025-09-19 10:27:37",
-        "item": "image_20250919_102724.png"
     }
 ]
