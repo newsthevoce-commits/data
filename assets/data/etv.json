@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/kolkata-durga-puja-is-serious-business-worth-rs-10000-crore/0700/125179126",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_033717.png",
+        "timestamp": "2025-09-30 03:37:29",
+        "item": "image_20250930_033717.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/model-code-of-conduct-comes-into-force-in-telangana/1802/125178965",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_023509.png",
         "timestamp": "2025-09-30 02:35:20",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_153528.png",
         "timestamp": "2025-09-29 15:35:45",
         "item": "image_20250929_153528.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/german-airline-lufthansa-plans-4000-job-cuts-over-next-5-years/0101/125178638",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_133529.png",
-        "timestamp": "2025-09-29 13:35:48",
-        "item": "image_20250929_133529.png"
     }
 ]
