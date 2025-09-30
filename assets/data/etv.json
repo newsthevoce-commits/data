@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/nellore-news/9/125178811",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_053721.png",
+        "timestamp": "2025-09-30 05:37:30",
+        "item": "image_20250930_053721.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125178819",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_043609.png",
         "timestamp": "2025-09-30 04:36:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_173638.png",
         "timestamp": "2025-09-29 17:36:50",
         "item": "image_20250929_173638.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/govt-proposes-sound-alert-system-for-all-electric-vehicles-from-october-2027/0107/125178669",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163913.png",
-        "timestamp": "2025-09-29 16:39:29",
-        "item": "image_20250929_163913.png"
     }
 ]
