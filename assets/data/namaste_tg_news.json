@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.ntnews.com/international/powerful-explosion-hits-pakistans-quetta-several-dead-2160779",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_103912.png",
+        "timestamp": "2025-09-30 10:39:26",
+        "item": "image_20250930_103912.png"
+    },
+    {
         "url": "https://www.ntnews.com/national/youtuber-felix-gerald-arrested-for-allegedly-spreading-fake-news-on-karur-stampede-2160743",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_094045.png",
         "timestamp": "2025-09-30 09:40:59",
@@ -52,12 +58,6 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_013946.png",
         "timestamp": "2025-09-30 01:40:01",
         "item": "image_20250930_013946.png"
-    },
-    {
-        "url": "https://www.ntnews.com/hyderabad/congress-govt-frauds-are-checked-with-a-debit-card-2160362",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_003711.png",
-        "timestamp": "2025-09-30 00:37:29",
-        "item": "image_20250930_003711.png"
     },
     {
         "url": "https://www.ntnews.com/cinema/vikram-prabhu-about-ghaati-movie-2125706",
