@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/9-foreign-eambassies-in-chennai-receives-bomb-threat-security-tightened/0700/125179343",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133852.png",
+        "timestamp": "2025-09-30 13:39:00",
+        "item": "image_20250930_133852.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/medak-harish-rao-meets-with-brs-activists/533/125179332",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_123546.png",
         "timestamp": "2025-09-30 12:35:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_043609.png",
         "timestamp": "2025-09-30 04:36:24",
         "item": "image_20250930_043609.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/kolkata-durga-puja-is-serious-business-worth-rs-10000-crore/0700/125179126",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_033717.png",
-        "timestamp": "2025-09-30 03:37:29",
-        "item": "image_20250930_033717.png"
     }
 ]
