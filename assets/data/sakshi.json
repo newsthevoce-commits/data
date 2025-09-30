@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-01-10-2025-telugu-2580593",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_214216.png",
+        "timestamp": "2025-09-30 21:42:43",
+        "item": "image_20250930_214216.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/omega-seiki-launches-self-driving-electric-three-wheeler-india-2580590",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_184058.png",
         "timestamp": "2025-09-30 18:41:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093943.png",
         "timestamp": "2025-09-30 09:39:53",
         "item": "image_20250930_093943.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/bathukamma-2025-special-write-flowers-and-nature-2580460",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_083753.png",
-        "timestamp": "2025-09-30 08:38:05",
-        "item": "image_20250930_083753.png"
     }
 ]
