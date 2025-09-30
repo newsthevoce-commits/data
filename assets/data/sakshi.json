@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/telangana-ration-shops-bandh-news-fact-check-updates-2580436",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_073759.png",
+        "timestamp": "2025-09-30 07:38:11",
+        "item": "image_20250930_073759.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/nepal-beat-west-indies-90-runs-2nd-t20i-2580346",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_063710.png",
         "timestamp": "2025-09-30 06:37:22",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_214511.png",
         "timestamp": "2025-09-29 21:45:54",
         "item": "image_20250929_214511.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/india-face-pakistan-october-th-icc-womens-world-cup-2579638",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_184045.png",
-        "timestamp": "2025-09-29 18:41:06",
-        "item": "image_20250929_184045.png"
     }
 ]
