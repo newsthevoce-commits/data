@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/model-code-of-conduct-comes-into-force-in-telangana/1802/125178965",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_023509.png",
+        "timestamp": "2025-09-30 02:35:20",
+        "item": "image_20250930_023509.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/users-can-personalise-their-upi-id-like-emails/1802/125178978",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_013635.png",
         "timestamp": "2025-09-30 01:36:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_133529.png",
         "timestamp": "2025-09-29 13:35:48",
         "item": "image_20250929_133529.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/shivam-dube-wins-impact-player-award-in-asia-cup-final/0400/125178641",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_124053.png",
-        "timestamp": "2025-09-29 12:41:02",
-        "item": "image_20250929_124053.png"
     }
 ]
