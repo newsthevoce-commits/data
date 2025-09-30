@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125178819",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_043609.png",
+        "timestamp": "2025-09-30 04:36:24",
+        "item": "image_20250930_043609.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/kolkata-durga-puja-is-serious-business-worth-rs-10000-crore/0700/125179126",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_033717.png",
         "timestamp": "2025-09-30 03:37:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163913.png",
         "timestamp": "2025-09-29 16:39:29",
         "item": "image_20250929_163913.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/bathukamma-celebrations-in-telangana/1801/125178693",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_153528.png",
-        "timestamp": "2025-09-29 15:35:45",
-        "item": "image_20250929_153528.png"
     }
 ]
