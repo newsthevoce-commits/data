@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/islamic-school-building-collapses-in-indonesia-65-students-feared-buried-under-rubble/0800/125179259",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_063509.png",
+        "timestamp": "2025-09-30 06:35:20",
+        "item": "image_20250930_063509.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/nellore-news/9/125178811",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_053721.png",
         "timestamp": "2025-09-30 05:37:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_183747.png",
         "timestamp": "2025-09-29 18:37:57",
         "item": "image_20250929_183747.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/og-ticket-rates-hike-cancelled-in-telangana/0201/125178719",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_173638.png",
-        "timestamp": "2025-09-29 17:36:50",
-        "item": "image_20250929_173638.png"
     }
 ]
