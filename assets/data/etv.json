@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-police-seized-ganja-worth-rs-6-crore/529/125179319",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_113627.png",
+        "timestamp": "2025-09-30 11:36:37",
+        "item": "image_20250930_113627.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/opposition--slams-bjp-to-demolished-padma-shri-awardee-mohammed-shahid-house/0700/125179297",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_103508.png",
         "timestamp": "2025-09-30 10:35:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_023509.png",
         "timestamp": "2025-09-30 02:35:20",
         "item": "image_20250930_023509.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/users-can-personalise-their-upi-id-like-emails/1802/125178978",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_013635.png",
-        "timestamp": "2025-09-30 01:36:46",
-        "item": "image_20250930_013635.png"
     }
 ]
