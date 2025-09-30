@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/donald-trump-big-warning-after-gaza-peace-plan/0800/125179397",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_213847.png",
+        "timestamp": "2025-09-30 21:39:03",
+        "item": "image_20250930_213847.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/og-special-song-added-neha-shetty/0201/125179420",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_193739.png",
         "timestamp": "2025-09-30 19:37:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_113627.png",
         "timestamp": "2025-09-30 11:36:37",
         "item": "image_20250930_113627.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/opposition--slams-bjp-to-demolished-padma-shri-awardee-mohammed-shahid-house/0700/125179297",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_103508.png",
-        "timestamp": "2025-09-30 10:35:18",
-        "item": "image_20250930_103508.png"
     }
 ]
