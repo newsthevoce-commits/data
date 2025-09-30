@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/ktr-comments-congress-government-2579691",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_033910.png",
+        "timestamp": "2025-09-30 03:39:22",
+        "item": "image_20250930_033910.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/mithun-reddy-granted-bail-liquor-smuggling-case-2579686",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_023724.png",
         "timestamp": "2025-09-30 02:37:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_153830.png",
         "timestamp": "2025-09-29 15:39:06",
         "item": "image_20250929_153830.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/tollywood-hero-prabhas-raja-saab-trailer-out-now-2579613",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_143903.png",
-        "timestamp": "2025-09-29 14:39:25",
-        "item": "image_20250929_143903.png"
     }
 ]
