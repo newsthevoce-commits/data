@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/supreme-court-hear-issue-water-storage-height-increase-almatti-2580602",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_223916.png",
+        "timestamp": "2025-09-30 22:39:40",
+        "item": "image_20250930_223916.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-01-10-2025-telugu-2580593",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_214216.png",
         "timestamp": "2025-09-30 21:42:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_103710.png",
         "timestamp": "2025-09-30 10:37:22",
         "item": "image_20250930_103710.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/sobhita-dhulipala-first-movie-after-marriage-details-2580494",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093943.png",
-        "timestamp": "2025-09-30 09:39:53",
-        "item": "image_20250930_093943.png"
     }
 ]
