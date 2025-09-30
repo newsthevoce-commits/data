@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/actress-oviya-again-coments-vijay-and-his-fans-2580513",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_103710.png",
+        "timestamp": "2025-09-30 10:37:22",
+        "item": "image_20250930_103710.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/sobhita-dhulipala-first-movie-after-marriage-details-2580494",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093943.png",
         "timestamp": "2025-09-30 09:39:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_013841.png",
         "timestamp": "2025-09-30 01:38:51",
         "item": "image_20250930_013841.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/phc-doctors-boycott-emergency-services-today-2579664",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_233741.png",
-        "timestamp": "2025-09-29 23:38:12",
-        "item": "image_20250929_233741.png"
     }
 ]
