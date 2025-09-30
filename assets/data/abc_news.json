@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-09-30/more-sunscreens-pulled-from-shelves-over-spf-concerns/105836976",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133656.png",
+        "timestamp": "2025-09-30 13:37:05",
+        "item": "image_20250930_133656.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-09-30/rba-leaves-interest-rates-on-hold-in-september/105835342",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093543.png",
         "timestamp": "2025-09-30 09:35:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_042858.png",
         "timestamp": "2025-09-25 04:29:11",
         "item": "image_20250925_042858.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-25/new-samoa-prime-minister-election/105789496",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_012901.png",
-        "timestamp": "2025-09-25 01:29:15",
-        "item": "image_20250925_012901.png"
     }
 ]
