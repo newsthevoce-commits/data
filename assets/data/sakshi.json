@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/bathukamma-2025-special-write-flowers-and-nature-2580460",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_083753.png",
+        "timestamp": "2025-09-30 08:38:05",
+        "item": "image_20250930_083753.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/telangana-ration-shops-bandh-news-fact-check-updates-2580436",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_073759.png",
         "timestamp": "2025-09-30 07:38:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_223619.png",
         "timestamp": "2025-09-29 22:36:58",
         "item": "image_20250929_223619.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/guest-columns/sakshi-guest-column-arnold-speech-university-southern-california-2579641",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_214511.png",
-        "timestamp": "2025-09-29 21:45:54",
-        "item": "image_20250929_214511.png"
     }
 ]
