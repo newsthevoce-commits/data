@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/balika-vadhu-actress-avika-gor-and-milind-chandwani-are-officially-married",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_153750.png",
+        "timestamp": "2025-09-30 15:38:03",
+        "item": "image_20250930_153750.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/festive-season-tanishq-unveils-its-latest-collection-mias-manifest-2580567",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_143751.png",
         "timestamp": "2025-09-30 14:38:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_053908.png",
         "timestamp": "2025-09-30 05:39:22",
         "item": "image_20250930_053908.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/huge-devotees-rush-tirumala-2579770",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_043804.png",
-        "timestamp": "2025-09-30 04:38:16",
-        "item": "image_20250930_043804.png"
     }
 ]
