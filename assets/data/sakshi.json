@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/sobhita-dhulipala-first-movie-after-marriage-details-2580494",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093943.png",
+        "timestamp": "2025-09-30 09:39:53",
+        "item": "image_20250930_093943.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/bathukamma-2025-special-write-flowers-and-nature-2580460",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_083753.png",
         "timestamp": "2025-09-30 08:38:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_233741.png",
         "timestamp": "2025-09-29 23:38:12",
         "item": "image_20250929_233741.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/cv-anand-special-meeting-film-personalities-chiranjeevi-nagarjuna-2579654",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_223619.png",
-        "timestamp": "2025-09-29 22:36:58",
-        "item": "image_20250929_223619.png"
     }
 ]
