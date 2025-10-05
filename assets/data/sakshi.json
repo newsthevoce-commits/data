@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/vijayawada-old-women-incident-2584577",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_233625.png",
+        "timestamp": "2025-10-05 23:36:43",
+        "item": "image_20251005_233625.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/harish-rao-comments-bjp-2584199",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_223755.png",
         "timestamp": "2025-10-05 22:38:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_163758.png",
         "timestamp": "2025-09-30 16:38:09",
         "item": "image_20250930_163758.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/balika-vadhu-actress-avika-gor-and-milind-chandwani-are-officially-married",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_153750.png",
-        "timestamp": "2025-09-30 15:38:03",
-        "item": "image_20250930_153750.png"
     }
 ]
