@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/icc-womens-world-cup-2025-india-wins-over-pakistan-88-runs-2584175",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_203933.png",
+        "timestamp": "2025-10-05 20:40:10",
+        "item": "image_20251005_203933.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/another-woman-died-turakapalem-guntur-district-2584174",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_193940.png",
         "timestamp": "2025-10-05 19:39:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_134103.png",
         "timestamp": "2025-09-30 13:41:14",
         "item": "image_20250930_134103.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/ayodhya-police-ban-burning-240-ft-ravana-meghnad-and-kumbhkaran-2580529",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_113835.png",
-        "timestamp": "2025-09-30 11:38:49",
-        "item": "image_20250930_113835.png"
     }
 ]
