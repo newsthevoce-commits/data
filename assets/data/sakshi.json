@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/supreme-court-lawyer-suspended-trying-throw-shoe-chief-justice-gavai-2585102",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_153707.png",
+        "timestamp": "2025-10-06 15:37:19",
+        "item": "image_20251006_153707.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/tgrtc-digital-pass-mee-ticket-coming-soon-telangana-2585084",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_143713.png",
         "timestamp": "2025-10-06 14:37:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_063942.png",
         "timestamp": "2025-10-06 06:39:52",
         "item": "image_20251006_063942.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/anantapur-road-incident-2584899",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_053921.png",
-        "timestamp": "2025-10-06 05:39:37",
-        "item": "image_20251006_053921.png"
     }
 ]
