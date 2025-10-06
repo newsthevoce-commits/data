@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/massive-fire-kills-six-patients-at-jaipur-hospital/0300/125182816",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023706.png",
+        "timestamp": "2025-10-06 02:37:15",
+        "item": "image_20251006_023706.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-death-two-students-at-kurupam-gurukulam-is-sad-pawan-kalyan/6/125182323",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_213836.png",
         "timestamp": "2025-10-05 21:38:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_143546.png",
         "timestamp": "2025-09-30 14:35:57",
         "item": "image_20250930_143546.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/9-foreign-eambassies-in-chennai-receives-bomb-threat-security-tightened/0700/125179343",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133852.png",
-        "timestamp": "2025-09-30 13:39:00",
-        "item": "image_20250930_133852.png"
     }
 ]
