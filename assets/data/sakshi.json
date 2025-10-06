@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/first-indian-science-lecturer-radha-pant-allahabad-university-2584983",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_083757.png",
+        "timestamp": "2025-10-06 08:38:06",
+        "item": "image_20251006_083757.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/genz-candlelight-concerts-or-live-music-events-latest-trend-hyderabad-2584966",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_074022.png",
         "timestamp": "2025-10-06 07:40:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_223755.png",
         "timestamp": "2025-10-05 22:38:14",
         "item": "image_20251005_223755.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-06-10-2025-2584184",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_214048.png",
-        "timestamp": "2025-10-05 21:41:04",
-        "item": "image_20251005_214048.png"
     }
 ]
