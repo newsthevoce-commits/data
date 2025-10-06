@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/breaking-news/pawan-kalyans-og-sensation-in-collections/559481/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_064044.png",
+        "timestamp": "2025-10-06 06:40:57",
+        "item": "image_20251006_064044.png"
+    },
+    {
         "url": "https://vaartha.com/breaking-news/vivek-as-the-villain-in-prabhas-spirit/559451/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_044226.png",
         "timestamp": "2025-10-06 04:42:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_073901.png",
         "timestamp": "2025-09-30 07:39:13",
         "item": "image_20250930_073901.png"
-    },
-    {
-        "url": "https://vaartha.com/rasi-phalalu-today-horoscope/rasi-phalalu-today-30-september-2025/556775/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_063810.png",
-        "timestamp": "2025-09-30 06:38:21",
-        "item": "image_20250930_063810.png"
     }
 ]
