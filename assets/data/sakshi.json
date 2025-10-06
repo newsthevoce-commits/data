@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/anantapur-road-incident-2584899",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_053921.png",
+        "timestamp": "2025-10-06 05:39:37",
+        "item": "image_20251006_053921.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/pro-kabaddi-league-telugu-titans-battle-past-yoddhas-2584873",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_044125.png",
         "timestamp": "2025-10-06 04:41:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_193940.png",
         "timestamp": "2025-10-05 19:39:53",
         "item": "image_20251005_193940.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/supreme-court-hear-issue-water-storage-height-increase-almatti-2580602",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_223916.png",
-        "timestamp": "2025-09-30 22:39:40",
-        "item": "image_20250930_223916.png"
     }
 ]
