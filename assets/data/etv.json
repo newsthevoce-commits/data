@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/gavaskar-warns-be-ready-for-more-bad-news/0400/125182867",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_203646.png",
+        "timestamp": "2025-10-06 20:36:53",
+        "item": "image_20251006_203646.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/shobu-yarlagadda-about-baahubali-3-rumours/0210/125182994",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_193602.png",
         "timestamp": "2025-10-06 19:36:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113624.png",
         "timestamp": "2025-10-06 11:36:32",
         "item": "image_20251006_113624.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/siraj-opens-up-on-heartbreaking-dismissal-at-lords/0400/125182853",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103544.png",
-        "timestamp": "2025-10-06 10:35:52",
-        "item": "image_20251006_103544.png"
     }
 ]
