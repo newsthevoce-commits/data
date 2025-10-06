@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-07/israel-gaza-war-impacts-on-society-after-two-years/105856702",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213524.png",
+        "timestamp": "2025-10-06 21:35:35",
+        "item": "image_20251006_213524.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-07/australian-flotilla-detainees-rough-treatment-dfat/105860420",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_203458.png",
         "timestamp": "2025-10-06 20:35:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_193545.png",
         "timestamp": "2025-10-05 19:35:54",
         "item": "image_20251005_193545.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-01/prostate-cancer-drug-plutetium-unavailable-in-public-hospitals/105817548",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_213556.png",
-        "timestamp": "2025-09-30 21:36:15",
-        "item": "image_20250930_213556.png"
     }
 ]
