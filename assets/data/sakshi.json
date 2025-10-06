@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/ro-ro-ferry-breaks-down-virar-maharashtra-2584854",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033837.png",
+        "timestamp": "2025-10-06 03:38:50",
+        "item": "image_20251006_033837.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/heavy-rains-andhra-pradesh-2584699",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023918.png",
         "timestamp": "2025-10-06 02:39:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_214216.png",
         "timestamp": "2025-09-30 21:42:43",
         "item": "image_20250930_214216.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/omega-seiki-launches-self-driving-electric-three-wheeler-india-2580590",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_184058.png",
-        "timestamp": "2025-09-30 18:41:18",
-        "item": "image_20250930_184058.png"
     }
 ]
