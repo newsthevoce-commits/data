@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/heavy-rains-andhra-pradesh-2584699",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023918.png",
+        "timestamp": "2025-10-06 02:39:37",
+        "item": "image_20251006_023918.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/sonam-wangchuk-gandhian-message-jail-ladakh-statehood-protesters-2584686",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_013648.png",
         "timestamp": "2025-10-06 01:36:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_184058.png",
         "timestamp": "2025-09-30 18:41:18",
         "item": "image_20250930_184058.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/india-women-have-posted-total-269-runs-loss-8-wickets-agianst-srilanka-2580587",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_173823.png",
-        "timestamp": "2025-09-30 17:38:35",
-        "item": "image_20250930_173823.png"
     }
 ]
