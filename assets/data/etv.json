@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/pastejacking-is-a-new-threat-to-computers/1702/125182721",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_143528.png",
+        "timestamp": "2025-10-06 14:35:36",
+        "item": "image_20251006_143528.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-jubilee-hills-by-election-schedule-released/529/125182924",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_133552.png",
         "timestamp": "2025-10-06 13:36:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_053712.png",
         "timestamp": "2025-10-06 05:37:24",
         "item": "image_20251006_053712.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125182680",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_043921.png",
-        "timestamp": "2025-10-06 04:39:29",
-        "item": "image_20251006_043921.png"
     }
 ]
