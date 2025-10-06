@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-minister-nara-lokesh-fires-on-ysrcp/6/125182980",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173716.png",
+        "timestamp": "2025-10-06 17:37:29",
+        "item": "image_20251006_173716.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-land-sold-for-record-price-in-rayadurgam/529/125182971",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163502.png",
         "timestamp": "2025-10-06 16:35:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_083543.png",
         "timestamp": "2025-10-06 08:35:51",
         "item": "image_20251006_083543.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/by-the-time-i-learnt-about-the-incident-my-mother-was-dead-in-jaipur-hospital-fire-incident/0700/125182834",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_073815.png",
-        "timestamp": "2025-10-06 07:38:26",
-        "item": "image_20251006_073815.png"
     }
 ]
