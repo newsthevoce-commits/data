@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-jubilee-hills-by-election-schedule-released/529/125182924",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_133552.png",
+        "timestamp": "2025-10-06 13:36:00",
+        "item": "image_20251006_133552.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-minister-ponnam-on-bc-reservations/529/125182907",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_123544.png",
         "timestamp": "2025-10-06 12:35:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_043921.png",
         "timestamp": "2025-10-06 04:39:29",
         "item": "image_20251006_043921.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/aicc-to-announce-jubileehills-congress-candidate-soon/1802/125182545",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033624.png",
-        "timestamp": "2025-10-06 03:36:35",
-        "item": "image_20251006_033624.png"
     }
 ]
