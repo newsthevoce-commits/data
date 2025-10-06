@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/college-degree-not-enough-ai-literacy-crucial-says-linkedin-ceo-ryan-roslansky",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_183734.png",
+        "timestamp": "2025-10-06 18:37:48",
+        "item": "image_20251006_183734.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/new-record-hyderabad-land-auction-rs177-crore-acre-2585111",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173910.png",
         "timestamp": "2025-10-06 17:39:21",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093723.png",
         "timestamp": "2025-10-06 09:37:41",
         "item": "image_20251006_093723.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/first-indian-science-lecturer-radha-pant-allahabad-university-2584983",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_083757.png",
-        "timestamp": "2025-10-06 08:38:06",
-        "item": "image_20251006_083757.png"
     }
 ]
