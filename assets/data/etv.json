@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125182680",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_043921.png",
+        "timestamp": "2025-10-06 04:39:29",
+        "item": "image_20251006_043921.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/aicc-to-announce-jubileehills-congress-candidate-soon/1802/125182545",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033624.png",
         "timestamp": "2025-10-06 03:36:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_163554.png",
         "timestamp": "2025-09-30 16:36:04",
         "item": "image_20250930_163554.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/chittoor-snapa-thirumanjanam-in-tirumala/2/125179383",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_153545.png",
-        "timestamp": "2025-09-30 15:35:56",
-        "item": "image_20250930_153545.png"
     }
 ]
