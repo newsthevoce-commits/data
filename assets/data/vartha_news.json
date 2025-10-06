@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/blow-after-blow-to-pakistan/559530/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_074126.png",
+        "timestamp": "2025-10-06 07:41:42",
+        "item": "image_20251006_074126.png"
+    },
+    {
         "url": "https://vaartha.com/breaking-news/pawan-kalyans-og-sensation-in-collections/559481/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_064044.png",
         "timestamp": "2025-10-06 06:40:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_083851.png",
         "timestamp": "2025-09-30 08:39:04",
         "item": "image_20250930_083851.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/nepal-wins-historic-t20-series-against-west-indies/556891/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_073901.png",
-        "timestamp": "2025-09-30 07:39:13",
-        "item": "image_20250930_073901.png"
     }
 ]
