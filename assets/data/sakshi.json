@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/cab-driver-viral-video-highlights-true-dedication-childrens-safety-2585126",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_003646.png",
+        "timestamp": "2025-10-07 00:36:57",
+        "item": "image_20251007_003646.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/crime/man-dies-after-failing-pay-bike-emi-telangana-2585123",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213903.png",
         "timestamp": "2025-10-06 21:39:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_123750.png",
         "timestamp": "2025-10-06 12:38:03",
         "item": "image_20251006_123750.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/hyderabad-realty-boom-auto-mode-said-naredco-president-2585028",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113831.png",
-        "timestamp": "2025-10-06 11:38:43",
-        "item": "image_20251006_113831.png"
     }
 ]
