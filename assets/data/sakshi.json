@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/pro-kabaddi-league-telugu-titans-battle-past-yoddhas-2584873",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_044125.png",
+        "timestamp": "2025-10-06 04:41:45",
+        "item": "image_20251006_044125.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/ro-ro-ferry-breaks-down-virar-maharashtra-2584854",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033837.png",
         "timestamp": "2025-10-06 03:38:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_223916.png",
         "timestamp": "2025-09-30 22:39:40",
         "item": "image_20250930_223916.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/astrology/rasi-phalalu-daily-horoscope-01-10-2025-telugu-2580593",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_214216.png",
-        "timestamp": "2025-09-30 21:42:43",
-        "item": "image_20250930_214216.png"
     }
 ]
