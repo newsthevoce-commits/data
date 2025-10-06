@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/india-women-cricket-team-bowlers-shatter-pakistan-batters/559626/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103851.png",
+        "timestamp": "2025-10-06 10:39:04",
+        "item": "image_20251006_103851.png"
+    },
+    {
         "url": "https://vaartha.com/andhra-pradesh/ttd-gst-gst-burden-reduced-on-srivari-devotees/559573/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093828.png",
         "timestamp": "2025-10-06 09:38:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_153849.png",
         "timestamp": "2025-09-30 15:39:01",
         "item": "image_20250930_153849.png"
-    },
-    {
-        "url": "https://vaartha.com/telangana/ghmc-employees-to-get-rs-30-lakh-1-25-crore-insurance/557075/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_134208.png",
-        "timestamp": "2025-09-30 13:42:22",
-        "item": "image_20250930_134208.png"
     }
 ]
