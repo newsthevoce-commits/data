@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/siraj-opens-up-on-heartbreaking-dismissal-at-lords/0400/125182853",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103544.png",
+        "timestamp": "2025-10-06 10:35:52",
+        "item": "image_20251006_103544.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/police-filed-case-on-six-members/0300/125182852",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093516.png",
         "timestamp": "2025-10-06 09:35:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_213836.png",
         "timestamp": "2025-10-05 21:38:45",
         "item": "image_20251005_213836.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/india-women-team-won-by-88-runs-aginast-pakistan/0400/125182326",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_193741.png",
-        "timestamp": "2025-10-05 19:37:50",
-        "item": "image_20251005_193741.png"
     }
 ]
