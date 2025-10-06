@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/by-the-time-i-learnt-about-the-incident-my-mother-was-dead-in-jaipur-hospital-fire-incident/0700/125182834",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_073815.png",
+        "timestamp": "2025-10-06 07:38:26",
+        "item": "image_20251006_073815.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/election-commission-to-announce-schedule-for-bihar-assembly-polls-today/0700/125182823",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_063736.png",
         "timestamp": "2025-10-06 06:37:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_193739.png",
         "timestamp": "2025-09-30 19:37:56",
         "item": "image_20250930_193739.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-second-danger-warning-issued-at-prakasam-barrage/6/125179408",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_183743.png",
-        "timestamp": "2025-09-30 18:37:59",
-        "item": "image_20250930_183743.png"
     }
 ]
