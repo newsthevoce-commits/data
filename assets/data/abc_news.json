@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-06/melbourne-builder-mike-harris-under-investigation/105849496",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023506.png",
+        "timestamp": "2025-10-06 02:35:15",
+        "item": "image_20251006_023506.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-05/man-arrested-after-shooting-in-sydney-croydon-park/105854454",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_223512.png",
         "timestamp": "2025-10-05 22:35:31",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_123848.png",
         "timestamp": "2025-09-29 12:38:59",
         "item": "image_20250929_123848.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-29/bourke-street-mall-incident-police-pursuit-arrests/105830762",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_082955.png",
-        "timestamp": "2025-09-29 08:30:08",
-        "item": "image_20250929_082955.png"
     }
 ]
