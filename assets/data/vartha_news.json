@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/hyderabad/rabiesboy-dies-of-rabies/559775/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_133906.png",
+        "timestamp": "2025-10-06 13:39:18",
+        "item": "image_20251006_133906.png"
+    },
+    {
         "url": "https://vaartha.com/sports/what-does-rohit-say-about-gill-being-given-odi-captaincy/559706/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113929.png",
         "timestamp": "2025-10-06 11:39:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_194045.png",
         "timestamp": "2025-10-05 19:40:58",
         "item": "image_20251005_194045.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/india-vs-west-indies-test-series-where-can-i-watch-it-for-free/557316/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_194105.png",
-        "timestamp": "2025-09-30 19:41:26",
-        "item": "image_20250930_194105.png"
     }
 ]
