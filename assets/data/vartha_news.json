@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/breaking-news/vivek-as-the-villain-in-prabhas-spirit/559451/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_044226.png",
+        "timestamp": "2025-10-06 04:42:38",
+        "item": "image_20251006_044226.png"
+    },
+    {
         "url": "https://vaartha.com/health/women-are-more-susceptible-to-cold/559513/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033942.png",
         "timestamp": "2025-10-06 03:39:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_063810.png",
         "timestamp": "2025-09-30 06:38:21",
         "item": "image_20250930_063810.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/chris-woakes-england-all-rounder-announces-retirement-from-international-cricket/556793/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_194055.png",
-        "timestamp": "2025-09-29 19:41:18",
-        "item": "image_20250929_194055.png"
     }
 ]
