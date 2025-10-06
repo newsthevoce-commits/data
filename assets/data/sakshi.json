@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/tim-cook-step-down-apple-ceo-who-could-take-charge-2585108",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163655.png",
+        "timestamp": "2025-10-06 16:37:08",
+        "item": "image_20251006_163655.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/supreme-court-lawyer-suspended-trying-throw-shoe-chief-justice-gavai-2585102",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_153707.png",
         "timestamp": "2025-10-06 15:37:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_074022.png",
         "timestamp": "2025-10-06 07:40:41",
         "item": "image_20251006_074022.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/george-russell-wins-f1-singapore-grand-prix-2584952",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_063942.png",
-        "timestamp": "2025-10-06 06:39:52",
-        "item": "image_20251006_063942.png"
     }
 ]
