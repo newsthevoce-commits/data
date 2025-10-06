@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-06/China-s-holiday-consumption-showcases-economic-vitality-innovation-1HfaxOF1HJC/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_073437.png",
+        "timestamp": "2025-10-06 07:34:46",
+        "item": "image_20251006_073437.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-06/Trump-says-U-S-hit-another-boat-off-Venezuela-coast-on-Saturday-1Hf6veBVOow/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_053418.png",
         "timestamp": "2025-10-06 05:34:31",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_142843.png",
         "timestamp": "2025-09-21 14:29:08",
         "item": "image_20250921_142843.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-21/Experts-hail-China-proposed-Global-Governance-Initiative-at-seminars-1GQrH6I43QY/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250921_092749.png",
-        "timestamp": "2025-09-21 09:28:06",
-        "item": "image_20250921_092749.png"
     }
 ]
