@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/police-filed-case-on-six-members/0300/125182852",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093516.png",
+        "timestamp": "2025-10-06 09:35:27",
+        "item": "image_20251006_093516.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/amitabh-bachchan-says-women-shouldnt-call-themselves-homemakers/0201/125182847",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_083543.png",
         "timestamp": "2025-10-06 08:35:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_193741.png",
         "timestamp": "2025-10-05 19:37:50",
         "item": "image_20251005_193741.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/donald-trump-big-warning-after-gaza-peace-plan/0800/125179397",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_213847.png",
-        "timestamp": "2025-09-30 21:39:03",
-        "item": "image_20250930_213847.png"
     }
 ]
