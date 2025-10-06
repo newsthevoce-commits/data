@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-land-sold-for-record-price-in-rayadurgam/529/125182971",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163502.png",
+        "timestamp": "2025-10-06 16:35:10",
+        "item": "image_20251006_163502.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-jubilee-hills-by-election-10-days-to-register-new-voters/529/125182959",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_153458.png",
         "timestamp": "2025-10-06 15:35:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_073815.png",
         "timestamp": "2025-10-06 07:38:26",
         "item": "image_20251006_073815.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/election-commission-to-announce-schedule-for-bihar-assembly-polls-today/0700/125182823",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_063736.png",
-        "timestamp": "2025-10-06 06:37:44",
-        "item": "image_20251006_063736.png"
     }
 ]
