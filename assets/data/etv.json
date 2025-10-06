@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/aicc-to-announce-jubileehills-congress-candidate-soon/1802/125182545",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033624.png",
+        "timestamp": "2025-10-06 03:36:35",
+        "item": "image_20251006_033624.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/massive-fire-kills-six-patients-at-jaipur-hospital/0300/125182816",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023706.png",
         "timestamp": "2025-10-06 02:37:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_153545.png",
         "timestamp": "2025-09-30 15:35:56",
         "item": "image_20250930_153545.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/minister-lokesh-attends-airbus-board-meeting-in-delhi/1701/125179368",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_143546.png",
-        "timestamp": "2025-09-30 14:35:57",
-        "item": "image_20250930_143546.png"
     }
 ]
