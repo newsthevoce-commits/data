@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/shobu-yarlagadda-about-baahubali-3-rumours/0210/125182994",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_193602.png",
+        "timestamp": "2025-10-06 19:36:11",
+        "item": "image_20251006_193602.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/vijay-deverakonda-react-on-accident/0201/125182988",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_183525.png",
         "timestamp": "2025-10-06 18:35:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103544.png",
         "timestamp": "2025-10-06 10:35:52",
         "item": "image_20251006_103544.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/police-filed-case-on-six-members/0300/125182852",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093516.png",
-        "timestamp": "2025-10-06 09:35:27",
-        "item": "image_20251006_093516.png"
     }
 ]
