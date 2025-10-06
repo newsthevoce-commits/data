@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-07/australian-flotilla-detainees-rough-treatment-dfat/105860420",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_203458.png",
+        "timestamp": "2025-10-06 20:35:06",
+        "item": "image_20251006_203458.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-06/alleged-croydon-park-sydney-inner-west-shooter-charged/105859136",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173523.png",
         "timestamp": "2025-10-06 17:35:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_213556.png",
         "timestamp": "2025-09-30 21:36:15",
         "item": "image_20250930_213556.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-30/more-sunscreens-pulled-from-shelves-over-spf-concerns/105836976",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133656.png",
-        "timestamp": "2025-09-30 13:37:05",
-        "item": "image_20250930_133656.png"
     }
 ]
