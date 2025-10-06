@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/women-village-self-help-group-jharkhand-2585733",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_013759.png",
+        "timestamp": "2025-10-07 01:38:09",
+        "item": "image_20251007_013759.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/cab-driver-viral-video-highlights-true-dedication-childrens-safety-2585126",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_003646.png",
         "timestamp": "2025-10-07 00:36:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_133804.png",
         "timestamp": "2025-10-06 13:38:15",
         "item": "image_20251006_133804.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-pinky-sudeepa-shares-maternity-photoshoot-video-2585064",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_123750.png",
-        "timestamp": "2025-10-06 12:38:03",
-        "item": "image_20251006_123750.png"
     }
 ]
