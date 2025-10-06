@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/hyderabad-realty-boom-auto-mode-said-naredco-president-2585028",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113831.png",
+        "timestamp": "2025-10-06 11:38:43",
+        "item": "image_20251006_113831.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/why-wealthiest-indians-who-built-their-fortunes-abroad-2585025",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103749.png",
         "timestamp": "2025-10-06 10:37:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023918.png",
         "timestamp": "2025-10-06 02:39:37",
         "item": "image_20251006_023918.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/sonam-wangchuk-gandhian-message-jail-ladakh-statehood-protesters-2584686",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_013648.png",
-        "timestamp": "2025-10-06 01:36:57",
-        "item": "image_20251006_013648.png"
     }
 ]
