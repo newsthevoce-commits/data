@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-06/alleged-croydon-park-sydney-inner-west-shooter-charged/105859136",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173523.png",
+        "timestamp": "2025-10-06 17:35:36",
+        "item": "image_20251006_173523.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-06/png-may-sit-out-australia-china-conflict-despite-defence-pct/105859432",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113426.png",
         "timestamp": "2025-10-06 11:34:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133656.png",
         "timestamp": "2025-09-30 13:37:05",
         "item": "image_20250930_133656.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-30/rba-leaves-interest-rates-on-hold-in-september/105835342",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_093543.png",
-        "timestamp": "2025-09-30 09:35:54",
-        "item": "image_20250930_093543.png"
     }
 ]
