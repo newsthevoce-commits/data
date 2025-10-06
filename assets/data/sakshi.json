@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/new-record-hyderabad-land-auction-rs177-crore-acre-2585111",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173910.png",
+        "timestamp": "2025-10-06 17:39:21",
+        "item": "image_20251006_173910.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/tim-cook-step-down-apple-ceo-who-could-take-charge-2585108",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163655.png",
         "timestamp": "2025-10-06 16:37:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_083757.png",
         "timestamp": "2025-10-06 08:38:06",
         "item": "image_20251006_083757.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/genz-candlelight-concerts-or-live-music-events-latest-trend-hyderabad-2584966",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_074022.png",
-        "timestamp": "2025-10-06 07:40:41",
-        "item": "image_20251006_074022.png"
     }
 ]
