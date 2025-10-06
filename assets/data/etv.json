@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-minister-ponnam-on-bc-reservations/529/125182907",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_123544.png",
+        "timestamp": "2025-10-06 12:35:52",
+        "item": "image_20251006_123544.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/french-prime-minister-sebastien-lecornu-resigned/0800/125182871",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113624.png",
         "timestamp": "2025-10-06 11:36:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_033624.png",
         "timestamp": "2025-10-06 03:36:35",
         "item": "image_20251006_033624.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/massive-fire-kills-six-patients-at-jaipur-hospital/0300/125182816",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023706.png",
-        "timestamp": "2025-10-06 02:37:15",
-        "item": "image_20251006_023706.png"
     }
 ]
