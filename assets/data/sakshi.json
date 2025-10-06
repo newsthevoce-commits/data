@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ys-jagan-condemns-attack-cji-gavai-2585121",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_193757.png",
+        "timestamp": "2025-10-06 19:38:09",
+        "item": "image_20251006_193757.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/college-degree-not-enough-ai-literacy-crucial-says-linkedin-ceo-ryan-roslansky",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_183734.png",
         "timestamp": "2025-10-06 18:37:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103749.png",
         "timestamp": "2025-10-06 10:37:58",
         "item": "image_20251006_103749.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/dgca-directed-airlines-add-over-1700-flights-ahead-diwali-2025-2585004",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093723.png",
-        "timestamp": "2025-10-06 09:37:41",
-        "item": "image_20251006_093723.png"
     }
 ]
