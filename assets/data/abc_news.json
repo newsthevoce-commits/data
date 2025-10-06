@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-06/more-optus-triple-zero-fails-outside-of-confirmed-times/105856172",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_063544.png",
+        "timestamp": "2025-10-06 06:35:52",
+        "item": "image_20251006_063544.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-06/how-valerie-became-the-worlds-most-notorious-sausage-dog/105832548",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_043744.png",
         "timestamp": "2025-10-06 04:37:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_053534.png",
         "timestamp": "2025-09-30 05:35:45",
         "item": "image_20250930_053534.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-09-30/israel-gaza-peace-plan-white-house-announcement/105832816",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_213720.png",
-        "timestamp": "2025-09-29 21:37:44",
-        "item": "image_20250929_213720.png"
     }
 ]
