@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/singer-maithili-thakur-resopnd-to-contest-on-bihar-assembly-election/0700/125183555",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_103540.png",
+        "timestamp": "2025-10-07 10:35:49",
+        "item": "image_20251007_103540.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-apartment-residents-protest-in-erragadda/529/125183545",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093517.png",
         "timestamp": "2025-10-07 09:35:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_013549.png",
         "timestamp": "2025-10-07 01:35:57",
         "item": "image_20251007_013549.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/cough-syrup-deaths-nhrc-issues-notices-to-3-states-union-health-ministry/0700/125182981",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213712.png",
-        "timestamp": "2025-10-06 21:37:25",
-        "item": "image_20251006_213712.png"
     }
 ]
