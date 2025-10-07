@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/truck-carrying-lpg-cylinders-catches-fire-after-collision-on-jaipur-ajmer-highway/0700/125183764",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_223513.png",
+        "timestamp": "2025-10-07 22:35:25",
+        "item": "image_20251007_223513.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/anantapur-anantapur-icds-pd-suspended/1/125183698",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_213743.png",
         "timestamp": "2025-10-07 21:37:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_133706.png",
         "timestamp": "2025-10-07 13:37:14",
         "item": "image_20251007_133706.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/guntur-young-man-murdered-in-guntur/4/125183592",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123550.png",
-        "timestamp": "2025-10-07 12:35:58",
-        "item": "image_20251007_123550.png"
     }
 ]
