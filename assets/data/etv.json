@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-apartment-residents-protest-in-erragadda/529/125183545",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093517.png",
+        "timestamp": "2025-10-07 09:35:29",
+        "item": "image_20251007_093517.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/minister-adluri-lakshman-comments-on-ponnam-prabhakar/1801/125183532",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083911.png",
         "timestamp": "2025-10-07 08:39:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213712.png",
         "timestamp": "2025-10-06 21:37:25",
         "item": "image_20251006_213712.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/gavaskar-warns-be-ready-for-more-bad-news/0400/125182867",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_203646.png",
-        "timestamp": "2025-10-06 20:36:53",
-        "item": "image_20251006_203646.png"
     }
 ]
