@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125183296",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_033627.png",
+        "timestamp": "2025-10-07 03:36:36",
+        "item": "image_20251007_033627.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/west-godavari-weather-information-based-on-pin-code/13/125183364",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_023625.png",
         "timestamp": "2025-10-07 02:36:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_153458.png",
         "timestamp": "2025-10-06 15:35:06",
         "item": "image_20251006_153458.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/pastejacking-is-a-new-threat-to-computers/1702/125182721",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_143528.png",
-        "timestamp": "2025-10-06 14:35:36",
-        "item": "image_20251006_143528.png"
     }
 ]
