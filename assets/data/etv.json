@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/applications-will-be-accepted-from-tomorrow-for-the-posts-of-driver-and-worker-in-tgs-rtc/1801/125183691",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183623.png",
+        "timestamp": "2025-10-07 18:36:31",
+        "item": "image_20251007_183623.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/landslide-hits-bus-in-himachals-bilaspur-rescue-ops-underway/0700/125183685",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173716.png",
         "timestamp": "2025-10-07 17:37:26",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093517.png",
         "timestamp": "2025-10-07 09:35:29",
         "item": "image_20251007_093517.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/minister-adluri-lakshman-comments-on-ponnam-prabhakar/1801/125183532",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083911.png",
-        "timestamp": "2025-10-07 08:39:25",
-        "item": "image_20251007_083911.png"
     }
 ]
