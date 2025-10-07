@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125183103",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_043715.png",
+        "timestamp": "2025-10-07 04:37:28",
+        "item": "image_20251007_043715.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125183296",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_033627.png",
         "timestamp": "2025-10-07 03:36:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163502.png",
         "timestamp": "2025-10-06 16:35:10",
         "item": "image_20251006_163502.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-jubilee-hills-by-election-10-days-to-register-new-voters/529/125182959",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_153458.png",
-        "timestamp": "2025-10-06 15:35:06",
-        "item": "image_20251006_153458.png"
     }
 ]
