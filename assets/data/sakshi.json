@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/rishabh-pant-set-play-delhi-ranji-trophy-mark-return-injury-says-report-2585952",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_043939.png",
+        "timestamp": "2025-10-07 04:39:52",
+        "item": "image_20251007_043939.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/ev-prices-match-petrol-vehicles-4-6-months-2585939",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_033843.png",
         "timestamp": "2025-10-07 03:38:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163655.png",
         "timestamp": "2025-10-06 16:37:08",
         "item": "image_20251006_163655.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/supreme-court-lawyer-suspended-trying-throw-shoe-chief-justice-gavai-2585102",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_153707.png",
-        "timestamp": "2025-10-06 15:37:19",
-        "item": "image_20251006_153707.png"
     }
 ]
