@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/no-guarantee-that-kohli-and-rohit-will-be-there-for-next-world-cup-says-ab-de-villiers/0401/125183629",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_163544.png",
+        "timestamp": "2025-10-07 16:35:52",
+        "item": "image_20251007_163544.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/congress-leader-comments-on-bihar-chief-minister-face/0700/125183626",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_153538.png",
         "timestamp": "2025-10-07 15:35:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073506.png",
         "timestamp": "2025-10-07 07:35:15",
         "item": "image_20251007_073506.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/alluri-sitharama-raju-news/708/125183113",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_063622.png",
-        "timestamp": "2025-10-07 06:36:34",
-        "item": "image_20251007_063622.png"
     }
 ]
