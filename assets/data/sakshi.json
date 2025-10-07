@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/sagubadi-practical-agricultural-training-youth-2586031",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093730.png",
+        "timestamp": "2025-10-07 09:37:41",
+        "item": "image_20251007_093730.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/actor-sai-kiran-and-sravanthi-will-become-parents-2586014",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_084126.png",
         "timestamp": "2025-10-07 08:41:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_003646.png",
         "timestamp": "2025-10-07 00:36:57",
         "item": "image_20251007_003646.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/crime/man-dies-after-failing-pay-bike-emi-telangana-2585123",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213903.png",
-        "timestamp": "2025-10-06 21:39:13",
-        "item": "image_20251006_213903.png"
     }
 ]
