@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/google-rejected-2013-now-lead-its-startup-wing-who-ragini-das-2586104",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_133908.png",
+        "timestamp": "2025-10-07 13:39:20",
+        "item": "image_20251007_133908.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/nepali-gangster-wanted-multiple-cases-delhi-encounter-2586074",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123801.png",
         "timestamp": "2025-10-07 12:38:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_043939.png",
         "timestamp": "2025-10-07 04:39:52",
         "item": "image_20251007_043939.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/ev-prices-match-petrol-vehicles-4-6-months-2585939",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_033843.png",
-        "timestamp": "2025-10-07 03:38:55",
-        "item": "image_20251007_033843.png"
     }
 ]
