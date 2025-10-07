@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/congress-leader-comments-on-bihar-chief-minister-face/0700/125183626",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_153538.png",
+        "timestamp": "2025-10-07 15:35:46",
+        "item": "image_20251007_153538.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/microplastics-found-deep-inside-human-bones/1702/125183267",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_143508.png",
         "timestamp": "2025-10-07 14:35:16",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_063622.png",
         "timestamp": "2025-10-07 06:36:34",
         "item": "image_20251007_063622.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/khammam-news/531/125183194",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_053517.png",
-        "timestamp": "2025-10-07 05:35:27",
-        "item": "image_20251007_053517.png"
     }
 ]
