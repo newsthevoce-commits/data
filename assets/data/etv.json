@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/khammam-news/531/125183194",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_053517.png",
+        "timestamp": "2025-10-07 05:35:27",
+        "item": "image_20251007_053517.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125183103",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_043715.png",
         "timestamp": "2025-10-07 04:37:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173716.png",
         "timestamp": "2025-10-06 17:37:29",
         "item": "image_20251006_173716.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-land-sold-for-record-price-in-rayadurgam/529/125182971",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_163502.png",
-        "timestamp": "2025-10-06 16:35:10",
-        "item": "image_20251006_163502.png"
     }
 ]
