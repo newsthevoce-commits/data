@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-08/university-course-accreditation-class-action/105820008",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_213551.png",
+        "timestamp": "2025-10-07 21:36:00",
+        "item": "image_20251007_213551.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-07/australians-from-flotilla-to-gaza-reports-from-israel-prison/105860420",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_133508.png",
         "timestamp": "2025-10-07 13:35:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_043744.png",
         "timestamp": "2025-10-06 04:37:54",
         "item": "image_20251006_043744.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-06/melbourne-builder-mike-harris-under-investigation/105849496",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_023506.png",
-        "timestamp": "2025-10-06 02:35:15",
-        "item": "image_20251006_023506.png"
     }
 ]
