@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/in-uk-iphone-led-police-to-gang-of-sending-up-to-40000-stolen-phones-to-china/0800/125183590",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_133706.png",
+        "timestamp": "2025-10-07 13:37:14",
+        "item": "image_20251007_133706.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/guntur-young-man-murdered-in-guntur/4/125183592",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123550.png",
         "timestamp": "2025-10-07 12:35:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_043715.png",
         "timestamp": "2025-10-07 04:37:28",
         "item": "image_20251007_043715.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125183296",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_033627.png",
-        "timestamp": "2025-10-07 03:36:36",
-        "item": "image_20251007_033627.png"
     }
 ]
