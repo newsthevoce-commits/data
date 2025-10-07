@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/akkineni-nagarjuna-shared-fans-special-video-social-media-2586144",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183825.png",
+        "timestamp": "2025-10-07 18:38:42",
+        "item": "image_20251007_183825.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/who-rajinder-gupta-aam-aadmi-party-rajya-sabha-pick-2586131",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_163746.png",
         "timestamp": "2025-10-07 16:37:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_084126.png",
         "timestamp": "2025-10-07 08:41:48",
         "item": "image_20251007_084126.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/minister-adluri-laxman-sensational-comments-vivek-and-ponnam-2586002",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073725.png",
-        "timestamp": "2025-10-07 07:37:44",
-        "item": "image_20251007_073725.png"
     }
 ]
