@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/madhya-pradesh-to-welcome-new-batch-of-foreign-cheetahs/0700/125183657",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_203705.png",
+        "timestamp": "2025-10-07 20:37:14",
+        "item": "image_20251007_203705.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/movies/vijay-deverakonda-school-video/0210/125183697",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_193622.png",
         "timestamp": "2025-10-07 19:36:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_113519.png",
         "timestamp": "2025-10-07 11:35:31",
         "item": "image_20251007_113519.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/singer-maithili-thakur-resopnd-to-contest-on-bihar-assembly-election/0700/125183555",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_103540.png",
-        "timestamp": "2025-10-07 10:35:49",
-        "item": "image_20251007_103540.png"
     }
 ]
