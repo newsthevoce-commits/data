@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/who-rajinder-gupta-aam-aadmi-party-rajya-sabha-pick-2586131",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_163746.png",
+        "timestamp": "2025-10-07 16:37:57",
+        "item": "image_20251007_163746.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/80s-reunion-telugu-tamil-actors-latest-video-2586126",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_153759.png",
         "timestamp": "2025-10-07 15:38:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073725.png",
         "timestamp": "2025-10-07 07:37:44",
         "item": "image_20251007_073725.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/karnataka/youtuber-ghosts-fake-videos-karnataka-2585973",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_063846.png",
-        "timestamp": "2025-10-07 06:38:58",
-        "item": "image_20251007_063846.png"
     }
 ]
