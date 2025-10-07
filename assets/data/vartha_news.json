@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/movies/traffic-fine-for-vijay-devarakondas-car/560214/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093838.png",
+        "timestamp": "2025-10-07 09:38:50",
+        "item": "image_20251007_093838.png"
+    },
+    {
         "url": "https://vaartha.com/movies/otg-ott-date/560123/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_084235.png",
         "timestamp": "2025-10-07 08:42:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113929.png",
         "timestamp": "2025-10-06 11:39:48",
         "item": "image_20251006_113929.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/india-women-cricket-team-bowlers-shatter-pakistan-batters/559626/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103851.png",
-        "timestamp": "2025-10-06 10:39:04",
-        "item": "image_20251006_103851.png"
     }
 ]
