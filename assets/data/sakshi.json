@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/responsible-cab-driver-heartwarming-video-goes-viral-2586036",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_103801.png",
+        "timestamp": "2025-10-07 10:38:13",
+        "item": "image_20251007_103801.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/sagubadi-practical-agricultural-training-youth-2586031",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093730.png",
         "timestamp": "2025-10-07 09:37:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_013759.png",
         "timestamp": "2025-10-07 01:38:09",
         "item": "image_20251007_013759.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/cab-driver-viral-video-highlights-true-dedication-childrens-safety-2585126",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_003646.png",
-        "timestamp": "2025-10-07 00:36:57",
-        "item": "image_20251007_003646.png"
     }
 ]
