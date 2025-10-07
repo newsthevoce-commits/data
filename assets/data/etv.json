@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/microplastics-found-deep-inside-human-bones/1702/125183267",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_143508.png",
+        "timestamp": "2025-10-07 14:35:16",
+        "item": "image_20251007_143508.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/in-uk-iphone-led-police-to-gang-of-sending-up-to-40000-stolen-phones-to-china/0800/125183590",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_133706.png",
         "timestamp": "2025-10-07 13:37:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_053517.png",
         "timestamp": "2025-10-07 05:35:27",
         "item": "image_20251007_053517.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125183103",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_043715.png",
-        "timestamp": "2025-10-07 04:37:28",
-        "item": "image_20251007_043715.png"
     }
 ]
