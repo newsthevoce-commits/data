@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-07/efforts-to-rescue-indonesian-students-buried-under-school/105857382",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083713.png",
+        "timestamp": "2025-10-07 08:37:27",
+        "item": "image_20251007_083713.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-07/barwon-health-sued-after-victorian-man-loses-left-eye-infection/105858504",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_023427.png",
         "timestamp": "2025-10-07 02:34:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_223512.png",
         "timestamp": "2025-10-05 22:35:31",
         "item": "image_20251005_223512.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-06/nt-betting-regulator-accused-close-industry-four-corners/105848692",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251005_213634.png",
-        "timestamp": "2025-10-05 21:36:47",
-        "item": "image_20251005_213634.png"
     }
 ]
