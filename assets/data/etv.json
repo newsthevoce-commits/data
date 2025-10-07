@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/vijay-deverakonda-school-video/0210/125183697",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_193622.png",
+        "timestamp": "2025-10-07 19:36:35",
+        "item": "image_20251007_193622.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/applications-will-be-accepted-from-tomorrow-for-the-posts-of-driver-and-worker-in-tgs-rtc/1801/125183691",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183623.png",
         "timestamp": "2025-10-07 18:36:31",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_103540.png",
         "timestamp": "2025-10-07 10:35:49",
         "item": "image_20251007_103540.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-apartment-residents-protest-in-erragadda/529/125183545",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093517.png",
-        "timestamp": "2025-10-07 09:35:29",
-        "item": "image_20251007_093517.png"
     }
 ]
