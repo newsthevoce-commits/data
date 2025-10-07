@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/karnataka/youtuber-ghosts-fake-videos-karnataka-2585973",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_063846.png",
+        "timestamp": "2025-10-07 06:38:58",
+        "item": "image_20251007_063846.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/international/hiker-dies-china-after-removing-safety-rope-selfie-video-2585961",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_053725.png",
         "timestamp": "2025-10-07 05:37:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_183734.png",
         "timestamp": "2025-10-06 18:37:48",
         "item": "image_20251006_183734.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/new-record-hyderabad-land-auction-rs177-crore-acre-2585111",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173910.png",
-        "timestamp": "2025-10-06 17:39:21",
-        "item": "image_20251006_173910.png"
     }
 ]
