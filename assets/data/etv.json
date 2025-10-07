@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/anantapur-anantapur-icds-pd-suspended/1/125183698",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_213743.png",
+        "timestamp": "2025-10-07 21:37:51",
+        "item": "image_20251007_213743.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/madhya-pradesh-to-welcome-new-batch-of-foreign-cheetahs/0700/125183657",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_203705.png",
         "timestamp": "2025-10-07 20:37:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123550.png",
         "timestamp": "2025-10-07 12:35:58",
         "item": "image_20251007_123550.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/25-years-of-venkatesh-jayam-manadera/0208/125183565",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_113519.png",
-        "timestamp": "2025-10-07 11:35:31",
-        "item": "image_20251007_113519.png"
     }
 ]
