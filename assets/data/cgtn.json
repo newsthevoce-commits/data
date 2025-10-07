@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-07/China-sees-inbound-tourism-boom-over-National-Day-Mid-Autumn-holidays-1Hhui8tT9za/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173421.png",
+        "timestamp": "2025-10-07 17:34:30",
+        "item": "image_20251007_173421.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-07/Li-Qiang-to-visit-DPRK-for-80th-anniversary-of-Workers-Party-of-Korea-1HgPY3OgaBy/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083416.png",
         "timestamp": "2025-10-07 08:34:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_132738.png",
         "timestamp": "2025-09-24 13:27:49",
         "item": "image_20250924_132738.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-22/China-tech-SME-loans-grow-by-20-yearly-2021-2025-central-bank-1GSmvOJBTC8/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250922_125039.png",
-        "timestamp": "2025-09-22 12:51:11",
-        "item": "image_20250922_125039.png"
     }
 ]
