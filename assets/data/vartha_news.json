@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/health/rambutan-fruit-a-great-blend-of-taste-health-and-nutritional-value/560297/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123903.png",
+        "timestamp": "2025-10-07 12:39:21",
+        "item": "image_20251007_123903.png"
+    },
+    {
         "url": "https://vaartha.com/movies/traffic-fine-for-vijay-devarakondas-car/560214/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_093838.png",
         "timestamp": "2025-10-07 09:38:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_133906.png",
         "timestamp": "2025-10-06 13:39:18",
         "item": "image_20251006_133906.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/what-does-rohit-say-about-gill-being-given-odi-captaincy/559706/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113929.png",
-        "timestamp": "2025-10-06 11:39:48",
-        "item": "image_20251006_113929.png"
     }
 ]
