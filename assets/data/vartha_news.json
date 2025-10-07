@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/movies/otg-ott-date/560123/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_084235.png",
+        "timestamp": "2025-10-07 08:42:51",
+        "item": "image_20251007_084235.png"
+    },
+    {
         "url": "https://vaartha.com/rasi-phalalu-today-horoscope/today-rasiphalalu-horoscope-07-october-2025-horoscope-in-telugu/559907/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073839.png",
         "timestamp": "2025-10-07 07:38:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_103851.png",
         "timestamp": "2025-10-06 10:39:04",
         "item": "image_20251006_103851.png"
-    },
-    {
-        "url": "https://vaartha.com/andhra-pradesh/ttd-gst-gst-burden-reduced-on-srivari-devotees/559573/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_093828.png",
-        "timestamp": "2025-10-06 09:38:45",
-        "item": "image_20251006_093828.png"
     }
 ]
