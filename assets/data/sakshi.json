@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/actor-sai-kiran-and-sravanthi-will-become-parents-2586014",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_084126.png",
+        "timestamp": "2025-10-07 08:41:48",
+        "item": "image_20251007_084126.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/minister-adluri-laxman-sensational-comments-vivek-and-ponnam-2586002",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073725.png",
         "timestamp": "2025-10-07 07:37:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213903.png",
         "timestamp": "2025-10-06 21:39:13",
         "item": "image_20251006_213903.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ys-jagan-condemns-attack-cji-gavai-2585121",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_193757.png",
-        "timestamp": "2025-10-06 19:38:09",
-        "item": "image_20251006_193757.png"
     }
 ]
