@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/25-years-of-venkatesh-jayam-manadera/0208/125183565",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_113519.png",
+        "timestamp": "2025-10-07 11:35:31",
+        "item": "image_20251007_113519.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/singer-maithili-thakur-resopnd-to-contest-on-bihar-assembly-election/0700/125183555",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_103540.png",
         "timestamp": "2025-10-07 10:35:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_023625.png",
         "timestamp": "2025-10-07 02:36:33",
         "item": "image_20251007_023625.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/the-unit-of-electricity-is-2-paise/1802/125183216",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_013549.png",
-        "timestamp": "2025-10-07 01:35:57",
-        "item": "image_20251007_013549.png"
     }
 ]
