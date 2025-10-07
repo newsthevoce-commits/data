@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/nepali-gangster-wanted-multiple-cases-delhi-encounter-2586074",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123801.png",
+        "timestamp": "2025-10-07 12:38:12",
+        "item": "image_20251007_123801.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-key-meeting-ys-jagan-fires-chandrababu-government-2586059",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_113744.png",
         "timestamp": "2025-10-07 11:38:00",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_033843.png",
         "timestamp": "2025-10-07 03:38:55",
         "item": "image_20251007_033843.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/phc-doctors-strike-vijayawada-2585920",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_023833.png",
-        "timestamp": "2025-10-07 02:38:45",
-        "item": "image_20251007_023833.png"
     }
 ]
