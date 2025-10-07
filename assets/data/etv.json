@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/minister-adluri-lakshman-comments-on-ponnam-prabhakar/1801/125183532",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083911.png",
+        "timestamp": "2025-10-07 08:39:25",
+        "item": "image_20251007_083911.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/general/0400/125183518",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073506.png",
         "timestamp": "2025-10-07 07:35:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_203646.png",
         "timestamp": "2025-10-06 20:36:53",
         "item": "image_20251006_203646.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/shobu-yarlagadda-about-baahubali-3-rumours/0210/125182994",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_193602.png",
-        "timestamp": "2025-10-06 19:36:11",
-        "item": "image_20251006_193602.png"
     }
 ]
