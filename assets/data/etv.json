@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/can-already-see-india-starting-to-diversify-russian-oil-says-trump-trade-adviser/0800/125184242",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073511.png",
+        "timestamp": "2025-10-08 07:35:23",
+        "item": "image_20251008_073511.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/kurnool-news/7/125184180",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053621.png",
         "timestamp": "2025-10-08 05:36:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183623.png",
         "timestamp": "2025-10-07 18:36:31",
         "item": "image_20251007_183623.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/landslide-hits-bus-in-himachals-bilaspur-rescue-ops-underway/0700/125183685",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173716.png",
-        "timestamp": "2025-10-07 17:37:26",
-        "item": "image_20251007_173716.png"
     }
 ]
