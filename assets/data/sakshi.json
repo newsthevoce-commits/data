@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/editorial/sakshi-editorial-india-afghanistan-relations-2587255",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_213914.png",
+        "timestamp": "2025-10-08 21:39:32",
+        "item": "image_20251008_213914.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/naveen-yadav-congress-mla-candidate-jubilee-hills-2587253",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_193753.png",
         "timestamp": "2025-10-08 19:38:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_103717.png",
         "timestamp": "2025-10-08 10:37:34",
         "item": "image_20251008_103717.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/bihar-assembly-election-2025-bjp-compared-lalu-dhritarashtra-2587138",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_093906.png",
-        "timestamp": "2025-10-08 09:39:17",
-        "item": "image_20251008_093906.png"
     }
 ]
