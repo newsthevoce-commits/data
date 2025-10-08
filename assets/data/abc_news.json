@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-08/optus-email-mishap-left-department-in-dark/105866628",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053430.png",
+        "timestamp": "2025-10-08 05:34:39",
+        "item": "image_20251008_053430.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-08/nsw-revesby-police-intercept-kill-team-near-childcare-centre/105864634",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_003502.png",
         "timestamp": "2025-10-08 00:35:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113426.png",
         "timestamp": "2025-10-06 11:34:37",
         "item": "image_20251006_113426.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-06/more-optus-triple-zero-fails-outside-of-confirmed-times/105856172",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_063544.png",
-        "timestamp": "2025-10-06 06:35:52",
-        "item": "image_20251006_063544.png"
     }
 ]
