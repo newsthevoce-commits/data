@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-08/metals-facility-bailout-china-price-pressure/105865170",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_093508.png",
+        "timestamp": "2025-10-08 09:35:18",
+        "item": "image_20251008_093508.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-08/optus-email-mishap-left-department-in-dark/105866628",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053430.png",
         "timestamp": "2025-10-08 05:34:39",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_173523.png",
         "timestamp": "2025-10-06 17:35:36",
         "item": "image_20251006_173523.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-06/png-may-sit-out-australia-china-conflict-despite-defence-pct/105859432",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_113426.png",
-        "timestamp": "2025-10-06 11:34:37",
-        "item": "image_20251006_113426.png"
     }
 ]
