@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/india-qatar-joint-commission-highlights-2587022",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053834.png",
+        "timestamp": "2025-10-08 05:38:51",
+        "item": "image_20251008_053834.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/cyclnder-truck-accident-rajastan-jaipur-ajmer-highway-2586751",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_043826.png",
         "timestamp": "2025-10-08 04:38:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_163746.png",
         "timestamp": "2025-10-07 16:37:57",
         "item": "image_20251007_163746.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/80s-reunion-telugu-tamil-actors-latest-video-2586126",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_153759.png",
-        "timestamp": "2025-10-07 15:38:12",
-        "item": "image_20251007_153759.png"
     }
 ]
