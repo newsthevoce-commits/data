@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-brahmakalasha-telugu-video-song-out-now-2587236",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_163900.png",
+        "timestamp": "2025-10-08 16:39:12",
+        "item": "image_20251008_163900.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/two-army-jawans-missing-during-search-operation-kashmir-2587220",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_153758.png",
         "timestamp": "2025-10-08 15:38:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073718.png",
         "timestamp": "2025-10-08 07:37:34",
         "item": "image_20251008_073718.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/irla-nageswara-rao-executive-producer-his-life-experiences-2587084",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_063759.png",
-        "timestamp": "2025-10-08 06:38:11",
-        "item": "image_20251008_063759.png"
     }
 ]
