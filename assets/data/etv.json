@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/two-cough-medicines-banned-in-telangana/1801/125184284",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_103513.png",
+        "timestamp": "2025-10-08 10:35:25",
+        "item": "image_20251008_103513.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/gold-tops-4000-dollors-for-first-time-fueled-by-us-shutdown/0101/125184271",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_093707.png",
         "timestamp": "2025-10-08 09:37:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_213743.png",
         "timestamp": "2025-10-07 21:37:51",
         "item": "image_20251007_213743.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/madhya-pradesh-to-welcome-new-batch-of-foreign-cheetahs/0700/125183657",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_203705.png",
-        "timestamp": "2025-10-07 20:37:14",
-        "item": "image_20251007_203705.png"
     }
 ]
