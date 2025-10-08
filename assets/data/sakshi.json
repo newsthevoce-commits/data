@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/canara-hsbc-life-sets-ipo-price-band-rs-100-106-2586180",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_023528.png",
+        "timestamp": "2025-10-08 02:35:39",
+        "item": "image_20251008_023528.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/mike-atherton-comments-india-and-pakistan-matches-2586163",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_013643.png",
         "timestamp": "2025-10-08 01:36:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_133908.png",
         "timestamp": "2025-10-07 13:39:20",
         "item": "image_20251007_133908.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/nepali-gangster-wanted-multiple-cases-delhi-encounter-2586074",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_123801.png",
-        "timestamp": "2025-10-07 12:38:12",
-        "item": "image_20251007_123801.png"
     }
 ]
