@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/demat-account-additions-fall-40pc-in-9m-2025-amid-volatile-markets/0101/125184400",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_193548.png",
+        "timestamp": "2025-10-08 19:35:56",
+        "item": "image_20251008_193548.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/chicago-mayor-should-be-in-jail-for-failing-to-protect-ice-officers/0800/125184414",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_183620.png",
         "timestamp": "2025-10-08 18:36:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_103513.png",
         "timestamp": "2025-10-08 10:35:25",
         "item": "image_20251008_103513.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/gold-tops-4000-dollors-for-first-time-fueled-by-us-shutdown/0101/125184271",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_093707.png",
-        "timestamp": "2025-10-08 09:37:15",
-        "item": "image_20251008_093707.png"
     }
 ]
