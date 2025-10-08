@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/cyclnder-truck-accident-rajastan-jaipur-ajmer-highway-2586751",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_043826.png",
+        "timestamp": "2025-10-08 04:38:44",
+        "item": "image_20251008_043826.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/india-u19-team-all-out-171-runs-1st-innings-2nd-test-match-vs-australia-u19-team",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_033833.png",
         "timestamp": "2025-10-08 03:38:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_153759.png",
         "timestamp": "2025-10-07 15:38:12",
         "item": "image_20251007_153759.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/mouni-roy-and-aparna-das-latest-news-2586113",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_143717.png",
-        "timestamp": "2025-10-07 14:37:37",
-        "item": "image_20251007_143717.png"
     }
 ]
