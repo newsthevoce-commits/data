@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/tg-govt-to-take-actions-against-officers-who-demand-bribe-in-indiramma-houses/1802/125184041",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_033619.png",
+        "timestamp": "2025-10-08 03:36:30",
+        "item": "image_20251008_033619.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-comedian-arrested-for-pushing-minor-girl-into-prostitution/704/125183772",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_003703.png",
         "timestamp": "2025-10-08 00:37:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_153538.png",
         "timestamp": "2025-10-07 15:35:46",
         "item": "image_20251007_153538.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/microplastics-found-deep-inside-human-bones/1702/125183267",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_143508.png",
-        "timestamp": "2025-10-07 14:35:16",
-        "item": "image_20251007_143508.png"
     }
 ]
