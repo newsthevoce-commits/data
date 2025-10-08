@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/jitan-ram-manjhi-has-said-that-if-his-party-is-not-given-at-least-15-seats-to-contest/0700/125184315",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_123621.png",
+        "timestamp": "2025-10-08 12:36:35",
+        "item": "image_20251008_123621.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/smes-getting-loans-of-up-to-rs-5-cr-within-minutes-sbi-chairman/0101/125184288",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_113506.png",
         "timestamp": "2025-10-08 11:35:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_003703.png",
         "timestamp": "2025-10-08 00:37:11",
         "item": "image_20251008_003703.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/truck-carrying-lpg-cylinders-catches-fire-after-collision-on-jaipur-ajmer-highway/0700/125183764",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_223513.png",
-        "timestamp": "2025-10-07 22:35:25",
-        "item": "image_20251007_223513.png"
     }
 ]
