@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/19-us-lawmakers-write-letter-to-trump-over-ties-with-india/0800/125184428",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_203544.png",
+        "timestamp": "2025-10-08 20:35:52",
+        "item": "image_20251008_203544.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/demat-account-additions-fall-40pc-in-9m-2025-amid-volatile-markets/0101/125184400",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_193548.png",
         "timestamp": "2025-10-08 19:35:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_113506.png",
         "timestamp": "2025-10-08 11:35:14",
         "item": "image_20251008_113506.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/two-cough-medicines-banned-in-telangana/1801/125184284",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_103513.png",
-        "timestamp": "2025-10-08 10:35:25",
-        "item": "image_20251008_103513.png"
     }
 ]
