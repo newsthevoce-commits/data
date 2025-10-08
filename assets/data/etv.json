@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-husband-kills-wife-in-chevella/529/125184260",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_083509.png",
+        "timestamp": "2025-10-08 08:35:18",
+        "item": "image_20251008_083509.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/can-already-see-india-starting-to-diversify-russian-oil-says-trump-trade-adviser/0800/125184242",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073511.png",
         "timestamp": "2025-10-08 07:35:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_193622.png",
         "timestamp": "2025-10-07 19:36:35",
         "item": "image_20251007_193622.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/applications-will-be-accepted-from-tomorrow-for-the-posts-of-driver-and-worker-in-tgs-rtc/1801/125183691",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183623.png",
-        "timestamp": "2025-10-07 18:36:31",
-        "item": "image_20251007_183623.png"
     }
 ]
