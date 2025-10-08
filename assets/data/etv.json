@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/kurnool-news/7/125184180",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053621.png",
+        "timestamp": "2025-10-08 05:36:33",
+        "item": "image_20251008_053621.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125184029",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_043620.png",
         "timestamp": "2025-10-08 04:36:31",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173716.png",
         "timestamp": "2025-10-07 17:37:26",
         "item": "image_20251007_173716.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/no-guarantee-that-kohli-and-rohit-will-be-there-for-next-world-cup-says-ab-de-villiers/0401/125183629",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_163544.png",
-        "timestamp": "2025-10-07 16:35:52",
-        "item": "image_20251007_163544.png"
     }
 ]
