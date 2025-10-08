@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/what-did-rohit-sharma-say-about-the-australia-series/560671/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_083818.png",
+        "timestamp": "2025-10-08 08:38:35",
+        "item": "image_20251008_083818.png"
+    },
+    {
         "url": "https://vaartha.com/movies/vijay-deverakondas-new-movie-update/560621/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073823.png",
         "timestamp": "2025-10-08 07:38:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_084235.png",
         "timestamp": "2025-10-07 08:42:51",
         "item": "image_20251007_084235.png"
-    },
-    {
-        "url": "https://vaartha.com/rasi-phalalu-today-horoscope/today-rasiphalalu-horoscope-07-october-2025-horoscope-in-telugu/559907/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_073839.png",
-        "timestamp": "2025-10-07 07:38:50",
-        "item": "image_20251007_073839.png"
     }
 ]
