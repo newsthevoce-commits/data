@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/smes-getting-loans-of-up-to-rs-5-cr-within-minutes-sbi-chairman/0101/125184288",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_113506.png",
+        "timestamp": "2025-10-08 11:35:14",
+        "item": "image_20251008_113506.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/two-cough-medicines-banned-in-telangana/1801/125184284",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_103513.png",
         "timestamp": "2025-10-08 10:35:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_223513.png",
         "timestamp": "2025-10-07 22:35:25",
         "item": "image_20251007_223513.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/anantapur-anantapur-icds-pd-suspended/1/125183698",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_213743.png",
-        "timestamp": "2025-10-07 21:37:51",
-        "item": "image_20251007_213743.png"
     }
 ]
