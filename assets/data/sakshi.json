@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/ias-ankita-kanti-who-emerged-topper-upsc-hindi-medium-2587166",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_113723.png",
+        "timestamp": "2025-10-08 11:37:37",
+        "item": "image_20251008_113723.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/xiaomi-launched-10-premium-service-centres-across-major-cities-2587148",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_103717.png",
         "timestamp": "2025-10-08 10:37:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_023528.png",
         "timestamp": "2025-10-08 02:35:39",
         "item": "image_20251008_023528.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/mike-atherton-comments-india-and-pakistan-matches-2586163",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_013643.png",
-        "timestamp": "2025-10-08 01:36:54",
-        "item": "image_20251008_013643.png"
     }
 ]
