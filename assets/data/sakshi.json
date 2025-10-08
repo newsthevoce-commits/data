@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/akash-ambani-hails-pm-modi-vision-india-lucky-have-leader-driving-digital",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_143727.png",
+        "timestamp": "2025-10-08 14:37:48",
+        "item": "image_20251008_143727.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/narne-nithiin-narne-nithiin-marriage-date-goes-viral-2587196",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_133729.png",
         "timestamp": "2025-10-08 13:37:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053834.png",
         "timestamp": "2025-10-08 05:38:51",
         "item": "image_20251008_053834.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/cyclnder-truck-accident-rajastan-jaipur-ajmer-highway-2586751",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_043826.png",
-        "timestamp": "2025-10-08 04:38:44",
-        "item": "image_20251008_043826.png"
     }
 ]
