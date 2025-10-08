@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/health/telangana-bans-three-cough-syrups-for-child-safety/560915/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_133837.png",
+        "timestamp": "2025-10-08 13:38:50",
+        "item": "image_20251008_133837.png"
+    },
+    {
         "url": "https://vaartha.com/hyderabad/hyderabad-snake-scare-masi-residents-fear/560949/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_123936.png",
         "timestamp": "2025-10-08 12:39:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_143823.png",
         "timestamp": "2025-10-07 14:38:34",
         "item": "image_20251007_143823.png"
-    },
-    {
-        "url": "https://vaartha.com/hyderabad/mallojula-venugopal-mallojulas-stir-again-in-the-maoist-party/560350/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_134007.png",
-        "timestamp": "2025-10-07 13:40:24",
-        "item": "image_20251007_134007.png"
     }
 ]
