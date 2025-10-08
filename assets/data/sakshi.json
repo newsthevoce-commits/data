@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/hudiyo-hudiyo-lyrical-song-out-mass-jathara-movie-2587118",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_083714.png",
+        "timestamp": "2025-10-08 08:37:33",
+        "item": "image_20251008_083714.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/gudivada-amarnath-fires-chandrababu-over-restrictions-jagan-visit-2587097",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073718.png",
         "timestamp": "2025-10-08 07:37:34",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_223733.png",
         "timestamp": "2025-10-07 22:37:50",
         "item": "image_20251007_223733.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/kiran-abbavaram-k-ramp-tikkal-tikkal-lyrical-video-out-now-2586145",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_203906.png",
-        "timestamp": "2025-10-07 20:39:22",
-        "item": "image_20251007_203906.png"
     }
 ]
