@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/appointment-of-vcs-for-five-universities-in-ap/1701/125184408",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_173617.png",
+        "timestamp": "2025-10-08 17:36:30",
+        "item": "image_20251008_173617.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-reviews-arrangements-for-prime-minister-tour/1701/125184386",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_163705.png",
         "timestamp": "2025-10-08 16:37:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_083509.png",
         "timestamp": "2025-10-08 08:35:18",
         "item": "image_20251008_083509.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/can-already-see-india-starting-to-diversify-russian-oil-says-trump-trade-adviser/0800/125184242",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073511.png",
-        "timestamp": "2025-10-08 07:35:23",
-        "item": "image_20251008_073511.png"
     }
 ]
