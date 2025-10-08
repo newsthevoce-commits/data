@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/gudivada-amarnath-fires-chandrababu-over-restrictions-jagan-visit-2587097",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073718.png",
+        "timestamp": "2025-10-08 07:37:34",
+        "item": "image_20251008_073718.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/irla-nageswara-rao-executive-producer-his-life-experiences-2587084",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_063759.png",
         "timestamp": "2025-10-08 06:38:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_203906.png",
         "timestamp": "2025-10-07 20:39:22",
         "item": "image_20251007_203906.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/akkineni-nagarjuna-shared-fans-special-video-social-media-2586144",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183825.png",
-        "timestamp": "2025-10-07 18:38:42",
-        "item": "image_20251007_183825.png"
     }
 ]
