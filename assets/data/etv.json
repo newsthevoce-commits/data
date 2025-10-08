@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/hearing-on-bc-reservation-issue-postponed/1801/125184343",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_133512.png",
+        "timestamp": "2025-10-08 13:35:25",
+        "item": "image_20251008_133512.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/jitan-ram-manjhi-has-said-that-if-his-party-is-not-given-at-least-15-seats-to-contest/0700/125184315",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_123621.png",
         "timestamp": "2025-10-08 12:36:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_033619.png",
         "timestamp": "2025-10-08 03:36:30",
         "item": "image_20251008_033619.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-comedian-arrested-for-pushing-minor-girl-into-prostitution/704/125183772",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_003703.png",
-        "timestamp": "2025-10-08 00:37:11",
-        "item": "image_20251008_003703.png"
     }
 ]
