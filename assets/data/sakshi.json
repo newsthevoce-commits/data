@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/irla-nageswara-rao-executive-producer-his-life-experiences-2587084",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_063759.png",
+        "timestamp": "2025-10-08 06:38:11",
+        "item": "image_20251008_063759.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/india-qatar-joint-commission-highlights-2587022",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_053834.png",
         "timestamp": "2025-10-08 05:38:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_183825.png",
         "timestamp": "2025-10-07 18:38:42",
         "item": "image_20251007_183825.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/who-rajinder-gupta-aam-aadmi-party-rajya-sabha-pick-2586131",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_163746.png",
-        "timestamp": "2025-10-07 16:37:57",
-        "item": "image_20251007_163746.png"
     }
 ]
