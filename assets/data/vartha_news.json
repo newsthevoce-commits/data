@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/breaking-news/war-2-to-hit-ott-from-midnight-tonight/561243/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_223643.png",
+        "timestamp": "2025-10-08 22:36:56",
+        "item": "image_20251008_223643.png"
+    },
+    {
         "url": "https://vaartha.com/sports/cummins-head-offered-rs-58-crore/561213/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_183935.png",
         "timestamp": "2025-10-08 18:39:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073823.png",
         "timestamp": "2025-10-08 07:38:43",
         "item": "image_20251008_073823.png"
-    },
-    {
-        "url": "https://vaartha.com/more/photos/day-in-pics-07-october-2025/560601/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_063854.png",
-        "timestamp": "2025-10-08 06:39:10",
-        "item": "image_20251008_063854.png"
     }
 ]
