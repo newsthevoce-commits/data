@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/former-england-cricketer-warns-agarkar/561730/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_153854.png",
+        "timestamp": "2025-10-09 15:39:07",
+        "item": "image_20251009_153854.png"
+    },
+    {
         "url": "https://vaartha.com/news/politics/bihar-we-will-give-a-government-job-to-every-household-tejaswi-yadav/561724/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143941.png",
         "timestamp": "2025-10-09 14:39:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043902.png",
         "timestamp": "2025-10-09 04:39:15",
         "item": "image_20251009_043902.png"
-    },
-    {
-        "url": "https://vaartha.com/breaking-news/war-2-to-hit-ott-from-midnight-tonight/561243/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_223643.png",
-        "timestamp": "2025-10-08 22:36:56",
-        "item": "image_20251008_223643.png"
     }
 ]
