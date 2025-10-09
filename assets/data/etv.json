@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/congress-conspiracies-to-gain-profit-in-local-elections-have-failed-harish-rao/1801/125185087",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_153537.png",
+        "timestamp": "2025-10-09 15:35:46",
+        "item": "image_20251009_153537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/410-crore-released-for-ap-panchayat-raj-institutions/1701/125185077",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143635.png",
         "timestamp": "2025-10-09 14:36:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053621.png",
         "timestamp": "2025-10-09 05:36:29",
         "item": "image_20251009_053621.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/india-to-remain-unchanged-for-delhi-test-says-assistant-coach/0401/125184939",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043549.png",
-        "timestamp": "2025-10-09 04:35:57",
-        "item": "image_20251009_043549.png"
     }
 ]
