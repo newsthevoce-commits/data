@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/akshay-kumar-and-other-bollywood-stars-urges-cyber-safety-lessons-schools",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_003932.png",
+        "timestamp": "2025-10-10 00:39:46",
+        "item": "image_20251010_003932.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ys-jagan-mohan-reddy-fires-over-deaths-tribal-students-visakha-2588346",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_213901.png",
         "timestamp": "2025-10-09 21:39:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_113734.png",
         "timestamp": "2025-10-09 11:37:47",
         "item": "image_20251009_113734.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/bihar-election-seat-sharing-nda-chirag-paswan-2588232",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103709.png",
-        "timestamp": "2025-10-09 10:37:19",
-        "item": "image_20251009_103709.png"
     }
 ]
