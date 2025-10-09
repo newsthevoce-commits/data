@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/assistant-coach-ryan-ten-doeschate-hints-india-xi-2nd-wi-test-2588189",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_083921.png",
+        "timestamp": "2025-10-09 08:39:36",
+        "item": "image_20251009_083921.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/actor-kichcha-sudeepa-thanks-dk-shivakumar-order-lift-seal-bigg-boss-2588157",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_073727.png",
         "timestamp": "2025-10-09 07:37:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_213914.png",
         "timestamp": "2025-10-08 21:39:32",
         "item": "image_20251008_213914.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/naveen-yadav-congress-mla-candidate-jubilee-hills-2587253",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_193753.png",
-        "timestamp": "2025-10-08 19:38:08",
-        "item": "image_20251008_193753.png"
     }
 ]
