@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/ysr-kadapa-news/5/125184625",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053621.png",
+        "timestamp": "2025-10-09 05:36:29",
+        "item": "image_20251009_053621.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/india-to-remain-unchanged-for-delhi-test-says-assistant-coach/0401/125184939",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043549.png",
         "timestamp": "2025-10-09 04:35:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_153543.png",
         "timestamp": "2025-10-08 15:35:52",
         "item": "image_20251008_153543.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/how-much-water-should-we-drink-in-a-day/1702/125184141",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_143512.png",
-        "timestamp": "2025-10-08 14:35:24",
-        "item": "image_20251008_143512.png"
     }
 ]
