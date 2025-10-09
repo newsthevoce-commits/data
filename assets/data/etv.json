@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/powerful-explosion-in-ayodhya-near-village-five-killed/0301/125185142",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_203535.png",
+        "timestamp": "2025-10-09 20:35:43",
+        "item": "image_20251009_203535.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/tcs-released-1-pc-or-6000-people/0101/125185107",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_193537.png",
         "timestamp": "2025-10-09 19:35:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_113514.png",
         "timestamp": "2025-10-09 11:35:27",
         "item": "image_20251009_113514.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/india-on-track-to-become-3rd-largest-economy-says-uk-pm-keir-starmer/0101/125184994",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103505.png",
-        "timestamp": "2025-10-09 10:35:13",
-        "item": "image_20251009_103505.png"
     }
 ]
