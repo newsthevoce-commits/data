@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/first-phase-of-zptc-and-mptc-election-nominations-begin/1801/125184974",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_083705.png",
+        "timestamp": "2025-10-09 08:37:13",
+        "item": "image_20251009_083705.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/donald-trump-excludes-generics-from-big-pharma-tariff-plan/0101/125184944",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_063634.png",
         "timestamp": "2025-10-09 06:36:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_173617.png",
         "timestamp": "2025-10-08 17:36:30",
         "item": "image_20251008_173617.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-reviews-arrangements-for-prime-minister-tour/1701/125184386",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_163705.png",
-        "timestamp": "2025-10-08 16:37:13",
-        "item": "image_20251008_163705.png"
     }
 ]
