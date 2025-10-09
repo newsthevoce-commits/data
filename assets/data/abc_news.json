@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-09/sydney-underworld-kill-cars-used-in-organised-crime/105867242",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_033502.png",
+        "timestamp": "2025-10-09 03:35:11",
+        "item": "image_20251009_033502.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-09/artificial-intelligence-cheating-australian-catholic-university/105863524",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_213619.png",
         "timestamp": "2025-10-08 21:36:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_213524.png",
         "timestamp": "2025-10-06 21:35:35",
         "item": "image_20251006_213524.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-07/australian-flotilla-detainees-rough-treatment-dfat/105860420",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_203458.png",
-        "timestamp": "2025-10-06 20:35:06",
-        "item": "image_20251006_203458.png"
     }
 ]
