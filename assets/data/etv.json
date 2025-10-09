@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/india-on-track-to-become-3rd-largest-economy-says-uk-pm-keir-starmer/0101/125184994",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103505.png",
+        "timestamp": "2025-10-09 10:35:13",
+        "item": "image_20251009_103505.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-sc-leaders-protest-against-jagan-in-narsipatnam/11/125184986",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_093506.png",
         "timestamp": "2025-10-09 09:35:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_193548.png",
         "timestamp": "2025-10-08 19:35:56",
         "item": "image_20251008_193548.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/chicago-mayor-should-be-in-jail-for-failing-to-protect-ice-officers/0800/125184414",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_183620.png",
-        "timestamp": "2025-10-08 18:36:32",
-        "item": "image_20251008_183620.png"
     }
 ]
