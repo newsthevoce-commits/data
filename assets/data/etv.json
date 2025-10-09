@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/dalit-ips-officer-suicide-testament-to-social-injustice-of-bjps-manuwadi-system-says-kharge/0700/125185117",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_183539.png",
+        "timestamp": "2025-10-09 18:35:47",
+        "item": "image_20251009_183539.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-jagan-hypocritical-love-for-uttarandhra-says-chinthakayala-vijay/11/125185120",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_173612.png",
         "timestamp": "2025-10-09 17:36:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_093506.png",
         "timestamp": "2025-10-09 09:35:14",
         "item": "image_20251009_093506.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/first-phase-of-zptc-and-mptc-election-nominations-begin/1801/125184974",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_083705.png",
-        "timestamp": "2025-10-09 08:37:13",
-        "item": "image_20251009_083705.png"
     }
 ]
