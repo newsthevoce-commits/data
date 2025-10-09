@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/ysr-kadapa-news/5/125184627",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_033704.png",
+        "timestamp": "2025-10-09 03:37:12",
+        "item": "image_20251009_033704.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/israel-hamas-agree-to-first-phase-of-gaza-peace-plan-says-trump/0800/125184777",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_023705.png",
         "timestamp": "2025-10-09 02:37:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_133512.png",
         "timestamp": "2025-10-08 13:35:25",
         "item": "image_20251008_133512.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/jitan-ram-manjhi-has-said-that-if-his-party-is-not-given-at-least-15-seats-to-contest/0700/125184315",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_123621.png",
-        "timestamp": "2025-10-08 12:36:35",
-        "item": "image_20251008_123621.png"
     }
 ]
