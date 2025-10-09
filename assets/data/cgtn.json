@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-09/China-vows-to-work-with-all-sides-on-international-human-rights-cause-1HkVX03gQy4/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_163422.png",
+        "timestamp": "2025-10-09 16:34:36",
+        "item": "image_20251009_163422.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-09/China-sanctions-foreign-firms-over-actions-harming-national-interests-1HkJufXlU0U/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143423.png",
         "timestamp": "2025-10-09 14:34:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_082321.png",
         "timestamp": "2025-09-29 08:23:34",
         "item": "image_20250929_082321.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-25/President-Xi-Jinping-s-key-quotes-on-Xinjiang-1GX7z1R6mmk/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_122804.png",
-        "timestamp": "2025-09-25 12:28:23",
-        "item": "image_20250925_122804.png"
     }
 ]
