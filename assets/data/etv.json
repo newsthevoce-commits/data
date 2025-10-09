@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/air-force-dinner-menu-viral/0700/125185007",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_113514.png",
+        "timestamp": "2025-10-09 11:35:27",
+        "item": "image_20251009_113514.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/india-on-track-to-become-3rd-largest-economy-says-uk-pm-keir-starmer/0101/125184994",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103505.png",
         "timestamp": "2025-10-09 10:35:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_203544.png",
         "timestamp": "2025-10-08 20:35:52",
         "item": "image_20251008_203544.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/demat-account-additions-fall-40pc-in-9m-2025-amid-volatile-markets/0101/125184400",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_193548.png",
-        "timestamp": "2025-10-08 19:35:56",
-        "item": "image_20251008_193548.png"
     }
 ]
