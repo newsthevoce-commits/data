@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ys-jagan-mohan-reddy-fires-over-deaths-tribal-students-visakha-2588346",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_213901.png",
+        "timestamp": "2025-10-09 21:39:14",
+        "item": "image_20251009_213901.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/sabarimala-yoga-danda-priceless-after-being-gold-plated-2588344",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_203745.png",
         "timestamp": "2025-10-09 20:37:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103709.png",
         "timestamp": "2025-10-09 10:37:19",
         "item": "image_20251009_103709.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/assistant-coach-ryan-ten-doeschate-hints-india-xi-2nd-wi-test-2588189",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_083921.png",
-        "timestamp": "2025-10-09 08:39:36",
-        "item": "image_20251009_083921.png"
     }
 ]
