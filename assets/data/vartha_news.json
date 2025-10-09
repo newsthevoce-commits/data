@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/movies/mega-power-star-charan-peddi-special-song-shooting-starts-from-tomorrow/561761/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_173825.png",
+        "timestamp": "2025-10-09 17:38:43",
+        "item": "image_20251009_173825.png"
+    },
+    {
         "url": "https://vaartha.com/sports/former-england-cricketer-warns-agarkar/561730/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_153854.png",
         "timestamp": "2025-10-09 15:39:07",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053947.png",
         "timestamp": "2025-10-09 05:39:57",
         "item": "image_20251009_053947.png"
-    },
-    {
-        "url": "https://vaartha.com/breaking-news/do-you-know-why-depression-is-more-common-in-women/561269/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043902.png",
-        "timestamp": "2025-10-09 04:39:15",
-        "item": "image_20251009_043902.png"
     }
 ]
