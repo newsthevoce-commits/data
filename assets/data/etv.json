@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/tcs-released-1-pc-or-6000-people/0101/125185107",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_193537.png",
+        "timestamp": "2025-10-09 19:35:45",
+        "item": "image_20251009_193537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/dalit-ips-officer-suicide-testament-to-social-injustice-of-bjps-manuwadi-system-says-kharge/0700/125185117",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_183539.png",
         "timestamp": "2025-10-09 18:35:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103505.png",
         "timestamp": "2025-10-09 10:35:13",
         "item": "image_20251009_103505.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-sc-leaders-protest-against-jagan-in-narsipatnam/11/125184986",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_093506.png",
-        "timestamp": "2025-10-09 09:35:14",
-        "item": "image_20251009_093506.png"
     }
 ]
