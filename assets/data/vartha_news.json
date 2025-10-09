@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/news/politics/bihar-we-will-give-a-government-job-to-every-household-tejaswi-yadav/561724/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143941.png",
+        "timestamp": "2025-10-09 14:39:53",
+        "item": "image_20251009_143941.png"
+    },
+    {
         "url": "https://vaartha.com/news/politics/aimim-mim-absence-in-jubilee-hills-election/561564/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_133825.png",
         "timestamp": "2025-10-09 13:38:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_223643.png",
         "timestamp": "2025-10-08 22:36:56",
         "item": "image_20251008_223643.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/cummins-head-offered-rs-58-crore/561213/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_183935.png",
-        "timestamp": "2025-10-08 18:39:52",
-        "item": "image_20251008_183935.png"
     }
 ]
