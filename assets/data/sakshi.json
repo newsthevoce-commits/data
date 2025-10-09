@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/bihar-election-seat-sharing-nda-chirag-paswan-2588232",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_103709.png",
+        "timestamp": "2025-10-09 10:37:19",
+        "item": "image_20251009_103709.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/assistant-coach-ryan-ten-doeschate-hints-india-xi-2nd-wi-test-2588189",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_083921.png",
         "timestamp": "2025-10-09 08:39:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_233755.png",
         "timestamp": "2025-10-08 23:38:09",
         "item": "image_20251008_233755.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/editorial/sakshi-editorial-india-afghanistan-relations-2587255",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_213914.png",
-        "timestamp": "2025-10-08 21:39:32",
-        "item": "image_20251008_213914.png"
     }
 ]
