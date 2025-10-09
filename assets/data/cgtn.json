@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-09/China-sanctions-foreign-firms-over-actions-harming-national-interests-1HkJufXlU0U/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143423.png",
+        "timestamp": "2025-10-09 14:34:36",
+        "item": "image_20251009_143423.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-07/China-sees-inbound-tourism-boom-over-National-Day-Mid-Autumn-holidays-1Hhui8tT9za/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173421.png",
         "timestamp": "2025-10-07 17:34:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250925_122804.png",
         "timestamp": "2025-09-25 12:28:23",
         "item": "image_20250925_122804.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-24/Xi-visits-exhibition-marking-Xinjiang-Uygur-Autonomous-Region-s-anniv--1GVAgvP7j2w/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250924_132738.png",
-        "timestamp": "2025-09-24 13:27:49",
-        "item": "image_20250924_132738.png"
     }
 ]
