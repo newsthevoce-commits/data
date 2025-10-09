@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/marnus-responds-odi-axing-another-rapid-hundred-ashes-call-beckons-2588089",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_063831.png",
+        "timestamp": "2025-10-09 06:38:53",
+        "item": "image_20251009_063831.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/niti-aayog-report-emphasizes-ai-empower-informal-workforce-digital-shramsetu",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053832.png",
         "timestamp": "2025-10-09 05:38:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_183822.png",
         "timestamp": "2025-10-08 18:38:40",
         "item": "image_20251008_183822.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-brahmakalasha-telugu-video-song-out-now-2587236",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_163900.png",
-        "timestamp": "2025-10-08 16:39:12",
-        "item": "image_20251008_163900.png"
     }
 ]
