@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/breaking-news/do-you-know-why-depression-is-more-common-in-women/561269/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043902.png",
+        "timestamp": "2025-10-09 04:39:15",
+        "item": "image_20251009_043902.png"
+    },
+    {
         "url": "https://vaartha.com/breaking-news/war-2-to-hit-ott-from-midnight-tonight/561243/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_223643.png",
         "timestamp": "2025-10-08 22:36:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_083818.png",
         "timestamp": "2025-10-08 08:38:35",
         "item": "image_20251008_083818.png"
-    },
-    {
-        "url": "https://vaartha.com/movies/vijay-deverakondas-new-movie-update/560621/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_073823.png",
-        "timestamp": "2025-10-08 07:38:43",
-        "item": "image_20251008_073823.png"
     }
 ]
