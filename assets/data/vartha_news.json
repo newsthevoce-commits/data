@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/management-standing-by-nitish-reddy/561276/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053947.png",
+        "timestamp": "2025-10-09 05:39:57",
+        "item": "image_20251009_053947.png"
+    },
+    {
         "url": "https://vaartha.com/breaking-news/do-you-know-why-depression-is-more-common-in-women/561269/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043902.png",
         "timestamp": "2025-10-09 04:39:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_094007.png",
         "timestamp": "2025-10-08 09:40:18",
         "item": "image_20251008_094007.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/what-did-rohit-sharma-say-about-the-australia-series/560671/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_083818.png",
-        "timestamp": "2025-10-08 08:38:35",
-        "item": "image_20251008_083818.png"
     }
 ]
