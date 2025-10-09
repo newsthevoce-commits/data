@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-sc-leaders-protest-against-jagan-in-narsipatnam/11/125184986",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_093506.png",
+        "timestamp": "2025-10-09 09:35:14",
+        "item": "image_20251009_093506.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/first-phase-of-zptc-and-mptc-election-nominations-begin/1801/125184974",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_083705.png",
         "timestamp": "2025-10-09 08:37:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_183620.png",
         "timestamp": "2025-10-08 18:36:32",
         "item": "image_20251008_183620.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/appointment-of-vcs-for-five-universities-in-ap/1701/125184408",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_173617.png",
-        "timestamp": "2025-10-08 17:36:30",
-        "item": "image_20251008_173617.png"
     }
 ]
