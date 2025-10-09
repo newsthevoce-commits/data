@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/niti-aayog-report-emphasizes-ai-empower-informal-workforce-digital-shramsetu",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053832.png",
+        "timestamp": "2025-10-09 05:38:50",
+        "item": "image_20251009_053832.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/strange-situation-mlas-who-switched-parties-2588014",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_043803.png",
         "timestamp": "2025-10-09 04:38:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_163900.png",
         "timestamp": "2025-10-08 16:39:12",
         "item": "image_20251008_163900.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/national/two-army-jawans-missing-during-search-operation-kashmir-2587220",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_153758.png",
-        "timestamp": "2025-10-08 15:38:12",
-        "item": "image_20251008_153758.png"
     }
 ]
