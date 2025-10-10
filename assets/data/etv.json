@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-crda-pressnote-released/1701/125185867",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_183615.png",
+        "timestamp": "2025-10-10 18:36:27",
+        "item": "image_20251010_183615.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-minister-savita-visits-students-undergoing-treatment-at-ggh/6/125185861",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_173712.png",
         "timestamp": "2025-10-10 17:37:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_093537.png",
         "timestamp": "2025-10-10 09:35:45",
         "item": "image_20251010_093537.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/arshdeep-dad-sends-bowling-stats-asks-son-to-top-them/0400/125185711",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_083540.png",
-        "timestamp": "2025-10-10 08:35:48",
-        "item": "image_20251010_083540.png"
     }
 ]
