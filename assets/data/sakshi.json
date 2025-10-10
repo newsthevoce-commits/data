@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/royal-enfield-bikes-available-amazon-2589260",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_113900.png",
+        "timestamp": "2025-10-10 11:39:13",
+        "item": "image_20251010_113900.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-movie-collection-crossed-500-cr-2589242",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_103739.png",
         "timestamp": "2025-10-10 10:37:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_023750.png",
         "timestamp": "2025-10-10 02:37:59",
         "item": "image_20251010_023750.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/india-secures-medal-semis-2588359",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_013606.png",
-        "timestamp": "2025-10-10 01:36:19",
-        "item": "image_20251010_013606.png"
     }
 ]
