@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-10/President-Xi-Jinping-s-key-quotes-on-protecting-women-s-rights-1HmqyzAiWKA/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_173446.png",
+        "timestamp": "2025-10-10 17:34:55",
+        "item": "image_20251010_173446.png"
+    },
+    {
         "url": "https://newsaf.cgtn.com/news/2025-10-10/China-ready-to-strengthen-strategic-communication-with-DPRK-1HlaR50r7DG/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_043459.png",
         "timestamp": "2025-10-10 04:35:08",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250930_133517.png",
         "timestamp": "2025-09-30 13:35:30",
         "item": "image_20250930_133517.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-09-29/Macao-SAR-chief-executive-appoints-members-to-8th-Legislative-Assembly-1H3ORlA2w3S/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20250929_163519.png",
-        "timestamp": "2025-09-29 16:35:34",
-        "item": "image_20250929_163519.png"
     }
 ]
