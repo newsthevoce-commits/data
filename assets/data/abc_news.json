@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-10/david-pocock-parliament-sports-club-gambling-lobby-sponsorship/105876446",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063504.png",
+        "timestamp": "2025-10-10 06:35:13",
+        "item": "image_20251010_063504.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-10/london-phone-theft-capital-australian-fights-back/105864288",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_003546.png",
         "timestamp": "2025-10-10 00:35:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_003502.png",
         "timestamp": "2025-10-08 00:35:11",
         "item": "image_20251008_003502.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-08/university-course-accreditation-class-action/105820008",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_213551.png",
-        "timestamp": "2025-10-07 21:36:00",
-        "item": "image_20251007_213551.png"
     }
 ]
