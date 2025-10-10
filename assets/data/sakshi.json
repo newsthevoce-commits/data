@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-leader-kurasal-kannababu-slams-chandrababu-naidu-2589322",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_163942.png",
+        "timestamp": "2025-10-10 16:39:52",
+        "item": "image_20251010_163942.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/chiranjeevi-mana-shankara-varaprasad-garu-movie-song-update-2589310",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_153741.png",
         "timestamp": "2025-10-10 15:37:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_073746.png",
         "timestamp": "2025-10-10 07:37:55",
         "item": "image_20251010_073746.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/jack-fent-battling-brain-tumor-becomes-example-2589122",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063904.png",
-        "timestamp": "2025-10-10 06:39:17",
-        "item": "image_20251010_063904.png"
     }
 ]
