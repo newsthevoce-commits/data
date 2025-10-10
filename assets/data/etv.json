@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/powerful-explosion-in-military-explosives-manufacturing-facility-in-tennessee/0801/125185932",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_223621.png",
+        "timestamp": "2025-10-10 22:36:33",
+        "item": "image_20251010_223621.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/centre-to-introduce-ai-in-school-curriculum-from-class-3-onwards-from-2026/0701/125185901",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_213507.png",
         "timestamp": "2025-10-10 21:35:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_133506.png",
         "timestamp": "2025-10-10 13:35:15",
         "item": "image_20251010_133506.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-perni-nani-dadagiri-at-machilipatnam-police-station/6/125185789",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_123736.png",
-        "timestamp": "2025-10-10 12:37:44",
-        "item": "image_20251010_123736.png"
     }
 ]
