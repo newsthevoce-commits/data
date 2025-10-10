@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/visakhapatnam-is-developing-like-mumbai-says-cm-chandrababu/1701/125185771",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_113704.png",
+        "timestamp": "2025-10-10 11:37:12",
+        "item": "image_20251010_113704.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/yashasvi-jaiswal-hit-century-against-west-indies-in-second-test/0401/125185745",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_103540.png",
         "timestamp": "2025-10-10 10:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_023549.png",
         "timestamp": "2025-10-10 02:35:57",
         "item": "image_20251010_023549.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-palaniswami-hints-at-alliance-with-tvk-vijay/704/125185161",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_003735.png",
-        "timestamp": "2025-10-10 00:37:43",
-        "item": "image_20251010_003735.png"
     }
 ]
