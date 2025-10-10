@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-minister-savita-visits-students-undergoing-treatment-at-ggh/6/125185861",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_173712.png",
+        "timestamp": "2025-10-10 17:37:25",
+        "item": "image_20251010_173712.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-illegal-storage-of-crackers-in-residential-areas/529/125185848",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_163748.png",
         "timestamp": "2025-10-10 16:37:56",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_083540.png",
         "timestamp": "2025-10-10 08:35:48",
         "item": "image_20251010_083540.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/russian-strikes-ukraine-energy-sites/0801/125185692",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_073541.png",
-        "timestamp": "2025-10-10 07:35:49",
-        "item": "image_20251010_073541.png"
     }
 ]
