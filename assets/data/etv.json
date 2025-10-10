@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125185490",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_053540.png",
+        "timestamp": "2025-10-10 05:35:49",
+        "item": "image_20251010_053540.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125185519",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_043716.png",
         "timestamp": "2025-10-10 04:37:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_173612.png",
         "timestamp": "2025-10-09 17:36:25",
         "item": "image_20251009_173612.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/putin-admits-russian-role-in-2024-crash-of-azerbaijani-jet-that-killed-38/0800/125185097",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_163714.png",
-        "timestamp": "2025-10-09 16:37:26",
-        "item": "image_20251009_163714.png"
     }
 ]
