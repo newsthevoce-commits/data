@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/ysr-kadapa-seven-more-accused-in-mulakalacheruvu-liquor-case/5/125185729",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_093537.png",
+        "timestamp": "2025-10-10 09:35:45",
+        "item": "image_20251010_093537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/arshdeep-dad-sends-bowling-stats-asks-son-to-top-them/0400/125185711",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_083540.png",
         "timestamp": "2025-10-10 08:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_213708.png",
         "timestamp": "2025-10-09 21:37:16",
         "item": "image_20251009_213708.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/powerful-explosion-in-ayodhya-near-village-five-killed/0301/125185142",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_203535.png",
-        "timestamp": "2025-10-09 20:35:43",
-        "item": "image_20251009_203535.png"
     }
 ]
