@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/jack-fent-battling-brain-tumor-becomes-example-2589122",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063904.png",
+        "timestamp": "2025-10-10 06:39:17",
+        "item": "image_20251010_063904.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/sonia-agarwal-about-will-movie-2589107",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_053747.png",
         "timestamp": "2025-10-10 05:37:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_183738.png",
         "timestamp": "2025-10-09 18:37:51",
         "item": "image_20251009_183738.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/wpl-2026-mega-auction-teams-can-retain-five-players-2588327",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_163924.png",
-        "timestamp": "2025-10-09 16:39:42",
-        "item": "image_20251009_163924.png"
     }
 ]
