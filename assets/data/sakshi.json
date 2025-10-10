@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/nayanthara-and-kavin-movie-title-poster-out-now-2589229",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_093733.png",
+        "timestamp": "2025-10-10 09:37:47",
+        "item": "image_20251010_093733.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/suresh-gopi-links-bhutan-car-smuggling-case-sabarimala-row-2589158",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_083743.png",
         "timestamp": "2025-10-10 08:37:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_003932.png",
         "timestamp": "2025-10-10 00:39:46",
         "item": "image_20251010_003932.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ys-jagan-mohan-reddy-fires-over-deaths-tribal-students-visakha-2588346",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_213901.png",
-        "timestamp": "2025-10-09 21:39:14",
-        "item": "image_20251009_213901.png"
     }
 ]
