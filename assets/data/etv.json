@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-perni-nani-dadagiri-at-machilipatnam-police-station/6/125185789",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_123736.png",
+        "timestamp": "2025-10-10 12:37:44",
+        "item": "image_20251010_123736.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/visakhapatnam-is-developing-like-mumbai-says-cm-chandrababu/1701/125185771",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_113704.png",
         "timestamp": "2025-10-10 11:37:12",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_033506.png",
         "timestamp": "2025-10-10 03:35:14",
         "item": "image_20251010_033506.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125185401",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_023549.png",
-        "timestamp": "2025-10-10 02:35:57",
-        "item": "image_20251010_023549.png"
     }
 ]
