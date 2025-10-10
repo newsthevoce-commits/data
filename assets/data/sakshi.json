@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/allu-arjun-enjoy-foreign-trip-his-wife-sneha-reddy-2589332",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_173911.png",
+        "timestamp": "2025-10-10 17:39:32",
+        "item": "image_20251010_173911.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-leader-kurasal-kannababu-slams-chandrababu-naidu-2589322",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_163942.png",
         "timestamp": "2025-10-10 16:39:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_083743.png",
         "timestamp": "2025-10-10 08:37:54",
         "item": "image_20251010_083743.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/chowmahalla-palace-exhibition-rare-photographs-mukarram-jah-2589142",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_073746.png",
-        "timestamp": "2025-10-10 07:37:55",
-        "item": "image_20251010_073746.png"
     }
 ]
