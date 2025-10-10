@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/general/0799/125185586",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_033506.png",
+        "timestamp": "2025-10-10 03:35:14",
+        "item": "image_20251010_033506.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125185401",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_023549.png",
         "timestamp": "2025-10-10 02:35:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_153537.png",
         "timestamp": "2025-10-09 15:35:46",
         "item": "image_20251009_153537.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/410-crore-released-for-ap-panchayat-raj-institutions/1701/125185077",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143635.png",
-        "timestamp": "2025-10-09 14:36:43",
-        "item": "image_20251009_143635.png"
     }
 ]
