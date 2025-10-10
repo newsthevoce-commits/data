@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-illegal-storage-of-crackers-in-residential-areas/529/125185848",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_163748.png",
+        "timestamp": "2025-10-10 16:37:56",
+        "item": "image_20251010_163748.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/mulakalacheruvu-fake-liquor-case-a1-janardhan-in-police-custody/1701/125185831",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_153540.png",
         "timestamp": "2025-10-10 15:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_073541.png",
         "timestamp": "2025-10-10 07:35:49",
         "item": "image_20251010_073541.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/no-new-missile-deliveries-to-pak-usa/0801/125185684",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063706.png",
-        "timestamp": "2025-10-10 06:37:14",
-        "item": "image_20251010_063706.png"
     }
 ]
