@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/general/1702/125185519",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_043716.png",
+        "timestamp": "2025-10-10 04:37:29",
+        "item": "image_20251010_043716.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/general/0799/125185586",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_033506.png",
         "timestamp": "2025-10-10 03:35:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_163714.png",
         "timestamp": "2025-10-09 16:37:26",
         "item": "image_20251009_163714.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/congress-conspiracies-to-gain-profit-in-local-elections-have-failed-harish-rao/1801/125185087",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_153537.png",
-        "timestamp": "2025-10-09 15:35:46",
-        "item": "image_20251009_153537.png"
     }
 ]
