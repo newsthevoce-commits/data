@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/mulakalacheruvu-fake-liquor-case-a1-janardhan-in-police-custody/1701/125185831",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_153540.png",
+        "timestamp": "2025-10-10 15:35:48",
+        "item": "image_20251010_153540.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-meeting-with-ministers/1701/125185820",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_143509.png",
         "timestamp": "2025-10-10 14:35:19",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063706.png",
         "timestamp": "2025-10-10 06:37:14",
         "item": "image_20251010_063706.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125185490",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_053540.png",
-        "timestamp": "2025-10-10 05:35:49",
-        "item": "image_20251010_053540.png"
     }
 ]
