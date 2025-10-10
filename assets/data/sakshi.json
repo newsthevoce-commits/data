@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/chowmahalla-palace-exhibition-rare-photographs-mukarram-jah-2589142",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_073746.png",
+        "timestamp": "2025-10-10 07:37:55",
+        "item": "image_20251010_073746.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/jack-fent-battling-brain-tumor-becomes-example-2589122",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063904.png",
         "timestamp": "2025-10-10 06:39:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_203745.png",
         "timestamp": "2025-10-09 20:37:58",
         "item": "image_20251009_203745.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/punjabi-actor-varinder-singh-ghuman-dies-due-heart-attack-2588339",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_183738.png",
-        "timestamp": "2025-10-09 18:37:51",
-        "item": "image_20251009_183738.png"
     }
 ]
