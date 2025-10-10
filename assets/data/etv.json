@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/russian-strikes-ukraine-energy-sites/0801/125185692",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_073541.png",
+        "timestamp": "2025-10-10 07:35:49",
+        "item": "image_20251010_073541.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/no-new-missile-deliveries-to-pak-usa/0801/125185684",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063706.png",
         "timestamp": "2025-10-10 06:37:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_193537.png",
         "timestamp": "2025-10-09 19:35:45",
         "item": "image_20251009_193537.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/dalit-ips-officer-suicide-testament-to-social-injustice-of-bjps-manuwadi-system-says-kharge/0700/125185117",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_183539.png",
-        "timestamp": "2025-10-09 18:35:47",
-        "item": "image_20251009_183539.png"
     }
 ]
