@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/ganguly-praises-rohit-sharma/561844/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_044039.png",
+        "timestamp": "2025-10-10 04:40:51",
+        "item": "image_20251010_044039.png"
+    },
+    {
         "url": "https://vaartha.com/movies/mega-power-star-charan-peddi-special-song-shooting-starts-from-tomorrow/561761/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_173825.png",
         "timestamp": "2025-10-09 17:38:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_063931.png",
         "timestamp": "2025-10-09 06:39:43",
         "item": "image_20251009_063931.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/management-standing-by-nitish-reddy/561276/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_053947.png",
-        "timestamp": "2025-10-09 05:39:57",
-        "item": "image_20251009_053947.png"
     }
 ]
