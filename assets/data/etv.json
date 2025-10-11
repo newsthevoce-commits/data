@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/fishermen-in-tamil-nadu-caught-a-rare-doomsday-fish/0799/125186337",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023705.png",
+        "timestamp": "2025-10-11 02:37:13",
+        "item": "image_20251011_023705.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/powerful-explosion-in-military-explosives-manufacturing-facility-in-tennessee/0801/125185932",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_223621.png",
         "timestamp": "2025-10-10 22:36:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_143509.png",
         "timestamp": "2025-10-10 14:35:19",
         "item": "image_20251010_143509.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/india-vs-west-indies-2nd-test-1-day/0401/125185780",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_133506.png",
-        "timestamp": "2025-10-10 13:35:15",
-        "item": "image_20251010_133506.png"
     }
 ]
