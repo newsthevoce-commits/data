@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/dark-chocolate-movie-teaser-telugu-2590309",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_123837.png",
+        "timestamp": "2025-10-11 12:38:53",
+        "item": "image_20251011_123837.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/how-mangaluru-rising-tech-hub-after-bangalore-2590289",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_113715.png",
         "timestamp": "2025-10-11 11:37:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_033757.png",
         "timestamp": "2025-10-11 03:38:09",
         "item": "image_20251011_033757.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/shapoorji-pallonji-mistry-comes-support-tata-sons-listing-2589367",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023856.png",
-        "timestamp": "2025-10-11 02:39:14",
-        "item": "image_20251011_023856.png"
     }
 ]
