@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/telangana-high-court-fires-ranga-reddy-district-collector-behavior-2589641",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_033757.png",
+        "timestamp": "2025-10-11 03:38:09",
+        "item": "image_20251011_033757.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/shapoorji-pallonji-mistry-comes-support-tata-sons-listing-2589367",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023856.png",
         "timestamp": "2025-10-11 02:39:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_133703.png",
         "timestamp": "2025-10-10 13:37:19",
         "item": "image_20251010_133703.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/real-estate-sector-plays-key-role-telangana-says-jupally-krishna-rao-naredco",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_123931.png",
-        "timestamp": "2025-10-10 12:39:43",
-        "item": "image_20251010_123931.png"
     }
 ]
