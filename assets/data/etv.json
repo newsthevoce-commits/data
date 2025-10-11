@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/yashasvi-run-out-after-horror-mix-up-with-gill-argument-follows/0401/125186462",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_073542.png",
+        "timestamp": "2025-10-11 07:35:50",
+        "item": "image_20251011_073542.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/rahul-gandhi-also-fights-for-democracy-congress-leaders-post-on-nobel-peace-prize/0701/125186452",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_063538.png",
         "timestamp": "2025-10-11 06:35:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_193538.png",
         "timestamp": "2025-10-10 19:35:46",
         "item": "image_20251010_193538.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ap-crda-pressnote-released/1701/125185867",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_183615.png",
-        "timestamp": "2025-10-10 18:36:27",
-        "item": "image_20251010_183615.png"
     }
 ]
