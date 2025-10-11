@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/shapoorji-pallonji-mistry-comes-support-tata-sons-listing-2589367",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023856.png",
+        "timestamp": "2025-10-11 02:39:14",
+        "item": "image_20251011_023856.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/editorial/donald-trump-not-awarded-nobel-peace-prize-2589349",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_013635.png",
         "timestamp": "2025-10-11 01:36:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_123931.png",
         "timestamp": "2025-10-10 12:39:43",
         "item": "image_20251010_123931.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/royal-enfield-bikes-available-amazon-2589260",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_113900.png",
-        "timestamp": "2025-10-10 11:39:13",
-        "item": "image_20251010_113900.png"
     }
 ]
