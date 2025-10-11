@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/movies/chiranjeevi-meets-hyderabad-cp-sajjanar/0201/125186642",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_173537.png",
+        "timestamp": "2025-10-11 17:35:45",
+        "item": "image_20251011_173537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/g-chinnareddy-wrote-a-letter-to-cm-revanthreddy/1801/125186623",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_163515.png",
         "timestamp": "2025-10-11 16:35:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_083802.png",
         "timestamp": "2025-10-11 08:38:10",
         "item": "image_20251011_083802.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/yashasvi-run-out-after-horror-mix-up-with-gill-argument-follows/0401/125186462",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_073542.png",
-        "timestamp": "2025-10-11 07:35:50",
-        "item": "image_20251011_073542.png"
     }
 ]
