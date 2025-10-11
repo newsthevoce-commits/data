@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/folk-singers-eyeing-tickets-from-all-parties-in-bihar-assembly-polls/0701/125186587",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_153538.png",
+        "timestamp": "2025-10-11 15:35:46",
+        "item": "image_20251011_153538.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/chittoor-ap-minister-anitha-in-gd-nellore-constituency/2/125186586",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_143541.png",
         "timestamp": "2025-10-11 14:35:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_063538.png",
         "timestamp": "2025-10-11 06:35:46",
         "item": "image_20251011_063538.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-news/11/125186173",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_053541.png",
-        "timestamp": "2025-10-11 05:35:49",
-        "item": "image_20251011_053541.png"
     }
 ]
