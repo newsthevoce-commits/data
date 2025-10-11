@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-october-12th-2025-sunday-in-telugu/0700/125186666",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_213622.png",
+        "timestamp": "2025-10-11 21:36:35",
+        "item": "image_20251011_213622.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/he-named-his-wife-jaya-and-his-house-jalsa-meet-amitabh-bachchans-biggest-fan-from-indore/0701/125186631",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_193619.png",
         "timestamp": "2025-10-11 19:36:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_113512.png",
         "timestamp": "2025-10-11 11:35:25",
         "item": "image_20251011_113512.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/pm-urges-farmers-beyond-wheat-and-rice-focusing-on-pulses-to-ensure-protein-security/0701/125186514",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_103622.png",
-        "timestamp": "2025-10-11 10:36:35",
-        "item": "image_20251011_103622.png"
     }
 ]
