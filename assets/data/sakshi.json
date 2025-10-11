@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/eric-trump-praised-elon-musk-symbol-american-entrepreneurialism-2590222",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_073742.png",
+        "timestamp": "2025-10-11 07:37:52",
+        "item": "image_20251011_073742.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-9-telugu-pawan-kalyan-padala-taking-advantage-thanuja-innocence",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_063734.png",
         "timestamp": "2025-10-11 06:37:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_173911.png",
         "timestamp": "2025-10-10 17:39:32",
         "item": "image_20251010_173911.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-leader-kurasal-kannababu-slams-chandrababu-naidu-2589322",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_163942.png",
-        "timestamp": "2025-10-10 16:39:52",
-        "item": "image_20251010_163942.png"
     }
 ]
