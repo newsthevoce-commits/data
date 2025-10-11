@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/movies/is-this-the-release-date-of-prabhas-fauji/562984/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_223924.png",
+        "timestamp": "2025-10-11 22:39:41",
+        "item": "image_20251011_223924.png"
+    },
+    {
         "url": "https://vaartha.com/sports/ravindra-jadeja-hits-a-blow-for-west-indies/562970/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_183732.png",
         "timestamp": "2025-10-11 18:37:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_043924.png",
         "timestamp": "2025-10-11 04:39:42",
         "item": "image_20251011_043924.png"
-    },
-    {
-        "url": "https://vaartha.com/breaking-news/ipl-2026-date-fixed-for-ipl-mini-auction/562410/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_164033.png",
-        "timestamp": "2025-10-10 16:40:45",
-        "item": "image_20251010_164033.png"
     }
 ]
