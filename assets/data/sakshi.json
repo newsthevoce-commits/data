@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/bigg-boss-9-telugu-pawan-kalyan-padala-taking-advantage-thanuja-innocence",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_063734.png",
+        "timestamp": "2025-10-11 06:37:48",
+        "item": "image_20251011_063734.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/hyderabad-blackhawks-fought-and-lost-2590020",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_053756.png",
         "timestamp": "2025-10-11 05:38:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_163942.png",
         "timestamp": "2025-10-10 16:39:52",
         "item": "image_20251010_163942.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/chiranjeevi-mana-shankara-varaprasad-garu-movie-song-update-2589310",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_153741.png",
-        "timestamp": "2025-10-10 15:37:53",
-        "item": "image_20251010_153741.png"
     }
 ]
