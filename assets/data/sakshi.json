@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/school-life-telugu-movie-release-date-2590358",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_173741.png",
+        "timestamp": "2025-10-11 17:37:52",
+        "item": "image_20251011_173741.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/good-news-tcs-employees-higher-variable-pay-junior-employees-get-100pc-2590349",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_163722.png",
         "timestamp": "2025-10-11 16:37:41",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_084002.png",
         "timestamp": "2025-10-11 08:40:11",
         "item": "image_20251011_084002.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/eric-trump-praised-elon-musk-symbol-american-entrepreneurialism-2590222",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_073742.png",
-        "timestamp": "2025-10-11 07:37:52",
-        "item": "image_20251011_073742.png"
     }
 ]
