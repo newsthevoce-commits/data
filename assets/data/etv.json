@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-five-injured-in-road-accident/529/125186702",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_233536.png",
+        "timestamp": "2025-10-11 23:35:44",
+        "item": "image_20251011_233536.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-11th-october-2025/0101/125186750",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_223619.png",
         "timestamp": "2025-10-11 22:36:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_133714.png",
         "timestamp": "2025-10-11 13:37:26",
         "item": "image_20251011_133714.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/palnadu-farmers-protest-at-pedagaarlapadu-cement-factory/715/125186550",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_123620.png",
-        "timestamp": "2025-10-11 12:36:32",
-        "item": "image_20251011_123620.png"
     }
 ]
