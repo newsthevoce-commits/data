@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/pm-urges-farmers-beyond-wheat-and-rice-focusing-on-pulses-to-ensure-protein-security/0701/125186514",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_103622.png",
+        "timestamp": "2025-10-11 10:36:35",
+        "item": "image_20251011_103622.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/telangana-state-cabinet-meeting-on-16th/1801/125186489",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_093511.png",
         "timestamp": "2025-10-11 09:35:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_223621.png",
         "timestamp": "2025-10-10 22:36:33",
         "item": "image_20251010_223621.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/centre-to-introduce-ai-in-school-curriculum-from-class-3-onwards-from-2026/0701/125185901",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_213507.png",
-        "timestamp": "2025-10-10 21:35:15",
-        "item": "image_20251010_213507.png"
     }
 ]
