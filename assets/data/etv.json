@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/dk-shivakumar-on-reports-about-his-cm-claims/0701/125186517",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_113512.png",
+        "timestamp": "2025-10-11 11:35:25",
+        "item": "image_20251011_113512.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/pm-urges-farmers-beyond-wheat-and-rice-focusing-on-pulses-to-ensure-protein-security/0701/125186514",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_103622.png",
         "timestamp": "2025-10-11 10:36:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023705.png",
         "timestamp": "2025-10-11 02:37:13",
         "item": "image_20251011_023705.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/powerful-explosion-in-military-explosives-manufacturing-facility-in-tennessee/0801/125185932",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_223621.png",
-        "timestamp": "2025-10-10 22:36:33",
-        "item": "image_20251010_223621.png"
     }
 ]
