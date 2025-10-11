@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125186032",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_033540.png",
+        "timestamp": "2025-10-11 03:35:48",
+        "item": "image_20251011_033540.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/fishermen-in-tamil-nadu-caught-a-rare-doomsday-fish/0799/125186337",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023705.png",
         "timestamp": "2025-10-11 02:37:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_153540.png",
         "timestamp": "2025-10-10 15:35:48",
         "item": "image_20251010_153540.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-meeting-with-ministers/1701/125185820",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_143509.png",
-        "timestamp": "2025-10-10 14:35:19",
-        "item": "image_20251010_143509.png"
     }
 ]
