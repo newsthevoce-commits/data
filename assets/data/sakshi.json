@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/do-you-know-about-gongadi-and-its-heritage-2590247",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_084002.png",
+        "timestamp": "2025-10-11 08:40:11",
+        "item": "image_20251011_084002.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/eric-trump-praised-elon-musk-symbol-american-entrepreneurialism-2590222",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_073742.png",
         "timestamp": "2025-10-11 07:37:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_183810.png",
         "timestamp": "2025-10-10 18:38:26",
         "item": "image_20251010_183810.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/allu-arjun-enjoy-foreign-trip-his-wife-sneha-reddy-2589332",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_173911.png",
-        "timestamp": "2025-10-10 17:39:32",
-        "item": "image_20251010_173911.png"
     }
 ]
