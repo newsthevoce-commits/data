@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-11/donald-trump-gaza-ceasefire-plan-lyons-analysis/105880080",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_023506.png",
+        "timestamp": "2025-10-11 02:35:14",
+        "item": "image_20251011_023506.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-11/palestinians-stream-north-as-gaza-ceasefire-begins/105874744",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_223425.png",
         "timestamp": "2025-10-10 22:34:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_033502.png",
         "timestamp": "2025-10-09 03:35:11",
         "item": "image_20251009_033502.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-09/artificial-intelligence-cheating-australian-catholic-university/105863524",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251008_213619.png",
-        "timestamp": "2025-10-08 21:36:32",
-        "item": "image_20251008_213619.png"
     }
 ]
