@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/premium-home-sales-growth-knight-frank-report-2590257",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_093718.png",
+        "timestamp": "2025-10-11 09:37:34",
+        "item": "image_20251011_093718.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/do-you-know-about-gongadi-and-its-heritage-2590247",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_084002.png",
         "timestamp": "2025-10-11 08:40:11",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_193748.png",
         "timestamp": "2025-10-10 19:38:01",
         "item": "image_20251010_193748.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-leader-botsa-slams-chandrababu-sarkar-2589343",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_183810.png",
-        "timestamp": "2025-10-10 18:38:26",
-        "item": "image_20251010_183810.png"
     }
 ]
