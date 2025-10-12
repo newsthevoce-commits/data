@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/rich-dad-poor-dad-author-robert-kiyosaki-biggest-crash-world-history-2591222",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_103630.png",
+        "timestamp": "2025-10-12 10:36:41",
+        "item": "image_20251012_103630.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/usa-donald-trump-invites-pm-modi-over-gaza-peace-talks-2591203",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_083732.png",
         "timestamp": "2025-10-12 08:37:42",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_193824.png",
         "timestamp": "2025-10-11 19:38:37",
         "item": "image_20251011_193824.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/school-life-telugu-movie-release-date-2590358",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_173741.png",
-        "timestamp": "2025-10-11 17:37:52",
-        "item": "image_20251011_173741.png"
     }
 ]
