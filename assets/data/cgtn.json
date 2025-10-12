@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-12/China-Philippines-responsible-for-ship-collision-near-Nansha-Islands-1Hpi71q9x6g/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_143439.png",
+        "timestamp": "2025-10-12 14:34:57",
+        "item": "image_20251012_143439.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-11/Xi-s-important-ideas-on-improving-public-complaints-work-published-1HnObhMJCPm/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_133457.png",
         "timestamp": "2025-10-11 13:35:06",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_073437.png",
         "timestamp": "2025-10-06 07:34:46",
         "item": "image_20251006_073437.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-10-06/Trump-says-U-S-hit-another-boat-off-Venezuela-coast-on-Saturday-1Hf6veBVOow/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_053418.png",
-        "timestamp": "2025-10-06 05:34:31",
-        "item": "image_20251006_053418.png"
     }
 ]
