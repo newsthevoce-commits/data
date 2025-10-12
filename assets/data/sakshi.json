@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-13-10-2025-2591324",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220701.png",
+        "timestamp": "2025-10-12 22:07:27",
+        "item": "image_20251012_220701.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/flora-saini-eliminated-bigg-boss-9-telugu-2591295",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163841.png",
         "timestamp": "2025-10-12 16:38:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_073809.png",
         "timestamp": "2025-10-12 07:38:23",
         "item": "image_20251012_073809.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/shrikes-meet-bird-impales-prey-spikes-2591156",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_063852.png",
-        "timestamp": "2025-10-12 06:39:06",
-        "item": "image_20251012_063852.png"
     }
 ]
