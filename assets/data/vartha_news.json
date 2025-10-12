@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/brian-lara-congratulates-jaiswal/563256/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_124158.png",
+        "timestamp": "2025-10-12 12:42:14",
+        "item": "image_20251012_124158.png"
+    },
+    {
         "url": "https://vaartha.com/breaking-news/do-you-have-diabetes-try-these-fruits/563231/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_103717.png",
         "timestamp": "2025-10-12 10:37:28",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_134027.png",
         "timestamp": "2025-10-11 13:40:38",
         "item": "image_20251011_134027.png"
-    },
-    {
-        "url": "https://vaartha.com/health/tea-is-it-dangerous-to-keep-reheating-tea-over-and-over-again/562761/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_123943.png",
-        "timestamp": "2025-10-11 12:39:56",
-        "item": "image_20251011_123943.png"
     }
 ]
