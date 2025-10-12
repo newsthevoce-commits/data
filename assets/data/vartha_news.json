@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/indian-cricket-batting-line-up-collapses-after-kuldeeps-strike/563281/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_134130.png",
+        "timestamp": "2025-10-12 13:41:52",
+        "item": "image_20251012_134130.png"
+    },
+    {
         "url": "https://vaartha.com/sports/brian-lara-congratulates-jaiswal/563256/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_124158.png",
         "timestamp": "2025-10-12 12:42:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_143847.png",
         "timestamp": "2025-10-11 14:39:01",
         "item": "image_20251011_143847.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/ind-vs-wi-gill-creates-history-in-wtc/562820/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_134027.png",
-        "timestamp": "2025-10-11 13:40:38",
-        "item": "image_20251011_134027.png"
     }
 ]
