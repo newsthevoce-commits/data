@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/ysr-kadapa-family-of-three-member-commits-suicide-in-kadapa/5/125187335",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220329.png",
+        "timestamp": "2025-10-12 22:03:48",
+        "item": "image_20251012_220329.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-cm-chandrababu-press-meet/6/125187267",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163537.png",
         "timestamp": "2025-10-12 16:35:53",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_073614.png",
         "timestamp": "2025-10-12 07:36:24",
         "item": "image_20251012_073614.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/prakasam-news/8/125186784",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_063656.png",
-        "timestamp": "2025-10-12 06:37:07",
-        "item": "image_20251012_063656.png"
     }
 ]
