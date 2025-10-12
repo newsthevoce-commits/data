@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/google-landmark-investment-in-andhra-pradesh/1702/125187588",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_013513.png",
+        "timestamp": "2025-10-13 01:35:25",
+        "item": "image_20251013_013513.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/ysr-kadapa-family-of-three-member-commits-suicide-in-kadapa/5/125187335",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220329.png",
         "timestamp": "2025-10-12 22:03:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_083537.png",
         "timestamp": "2025-10-12 08:35:47",
         "item": "image_20251012_083537.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-nara-lokesh-lays-foundation-stone-for-ai-edge-data-center/11/125187155",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_073614.png",
-        "timestamp": "2025-10-12 07:36:24",
-        "item": "image_20251012_073614.png"
     }
 ]
