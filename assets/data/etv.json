@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-wife-murdered-husband-in-rangareddy/529/125187244",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_143737.png",
+        "timestamp": "2025-10-12 14:37:54",
+        "item": "image_20251012_143737.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/india-vs-west-indies-2nd-test-day-3-stumps/0401/125187222",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_133648.png",
         "timestamp": "2025-10-12 13:37:02",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_033506.png",
         "timestamp": "2025-10-12 03:35:14",
         "item": "image_20251012_033506.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-news/6/125187079",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_023627.png",
-        "timestamp": "2025-10-12 02:36:38",
-        "item": "image_20251012_023627.png"
     }
 ]
