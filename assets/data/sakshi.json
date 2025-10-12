@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/flora-saini-eliminated-bigg-boss-9-telugu-2591295",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163841.png",
+        "timestamp": "2025-10-12 16:38:58",
+        "item": "image_20251012_163841.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-beats-coolie-and-saiyaara-just-ten-days-2591293",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_153843.png",
         "timestamp": "2025-10-12 15:39:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_063852.png",
         "timestamp": "2025-10-12 06:39:06",
         "item": "image_20251012_063852.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/funday-story-dagudu-moothalu-2591017",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_043807.png",
-        "timestamp": "2025-10-12 04:38:18",
-        "item": "image_20251012_043807.png"
     }
 ]
