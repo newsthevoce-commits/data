@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125186740",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_033506.png",
+        "timestamp": "2025-10-12 03:35:14",
+        "item": "image_20251012_033506.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-news/6/125187079",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_023627.png",
         "timestamp": "2025-10-12 02:36:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_153538.png",
         "timestamp": "2025-10-11 15:35:46",
         "item": "image_20251011_153538.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/chittoor-ap-minister-anitha-in-gd-nellore-constituency/2/125186586",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_143541.png",
-        "timestamp": "2025-10-11 14:35:49",
-        "item": "image_20251011_143541.png"
     }
 ]
