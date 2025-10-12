@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/tejashwi-yadav-will-lose-just-rahul-gandhi-2590424",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_023811.png",
+        "timestamp": "2025-10-12 02:38:29",
+        "item": "image_20251012_023811.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/indias-momentum-continued-second-day-second-test-2590388",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_003641.png",
         "timestamp": "2025-10-12 00:36:52",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_123837.png",
         "timestamp": "2025-10-11 12:38:53",
         "item": "image_20251011_123837.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/how-mangaluru-rising-tech-hub-after-bangalore-2590289",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_113715.png",
-        "timestamp": "2025-10-11 11:37:36",
-        "item": "image_20251011_113715.png"
     }
 ]
