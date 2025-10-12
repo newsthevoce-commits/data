@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/railway-board-plans-manufacture-vande-bharat-sleeper-trains-kazipet-2591327",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_003837.png",
+        "timestamp": "2025-10-13 00:39:50",
+        "item": "image_20251013_003837.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-13-10-2025-2591324",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220701.png",
         "timestamp": "2025-10-12 22:07:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_083732.png",
         "timestamp": "2025-10-12 08:37:42",
         "item": "image_20251012_083732.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/crime-thriller-visakhapatnam-2591173",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_073809.png",
-        "timestamp": "2025-10-12 07:38:23",
-        "item": "image_20251012_073809.png"
     }
 ]
