@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/india-women-vs-australia-women-match-in-odi-world-cup-2025/0401/125187190",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_113502.png",
+        "timestamp": "2025-10-12 11:35:12",
+        "item": "image_20251012_113502.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/how-should-we-use-rushikonda-buildings-ap-government-invite-suggestions/1701/125187170",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_093503.png",
         "timestamp": "2025-10-12 09:35:13",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_223619.png",
         "timestamp": "2025-10-11 22:36:30",
         "item": "image_20251011_223619.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/daily-horoscope-for-october-12th-2025-sunday-in-telugu/0700/125186666",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_213622.png",
-        "timestamp": "2025-10-11 21:36:35",
-        "item": "image_20251011_213622.png"
     }
 ]
