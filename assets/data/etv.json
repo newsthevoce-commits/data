@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-cm-chandrababu-press-meet/6/125187267",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163537.png",
+        "timestamp": "2025-10-12 16:35:53",
+        "item": "image_20251012_163537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/benefits-of-positive-evening-habits/1802/125186995",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_153544.png",
         "timestamp": "2025-10-12 15:35:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_063656.png",
         "timestamp": "2025-10-12 06:37:07",
         "item": "image_20251012_063656.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-news/704/125186699",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_043626.png",
-        "timestamp": "2025-10-12 04:36:34",
-        "item": "image_20251012_043626.png"
     }
 ]
