@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/tamilnadu-news/704/125186699",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_043626.png",
+        "timestamp": "2025-10-12 04:36:34",
+        "item": "image_20251012_043626.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125186740",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_033506.png",
         "timestamp": "2025-10-12 03:35:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_163515.png",
         "timestamp": "2025-10-11 16:35:27",
         "item": "image_20251011_163515.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/folk-singers-eyeing-tickets-from-all-parties-in-bihar-assembly-polls/0701/125186587",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_153538.png",
-        "timestamp": "2025-10-11 15:35:46",
-        "item": "image_20251011_153538.png"
     }
 ]
