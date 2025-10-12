@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/usa-donald-trump-invites-pm-modi-over-gaza-peace-talks-2591203",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_083732.png",
+        "timestamp": "2025-10-12 08:37:42",
+        "item": "image_20251012_083732.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/crime-thriller-visakhapatnam-2591173",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_073809.png",
         "timestamp": "2025-10-12 07:38:23",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_173741.png",
         "timestamp": "2025-10-11 17:37:52",
         "item": "image_20251011_173741.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/good-news-tcs-employees-higher-variable-pay-junior-employees-get-100pc-2590349",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_163722.png",
-        "timestamp": "2025-10-11 16:37:41",
-        "item": "image_20251011_163722.png"
     }
 ]
