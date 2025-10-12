@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-beats-coolie-and-saiyaara-just-ten-days-2591293",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_153843.png",
+        "timestamp": "2025-10-12 15:39:05",
+        "item": "image_20251012_153843.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/west-indies-trail-97-runs-day-3-stumps-2591275",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_144037.png",
         "timestamp": "2025-10-12 14:41:04",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_043807.png",
         "timestamp": "2025-10-12 04:38:18",
         "item": "image_20251012_043807.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/laina-emmanuel-rimjhim-agrawal-making-google-map-brain-2590578",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_033702.png",
-        "timestamp": "2025-10-12 03:37:14",
-        "item": "image_20251012_033702.png"
     }
 ]
