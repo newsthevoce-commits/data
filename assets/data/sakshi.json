@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/laina-emmanuel-rimjhim-agrawal-making-google-map-brain-2590578",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_033702.png",
+        "timestamp": "2025-10-12 03:37:14",
+        "item": "image_20251012_033702.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/tejashwi-yadav-will-lose-just-rahul-gandhi-2590424",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_023811.png",
         "timestamp": "2025-10-12 02:38:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_133919.png",
         "timestamp": "2025-10-11 13:39:36",
         "item": "image_20251011_133919.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/dark-chocolate-movie-teaser-telugu-2590309",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_123837.png",
-        "timestamp": "2025-10-11 12:38:53",
-        "item": "image_20251011_123837.png"
     }
 ]
