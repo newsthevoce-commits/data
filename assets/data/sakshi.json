@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/funday-story-dagudu-moothalu-2591017",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_043807.png",
+        "timestamp": "2025-10-12 04:38:18",
+        "item": "image_20251012_043807.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/laina-emmanuel-rimjhim-agrawal-making-google-map-brain-2590578",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_033702.png",
         "timestamp": "2025-10-12 03:37:14",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_143744.png",
         "timestamp": "2025-10-11 14:37:55",
         "item": "image_20251011_143744.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/highest-motorable-village-india-population-less-150-2590324",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_133919.png",
-        "timestamp": "2025-10-11 13:39:36",
-        "item": "image_20251011_133919.png"
     }
 ]
