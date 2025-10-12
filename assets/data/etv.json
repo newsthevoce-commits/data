@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/visakhapatnam-nara-lokesh-lays-foundation-stone-for-ai-edge-data-center/11/125187155",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_073614.png",
+        "timestamp": "2025-10-12 07:36:24",
+        "item": "image_20251012_073614.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/prakasam-news/8/125186784",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_063656.png",
         "timestamp": "2025-10-12 06:37:07",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_183513.png",
         "timestamp": "2025-10-11 18:35:25",
         "item": "image_20251011_183513.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/movies/chiranjeevi-meets-hyderabad-cp-sajjanar/0201/125186642",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_173537.png",
-        "timestamp": "2025-10-11 17:35:45",
-        "item": "image_20251011_173537.png"
     }
 ]
