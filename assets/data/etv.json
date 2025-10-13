@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/nalgonda-school-bus-plunges-into-pond/534/125187904",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123627.png",
+        "timestamp": "2025-10-13 12:36:36",
+        "item": "image_20251013_123627.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/india-vs-west-indies-second-test-day-4-tea-break/0401/125187874",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_113602.png",
         "timestamp": "2025-10-13 11:36:10",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_033815.png",
         "timestamp": "2025-10-13 03:38:26",
         "item": "image_20251013_033815.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/google-landmark-investment-in-andhra-pradesh/1702/125187588",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_013513.png",
-        "timestamp": "2025-10-13 01:35:25",
-        "item": "image_20251013_013513.png"
     }
 ]
