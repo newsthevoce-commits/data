@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/ind-vs-wi-team-india-close-to-victory/564113/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193835.png",
+        "timestamp": "2025-10-13 19:38:49",
+        "item": "image_20251013_193835.png"
+    },
+    {
         "url": "https://vaartha.com/health/disease-a-new-virus-threatens-the-screen/564036/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_183936.png",
         "timestamp": "2025-10-13 18:39:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_063854.png",
         "timestamp": "2025-10-13 06:39:05",
         "item": "image_20251013_063854.png"
-    },
-    {
-        "url": "https://vaartha.com/breaking-news/bike-fines/563419/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_044011.png",
-        "timestamp": "2025-10-13 04:40:26",
-        "item": "image_20251013_044011.png"
     }
 ]
