@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-13/hamas-releases-all-remaining-israeli-hostages-in-gaza/105885332",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_163538.png",
+        "timestamp": "2025-10-13 16:35:46",
+        "item": "image_20251013_163538.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-13/labor-super-tax-changes-explained/105885434",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_073620.png",
         "timestamp": "2025-10-13 07:36:32",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_113503.png",
         "timestamp": "2025-10-10 11:35:11",
         "item": "image_20251010_113503.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-10/david-pocock-parliament-sports-club-gambling-lobby-sponsorship/105876446",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_063504.png",
-        "timestamp": "2025-10-10 06:35:13",
-        "item": "image_20251010_063504.png"
     }
 ]
