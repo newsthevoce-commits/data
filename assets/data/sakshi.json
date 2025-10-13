@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/100-rupees-kg-chicken-kurnool-2592206",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_083711.png",
+        "timestamp": "2025-10-13 08:37:27",
+        "item": "image_20251013_083711.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/sc-orders-cbi-probe-karur-tvk-rally-stampede-case-full-details-2592193",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_074012.png",
         "timestamp": "2025-10-13 07:40:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220701.png",
         "timestamp": "2025-10-12 22:07:27",
         "item": "image_20251012_220701.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/flora-saini-eliminated-bigg-boss-9-telugu-2591295",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163841.png",
-        "timestamp": "2025-10-12 16:38:58",
-        "item": "image_20251012_163841.png"
     }
 ]
