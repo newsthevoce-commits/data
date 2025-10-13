@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/supreme-court-hear-case-green-crackers-delhi-ncr-2591520",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_034010.png",
+        "timestamp": "2025-10-13 03:40:25",
+        "item": "image_20251013_034010.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/international/pakistan-killed-200-afghan-fighters-taliban-claims-killing-58-pakistani",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_023630.png",
         "timestamp": "2025-10-13 02:36:44",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_124024.png",
         "timestamp": "2025-10-12 12:40:50",
         "item": "image_20251012_124024.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/home-decor-tips-turn-waste-bottles-beautiful-home-decor-showpiece-2591233",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_113659.png",
-        "timestamp": "2025-10-12 11:37:11",
-        "item": "image_20251012_113659.png"
     }
 ]
