@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/trump-in-israel-after-hostages-return/0801/125187930",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_143606.png",
+        "timestamp": "2025-10-13 14:36:16",
+        "item": "image_20251013_143606.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/chandrababu-meets-prime-minister-modi/1701/125187918",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_133509.png",
         "timestamp": "2025-10-13 13:35:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_053629.png",
         "timestamp": "2025-10-13 05:36:37",
         "item": "image_20251013_053629.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/ysr-kadapa-news/5/125187382",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_043732.png",
-        "timestamp": "2025-10-13 04:37:40",
-        "item": "image_20251013_043732.png"
     }
 ]
