@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/india-lost-jaiswal-wicket-earlier-chasing-121-runs-small-target-2592300",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_133720.png",
+        "timestamp": "2025-10-13 13:37:36",
+        "item": "image_20251013_133720.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/noida-man-performing-dangerous-car-stunt-police-slap-rs-57500-fine-2592289",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123824.png",
         "timestamp": "2025-10-13 12:38:38",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_034010.png",
         "timestamp": "2025-10-13 03:40:25",
         "item": "image_20251013_034010.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/international/pakistan-killed-200-afghan-fighters-taliban-claims-killing-58-pakistani",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_023630.png",
-        "timestamp": "2025-10-13 02:36:44",
-        "item": "image_20251013_023630.png"
     }
 ]
