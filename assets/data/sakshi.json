@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/rjd-two-mlas-resign-ahead-bihar-polls-2591809",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_043914.png",
+        "timestamp": "2025-10-13 04:39:33",
+        "item": "image_20251013_043914.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/national/supreme-court-hear-case-green-crackers-delhi-ncr-2591520",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_034010.png",
         "timestamp": "2025-10-13 03:40:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_134002.png",
         "timestamp": "2025-10-12 13:40:20",
         "item": "image_20251012_134002.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/ysrcp-leader-pushpa-sreevani-kurupam-jaundice-cases-2591258",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_124024.png",
-        "timestamp": "2025-10-12 12:40:50",
-        "item": "image_20251012_124024.png"
     }
 ]
