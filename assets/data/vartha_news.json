@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/sports/west-indies-opener-john-campbells-maiden-century/563885/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123925.png",
+        "timestamp": "2025-10-13 12:39:43",
+        "item": "image_20251013_123925.png"
+    },
+    {
         "url": "https://vaartha.com/breaking-news/bihar-elections-two-rjd-mlas-resign/563758/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_113845.png",
         "timestamp": "2025-10-13 11:38:58",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_134130.png",
         "timestamp": "2025-10-12 13:41:52",
         "item": "image_20251012_134130.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/brian-lara-congratulates-jaiswal/563256/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_124158.png",
-        "timestamp": "2025-10-12 12:42:14",
-        "item": "image_20251012_124158.png"
     }
 ]
