@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/politics/ysrcp-leader-jogi-ramesh-takes-chandrababu-naidu-2592347",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_173823.png",
+        "timestamp": "2025-10-13 17:38:40",
+        "item": "image_20251013_173823.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/tollywood-latest-movie-meghana-trailer-out-now-2592339",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_163927.png",
         "timestamp": "2025-10-13 16:39:47",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_074012.png",
         "timestamp": "2025-10-13 07:40:27",
         "item": "image_20251013_074012.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/womens-world-cup-alyssa-healy-storm-hits-vizag-2592159",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_063759.png",
-        "timestamp": "2025-10-13 06:38:09",
-        "item": "image_20251013_063759.png"
     }
 ]
