@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/breaking-news/bihar-elections-two-rjd-mlas-resign/563758/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_113845.png",
+        "timestamp": "2025-10-13 11:38:58",
+        "item": "image_20251013_113845.png"
+    },
+    {
         "url": "https://vaartha.com/sanghibavam/prison-students-success/563677/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_103923.png",
         "timestamp": "2025-10-13 10:39:33",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_124158.png",
         "timestamp": "2025-10-12 12:42:14",
         "item": "image_20251012_124158.png"
-    },
-    {
-        "url": "https://vaartha.com/breaking-news/do-you-have-diabetes-try-these-fruits/563231/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_103717.png",
-        "timestamp": "2025-10-12 10:37:28",
-        "item": "image_20251012_103717.png"
     }
 ]
