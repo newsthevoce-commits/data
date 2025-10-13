@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/director-jains-nani-about-k-ramp-movie-2592371",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_013639.png",
+        "timestamp": "2025-10-14 01:36:50",
+        "item": "image_20251014_013639.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/brs-leader-ktr-fires-congress-party-2592370",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_003707.png",
         "timestamp": "2025-10-14 00:37:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_143833.png",
         "timestamp": "2025-10-13 14:38:51",
         "item": "image_20251013_143833.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/india-lost-jaiswal-wicket-earlier-chasing-121-runs-small-target-2592300",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_133720.png",
-        "timestamp": "2025-10-13 13:37:36",
-        "item": "image_20251013_133720.png"
     }
 ]
