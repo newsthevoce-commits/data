@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/jaipur-doctors-successfully-removed-watch-bolts-from-patient-stomach/0700/125187996",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193512.png",
+        "timestamp": "2025-10-13 19:35:25",
+        "item": "image_20251013_193512.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-raids-on-illegal-stockpiles-of-fireworks/529/125187995",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_183626.png",
         "timestamp": "2025-10-13 18:36:35",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_093509.png",
         "timestamp": "2025-10-13 09:35:18",
         "item": "image_20251013_093509.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-speech-in-crda-building-inauguration-ceremony/1701/125187827",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_083511.png",
-        "timestamp": "2025-10-13 08:35:24",
-        "item": "image_20251013_083511.png"
     }
 ]
