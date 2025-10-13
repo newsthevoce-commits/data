@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-14/fossil-fuel-climate-impact-study-models-heatwave-deaths/105870098",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_223556.png",
+        "timestamp": "2025-10-13 22:36:09",
+        "item": "image_20251013_223556.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-14/israel-gaza-ceasefire-us-trump-deal-arab-countries/105887224",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_213819.png",
         "timestamp": "2025-10-13 21:38:43",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_223425.png",
         "timestamp": "2025-10-10 22:34:36",
         "item": "image_20251010_223425.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-10/ceasefire-in-gaza-starts/105879726",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_123545.png",
-        "timestamp": "2025-10-10 12:35:54",
-        "item": "image_20251010_123545.png"
     }
 ]
