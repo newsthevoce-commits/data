@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-13/President-Xi-Jinping-s-key-quotes-at-Global-Leaders-Meeting-on-Women-1Hre4kDnrLW/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123415.png",
+        "timestamp": "2025-10-13 12:34:27",
+        "item": "image_20251013_123415.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-12/Xi-s-discourses-on-women-children-published-in-foreign-languages-1HpLsza8Kt2/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_053415.png",
         "timestamp": "2025-10-13 05:34:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173421.png",
         "timestamp": "2025-10-07 17:34:30",
         "item": "image_20251007_173421.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-10-07/Li-Qiang-to-visit-DPRK-for-80th-anniversary-of-Workers-Party-of-Korea-1HgPY3OgaBy/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083416.png",
-        "timestamp": "2025-10-07 08:34:27",
-        "item": "image_20251007_083416.png"
     }
 ]
