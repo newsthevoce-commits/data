@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-14/israel-gaza-ceasefire-us-trump-deal-arab-countries/105887224",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_213819.png",
+        "timestamp": "2025-10-13 21:38:43",
+        "item": "image_20251013_213819.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-13/hamas-releases-all-remaining-israeli-hostages-in-gaza/105885332",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_163538.png",
         "timestamp": "2025-10-13 16:35:46",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_123545.png",
         "timestamp": "2025-10-10 12:35:54",
         "item": "image_20251010_123545.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-10/nobel-peace-prize-awarded-mar%C3%ADa-corina-machado/105879576",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_113503.png",
-        "timestamp": "2025-10-10 11:35:11",
-        "item": "image_20251010_113503.png"
     }
 ]
