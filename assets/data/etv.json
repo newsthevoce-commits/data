@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-13th-october-2025/0101/125188029",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_214139.png",
+        "timestamp": "2025-10-13 21:41:55",
+        "item": "image_20251013_214139.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/jaipur-doctors-successfully-removed-watch-bolts-from-patient-stomach/0700/125187996",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193512.png",
         "timestamp": "2025-10-13 19:35:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_103632.png",
         "timestamp": "2025-10-13 10:36:40",
         "item": "image_20251013_103632.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/neeraj-chopra-ex-coach-predicts-another-olympic-medal/0401/125187845",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_093509.png",
-        "timestamp": "2025-10-13 09:35:18",
-        "item": "image_20251013_093509.png"
     }
 ]
