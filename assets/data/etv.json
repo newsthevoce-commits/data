@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/sports/chatter-buzzing-on-social-media-ex-india-star-reacts/0401/125187803",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_073819.png",
+        "timestamp": "2025-10-13 07:38:27",
+        "item": "image_20251013_073819.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/ed-raids-7-chennai-sites-linked-to-coldrif-maker-drug-control-officials/0701/125187794",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_063613.png",
         "timestamp": "2025-10-13 06:36:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_143737.png",
         "timestamp": "2025-10-12 14:37:54",
         "item": "image_20251012_143737.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/india-vs-west-indies-2nd-test-day-3-stumps/0401/125187222",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_133648.png",
-        "timestamp": "2025-10-12 13:37:02",
-        "item": "image_20251012_133648.png"
     }
 ]
