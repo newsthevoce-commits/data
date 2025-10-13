@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/tn-govt-completely-revokes-licence-of-adulterated-cough-syrup-firm-shuts-down-company/0701/125187855",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_103632.png",
+        "timestamp": "2025-10-13 10:36:40",
+        "item": "image_20251013_103632.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/sports/neeraj-chopra-ex-coach-predicts-another-olympic-medal/0401/125187845",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_093509.png",
         "timestamp": "2025-10-13 09:35:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220329.png",
         "timestamp": "2025-10-12 22:03:48",
         "item": "image_20251012_220329.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/amaravati-krishna-cm-chandrababu-press-meet/6/125187267",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163537.png",
-        "timestamp": "2025-10-12 16:35:53",
-        "item": "image_20251012_163537.png"
     }
 ]
