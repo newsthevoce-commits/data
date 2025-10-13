@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/raashii-khanna-comments-about-word-telusu-kadha-promotions-2592359",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193723.png",
+        "timestamp": "2025-10-13 19:37:45",
+        "item": "image_20251013_193723.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/pranav-madav-surapaneni-selected-represent-india-junior-world-championship-2025",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_183833.png",
         "timestamp": "2025-10-13 18:38:50",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_103830.png",
         "timestamp": "2025-10-13 10:38:44",
         "item": "image_20251013_103830.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/100-rupees-kg-chicken-kurnool-2592206",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_083711.png",
-        "timestamp": "2025-10-13 08:37:27",
-        "item": "image_20251013_083711.png"
     }
 ]
