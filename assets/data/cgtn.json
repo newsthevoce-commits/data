@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-12/Xi-s-discourses-on-women-children-published-in-foreign-languages-1HpLsza8Kt2/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_053415.png",
+        "timestamp": "2025-10-13 05:34:30",
+        "item": "image_20251013_053415.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-12/China-Philippines-responsible-for-ship-collision-near-Nansha-Islands-1Hpi71q9x6g/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_143439.png",
         "timestamp": "2025-10-12 14:34:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_083416.png",
         "timestamp": "2025-10-07 08:34:27",
         "item": "image_20251007_083416.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-10-06/China-s-holiday-consumption-showcases-economic-vitality-innovation-1HfaxOF1HJC/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251006_073437.png",
-        "timestamp": "2025-10-06 07:34:46",
-        "item": "image_20251006_073437.png"
     }
 ]
