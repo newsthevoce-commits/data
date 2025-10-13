@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/chandrababu-meets-prime-minister-modi/1701/125187918",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_133509.png",
+        "timestamp": "2025-10-13 13:35:17",
+        "item": "image_20251013_133509.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/nalgonda-school-bus-plunges-into-pond/534/125187904",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123627.png",
         "timestamp": "2025-10-13 12:36:36",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_043732.png",
         "timestamp": "2025-10-13 04:37:40",
         "item": "image_20251013_043732.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/telangana/general/1802/125187589",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_033815.png",
-        "timestamp": "2025-10-13 03:38:26",
-        "item": "image_20251013_033815.png"
     }
 ]
