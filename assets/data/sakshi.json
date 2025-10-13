@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/national/sc-orders-cbi-probe-karur-tvk-rally-stampede-case-full-details-2592193",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_074012.png",
+        "timestamp": "2025-10-13 07:40:27",
+        "item": "image_20251013_074012.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/womens-world-cup-alyssa-healy-storm-hits-vizag-2592159",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_063759.png",
         "timestamp": "2025-10-13 06:38:09",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_163841.png",
         "timestamp": "2025-10-12 16:38:58",
         "item": "image_20251012_163841.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-beats-coolie-and-saiyaara-just-ten-days-2591293",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_153843.png",
-        "timestamp": "2025-10-12 15:39:05",
-        "item": "image_20251012_153843.png"
     }
 ]
