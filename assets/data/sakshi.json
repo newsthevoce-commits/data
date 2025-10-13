@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/sports/womens-cwc-2025-bangladesh-set-233-runs-target-south-africa-2592333",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_153750.png",
+        "timestamp": "2025-10-13 15:38:04",
+        "item": "image_20251013_153750.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/movies/kantara-chapter-1-worldwide-box-office-collection-day-11-2592317",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_143833.png",
         "timestamp": "2025-10-13 14:38:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_053824.png",
         "timestamp": "2025-10-13 05:38:39",
         "item": "image_20251013_053824.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/politics/rjd-two-mlas-resign-ahead-bihar-polls-2591809",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_043914.png",
-        "timestamp": "2025-10-13 04:39:33",
-        "item": "image_20251013_043914.png"
     }
 ]
