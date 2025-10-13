@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-13/treasurer-announces-rework-of-stalled-super-tax-increase/105884568",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_033617.png",
+        "timestamp": "2025-10-13 03:36:27",
+        "item": "image_20251013_033617.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-13/trump-president-wealth-family-business-crypto-four-corners/105876782",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220131.png",
         "timestamp": "2025-10-12 22:01:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251010_003546.png",
         "timestamp": "2025-10-10 00:35:55",
         "item": "image_20251010_003546.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-10/russia-braces-for-return-of-convict-army-post-ukraine-war/105812936",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_213502.png",
-        "timestamp": "2025-10-09 21:35:11",
-        "item": "image_20251009_213502.png"
     }
 ]
