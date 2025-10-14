@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/chittoor-cid-probe-in-tirumala-parakamani-theft-case/2/125188518",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_063713.png",
+        "timestamp": "2025-10-14 06:37:25",
+        "item": "image_20251014_063713.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/125188381",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_053731.png",
         "timestamp": "2025-10-14 05:37:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_163729.png",
         "timestamp": "2025-10-13 16:37:38",
         "item": "image_20251013_163729.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/trump-in-israel-after-hostages-return/0801/125187930",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_143606.png",
-        "timestamp": "2025-10-13 14:36:16",
-        "item": "image_20251013_143606.png"
     }
 ]
