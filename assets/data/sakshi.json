@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/telangana/btech-student-ends-life-road-incident-2593225",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_083745.png",
+        "timestamp": "2025-10-14 08:37:55",
+        "item": "image_20251014_083745.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/family/comic-con-india-2025-26-open-hyderabad-2593206",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_073707.png",
         "timestamp": "2025-10-14 07:37:18",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_214538.png",
         "timestamp": "2025-10-13 21:46:19",
         "item": "image_20251013_214538.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/sports/icc-womens-world-cup-2025-south-africa-won-3-wkts-bangladesh-2592361",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_203645.png",
-        "timestamp": "2025-10-13 20:36:56",
-        "item": "image_20251013_203645.png"
     }
 ]
