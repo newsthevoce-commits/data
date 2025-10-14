@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://news.cgtn.com/news/2025-10-14/Xi-Jinping-meets-president-of-Iceland-in-Beijing-1HsuE1Clr56/p.html",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_123418.png",
+        "timestamp": "2025-10-14 12:34:29",
+        "item": "image_20251014_123418.png"
+    },
+    {
         "url": "https://news.cgtn.com/news/2025-10-13/President-Xi-Jinping-s-key-quotes-at-Global-Leaders-Meeting-on-Women-1Hre4kDnrLW/p.html",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123415.png",
         "timestamp": "2025-10-13 12:34:27",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251009_143423.png",
         "timestamp": "2025-10-09 14:34:36",
         "item": "image_20251009_143423.png"
-    },
-    {
-        "url": "https://news.cgtn.com/news/2025-10-07/China-sees-inbound-tourism-boom-over-National-Day-Mid-Autumn-holidays-1Hhui8tT9za/p.html",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251007_173421.png",
-        "timestamp": "2025-10-07 17:34:30",
-        "item": "image_20251007_173421.png"
     }
 ]
