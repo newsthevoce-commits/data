@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/telangana/all-employees-must-participate-in-the-telangana-rising-document2047-survey/1801/125188617",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_133537.png",
+        "timestamp": "2025-10-14 13:35:45",
+        "item": "image_20251014_133537.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/another-cop-suicides-in-haryana/0700/125188608",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_123822.png",
         "timestamp": "2025-10-14 12:38:30",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_033512.png",
         "timestamp": "2025-10-14 03:35:24",
         "item": "image_20251014_033512.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ex-mla-bolla-brahmanaidu-sensational-comments/1702/125188468",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_023732.png",
-        "timestamp": "2025-10-14 02:37:40",
-        "item": "image_20251014_023732.png"
     }
 ]
