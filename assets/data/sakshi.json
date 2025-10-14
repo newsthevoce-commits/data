@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/business/gems-and-jewellery-exports-rise-6-5-pc-2-9-bn-september-2593360",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_214116.png",
+        "timestamp": "2025-10-14 21:41:48",
+        "item": "image_20251014_214116.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/police-raid-a1-tdp-leader-house-fake-liquor-case-2593348",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_203935.png",
         "timestamp": "2025-10-14 20:39:54",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_124027.png",
         "timestamp": "2025-10-14 12:40:37",
         "item": "image_20251014_124027.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/business/vivek-oberoi-credits-paanwala-teaching-him-basics-finance-2593271",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_113704.png",
-        "timestamp": "2025-10-14 11:37:15",
-        "item": "image_20251014_113704.png"
     }
 ]
