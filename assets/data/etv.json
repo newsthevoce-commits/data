@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/kurnool-prime-minister-modi-kurnool-visit-schedule/7/125188710",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_213827.png",
+        "timestamp": "2025-10-14 21:38:44",
+        "item": "image_20251014_213827.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/indore-residents-set-up-bird-park-plant-300-fruit-saplings-in-memory-of-loved-ones/0700/125188660",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_193635.png",
         "timestamp": "2025-10-14 19:36:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_113509.png",
         "timestamp": "2025-10-14 11:35:17",
         "item": "image_20251014_113509.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/crime/maharashtra-ats-arrests-man-wanted-in-andhra-pradesh-for-anti-india-activities/0301/125188558",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093621.png",
-        "timestamp": "2025-10-14 09:36:29",
-        "item": "image_20251014_093621.png"
     }
 ]
