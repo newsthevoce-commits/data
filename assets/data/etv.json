@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-strange-incident-in-dabirpura/529/125188691",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_173545.png",
+        "timestamp": "2025-10-14 17:35:53",
+        "item": "image_20251014_173545.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/jogi-ramesh-will-not-be-able-to-enter-the-legislative-assembly-again-says-bode-prasad/1701/125188662",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_163540.png",
         "timestamp": "2025-10-14 16:35:48",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_073508.png",
         "timestamp": "2025-10-14 07:35:17",
         "item": "image_20251014_073508.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/chittoor-cid-probe-in-tirumala-parakamani-theft-case/2/125188518",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_063713.png",
-        "timestamp": "2025-10-14 06:37:25",
-        "item": "image_20251014_063713.png"
     }
 ]
