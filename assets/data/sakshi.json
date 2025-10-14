@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/jr-ntr-war-2-makes-digital-debut-indias-most-watched-film-last-week-2593299",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_133739.png",
+        "timestamp": "2025-10-14 13:37:53",
+        "item": "image_20251014_133739.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/business/stock-market-closing-update-14th-october-2025-2593287",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_124027.png",
         "timestamp": "2025-10-14 12:40:37",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_043825.png",
         "timestamp": "2025-10-14 04:38:37",
         "item": "image_20251014_043825.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/telangana/clarity-engineering-fees-soon-telangana-2592419",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_033707.png",
-        "timestamp": "2025-10-14 03:37:17",
-        "item": "image_20251014_033707.png"
     }
 ]
