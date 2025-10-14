@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125188207",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_033512.png",
+        "timestamp": "2025-10-14 03:35:24",
+        "item": "image_20251014_033512.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ex-mla-bolla-brahmanaidu-sensational-comments/1702/125188468",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_023732.png",
         "timestamp": "2025-10-14 02:37:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123627.png",
         "timestamp": "2025-10-13 12:36:36",
         "item": "image_20251013_123627.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/sports/india-vs-west-indies-second-test-day-4-tea-break/0401/125187874",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_113602.png",
-        "timestamp": "2025-10-13 11:36:10",
-        "item": "image_20251013_113602.png"
     }
 ]
