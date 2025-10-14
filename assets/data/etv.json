@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/another-cop-suicides-in-haryana/0700/125188608",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_123822.png",
+        "timestamp": "2025-10-14 12:38:30",
+        "item": "image_20251014_123822.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/india/bjp-releases-first-list-of-71-candidates-for-bihar-polls/0701/125188590",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_113509.png",
         "timestamp": "2025-10-14 11:35:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_023732.png",
         "timestamp": "2025-10-14 02:37:40",
         "item": "image_20251014_023732.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-13th-october-2025/0101/125188029",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_214139.png",
-        "timestamp": "2025-10-13 21:41:55",
-        "item": "image_20251013_214139.png"
     }
 ]
