@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/bjp-releases-first-list-of-71-candidates-for-bihar-polls/0701/125188590",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_113509.png",
+        "timestamp": "2025-10-14 11:35:17",
+        "item": "image_20251014_113509.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/crime/maharashtra-ats-arrests-man-wanted-in-andhra-pradesh-for-anti-india-activities/0301/125188558",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093621.png",
         "timestamp": "2025-10-14 09:36:29",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_214139.png",
         "timestamp": "2025-10-13 21:41:55",
         "item": "image_20251013_214139.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/jaipur-doctors-successfully-removed-watch-bolts-from-patient-stomach/0700/125187996",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193512.png",
-        "timestamp": "2025-10-13 19:35:25",
-        "item": "image_20251013_193512.png"
     }
 ]
