@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/ex-mla-bolla-brahmanaidu-sensational-comments/1702/125188468",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_023732.png",
+        "timestamp": "2025-10-14 02:37:40",
+        "item": "image_20251014_023732.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/gold-and-silver-prices-today-in-cities-hyderabad-vijayawada-vizag-on-13th-october-2025/0101/125188029",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_214139.png",
         "timestamp": "2025-10-13 21:41:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_113602.png",
         "timestamp": "2025-10-13 11:36:10",
         "item": "image_20251013_113602.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/india/tn-govt-completely-revokes-licence-of-adulterated-cough-syrup-firm-shuts-down-company/0701/125187855",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_103632.png",
-        "timestamp": "2025-10-13 10:36:40",
-        "item": "image_20251013_103632.png"
     }
 ]
