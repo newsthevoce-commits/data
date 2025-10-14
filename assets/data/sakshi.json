@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/film-ajay-devgn-and-rakul-preet-singh-de-de-pyaar-de-2-trailer-out-now-2593347",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_193933.png",
+        "timestamp": "2025-10-14 19:39:51",
+        "item": "image_20251014_193933.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/afghanistan-set-294-runs-target-bangladesh-3rd-odi-2593346",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_184058.png",
         "timestamp": "2025-10-14 18:41:17",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_103659.png",
         "timestamp": "2025-10-14 10:37:12",
         "item": "image_20251014_103659.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/dammu-srija-bigg-boss-9-re-entry-chances-after-social-media-effects-2593239",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093832.png",
-        "timestamp": "2025-10-14 09:38:47",
-        "item": "image_20251014_093832.png"
     }
 ]
