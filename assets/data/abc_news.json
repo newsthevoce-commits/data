@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-15/hostage-remains-returned-israel-kills-palestinians-ceasefire/105892558",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_213539.png",
+        "timestamp": "2025-10-14 21:36:11",
+        "item": "image_20251014_213539.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-14/freed-prisoners-detainees-reunited-in-gaza-and-west-bank/105885078",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_123631.png",
         "timestamp": "2025-10-14 12:36:40",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_073620.png",
         "timestamp": "2025-10-13 07:36:32",
         "item": "image_20251013_073620.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-13/treasurer-announces-rework-of-stalled-super-tax-increase/105884568",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_033617.png",
-        "timestamp": "2025-10-13 03:36:27",
-        "item": "image_20251013_033617.png"
     }
 ]
