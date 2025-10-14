@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/andhra-mountaineer-becomes-first-indian-to-summit-9-of-worlds-highest-8000metre-peaks/0701/125188624",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_153510.png",
+        "timestamp": "2025-10-14 15:35:19",
+        "item": "image_20251014_153510.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-interesting-post-on-x-platform/1701/125188634",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_143512.png",
         "timestamp": "2025-10-14 14:35:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_053731.png",
         "timestamp": "2025-10-14 05:37:40",
         "item": "image_20251014_053731.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/shehbaz-sharif-showered-trump-with-praise/0801/125188511",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_043641.png",
-        "timestamp": "2025-10-14 04:36:49",
-        "item": "image_20251014_043641.png"
     }
 ]
