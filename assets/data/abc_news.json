@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-14/australia-hosts-hottest-place-on-earth/105888248",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_063536.png",
+        "timestamp": "2025-10-14 06:35:45",
+        "item": "image_20251014_063536.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-14/fossil-fuel-climate-impact-study-models-heatwave-deaths/105870098",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_053552.png",
         "timestamp": "2025-10-14 05:36:01",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_213428.png",
         "timestamp": "2025-10-11 21:34:39",
         "item": "image_20251011_213428.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-11/hackers-release-qantas-customers-data-on-dark-web/105881266",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_103428.png",
-        "timestamp": "2025-10-11 10:34:38",
-        "item": "image_20251011_103428.png"
     }
 ]
