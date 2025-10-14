@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/shehbaz-sharif-showered-trump-with-praise/0801/125188511",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_043641.png",
+        "timestamp": "2025-10-14 04:36:49",
+        "item": "image_20251014_043641.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125188207",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_033512.png",
         "timestamp": "2025-10-14 03:35:24",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_133509.png",
         "timestamp": "2025-10-13 13:35:17",
         "item": "image_20251013_133509.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/nalgonda-school-bus-plunges-into-pond/534/125187904",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_123627.png",
-        "timestamp": "2025-10-13 12:36:36",
-        "item": "image_20251013_123627.png"
     }
 ]
