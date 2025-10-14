@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.abc.net.au/news//news/2025-10-14/noa-argamani-avinatan-or-hamas-hostages-freed/105890692",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093427.png",
+        "timestamp": "2025-10-14 09:34:37",
+        "item": "image_20251014_093427.png"
+    },
+    {
         "url": "https://www.abc.net.au/news//news/2025-10-14/australia-hosts-hottest-place-on-earth/105888248",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_063536.png",
         "timestamp": "2025-10-14 06:35:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251012_220131.png",
         "timestamp": "2025-10-12 22:01:40",
         "item": "image_20251012_220131.png"
-    },
-    {
-        "url": "https://www.abc.net.au/news//news/2025-10-12/queensland-tiffany-wilkes-suspected-murder-suicide-clementine/105874684",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251011_213428.png",
-        "timestamp": "2025-10-11 21:34:39",
-        "item": "image_20251011_213428.png"
     }
 ]
