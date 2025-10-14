@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/cm-chandrababu-interesting-post-on-x-platform/1701/125188634",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_143512.png",
+        "timestamp": "2025-10-14 14:35:25",
+        "item": "image_20251014_143512.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/telangana/all-employees-must-participate-in-the-telangana-rising-document2047-survey/1801/125188617",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_133537.png",
         "timestamp": "2025-10-14 13:35:45",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_043641.png",
         "timestamp": "2025-10-14 04:36:49",
         "item": "image_20251014_043641.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-news/529/125188207",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_033512.png",
-        "timestamp": "2025-10-14 03:35:24",
-        "item": "image_20251014_033512.png"
     }
 ]
