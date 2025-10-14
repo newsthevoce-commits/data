@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/lokah-chapter-1-chandra-ott-streaming-platform-revealed-2593343",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_173747.png",
+        "timestamp": "2025-10-14 17:37:58",
+        "item": "image_20251014_173747.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/sports/bcci-vice-president-rajeev-shukla-backs-gambhir-over-harshit-selection-2593335",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_163744.png",
         "timestamp": "2025-10-14 16:37:57",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_083745.png",
         "timestamp": "2025-10-14 08:37:55",
         "item": "image_20251014_083745.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/family/comic-con-india-2025-26-open-hyderabad-2593206",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_073707.png",
-        "timestamp": "2025-10-14 07:37:18",
-        "item": "image_20251014_073707.png"
     }
 ]
