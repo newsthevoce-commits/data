@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://vaartha.com/national/india-new-step-in-global-economy/564746/",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_184232.png",
+        "timestamp": "2025-10-14 18:42:51",
+        "item": "image_20251014_184232.png"
+    },
+    {
         "url": "https://vaartha.com/latest-news/low-emi-benefit-on-home-loan-in-this-bank/564749/",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_173848.png",
         "timestamp": "2025-10-14 17:39:02",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_203744.png",
         "timestamp": "2025-10-13 20:37:54",
         "item": "image_20251013_203744.png"
-    },
-    {
-        "url": "https://vaartha.com/sports/ind-vs-wi-team-india-close-to-victory/564113/",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193835.png",
-        "timestamp": "2025-10-13 19:38:49",
-        "item": "image_20251013_193835.png"
     }
 ]
