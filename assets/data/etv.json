@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/districts/nalgonda-news/534/125188381",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_053731.png",
+        "timestamp": "2025-10-14 05:37:40",
+        "item": "image_20251014_053731.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/shehbaz-sharif-showered-trump-with-praise/0801/125188511",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_043641.png",
         "timestamp": "2025-10-14 04:36:49",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_143606.png",
         "timestamp": "2025-10-13 14:36:16",
         "item": "image_20251013_143606.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/andhra-pradesh/chandrababu-meets-prime-minister-modi/1701/125187918",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_133509.png",
-        "timestamp": "2025-10-13 13:35:17",
-        "item": "image_20251013_133509.png"
     }
 ]
