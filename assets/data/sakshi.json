@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/movies/dammu-srija-bigg-boss-9-re-entry-chances-after-social-media-effects-2593239",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093832.png",
+        "timestamp": "2025-10-14 09:38:47",
+        "item": "image_20251014_093832.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/telangana/btech-student-ends-life-road-incident-2593225",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_083745.png",
         "timestamp": "2025-10-14 08:37:55",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_003707.png",
         "timestamp": "2025-10-14 00:37:18",
         "item": "image_20251014_003707.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/cartoon/sakshi-cartoon-14-10-2025-2592369",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_214538.png",
-        "timestamp": "2025-10-13 21:46:19",
-        "item": "image_20251013_214538.png"
     }
 ]
