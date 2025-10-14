@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/world/pakistan-cuts-ties-with-afghanistan/0801/125188530",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_073508.png",
+        "timestamp": "2025-10-14 07:35:17",
+        "item": "image_20251014_073508.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/districts/chittoor-cid-probe-in-tirumala-parakamani-theft-case/2/125188518",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_063713.png",
         "timestamp": "2025-10-14 06:37:25",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_173619.png",
         "timestamp": "2025-10-13 17:36:29",
         "item": "image_20251013_173619.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/chittoor-there-is-a-conspiracy-against-me-says-mla-bojjala-sudhir-reddy/2/125187967",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_163729.png",
-        "timestamp": "2025-10-13 16:37:38",
-        "item": "image_20251013_163729.png"
     }
 ]
