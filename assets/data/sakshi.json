@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.sakshi.com/telugu-news/family/comic-con-india-2025-26-open-hyderabad-2593206",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_073707.png",
+        "timestamp": "2025-10-14 07:37:18",
+        "item": "image_20251014_073707.png"
+    },
+    {
         "url": "https://www.sakshi.com/telugu-news/politics/puthalapattu-tdp-worker-selfie-video-goes-viral-2593190",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_063853.png",
         "timestamp": "2025-10-14 06:39:05",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_203645.png",
         "timestamp": "2025-10-13 20:36:56",
         "item": "image_20251013_203645.png"
-    },
-    {
-        "url": "https://www.sakshi.com/telugu-news/movies/raashii-khanna-comments-about-word-telusu-kadha-promotions-2592359",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193723.png",
-        "timestamp": "2025-10-13 19:37:45",
-        "item": "image_20251013_193723.png"
     }
 ]
