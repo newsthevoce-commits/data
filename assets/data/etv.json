@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/crime/maharashtra-ats-arrests-man-wanted-in-andhra-pradesh-for-anti-india-activities/0301/125188558",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093621.png",
+        "timestamp": "2025-10-14 09:36:29",
+        "item": "image_20251014_093621.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/world/venezuela-closes-embassy-in-norway-on-nobel-prize-for-opposition-leader-corina-machado/0801/125188542",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_083543.png",
         "timestamp": "2025-10-14 08:35:51",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_193512.png",
         "timestamp": "2025-10-13 19:35:25",
         "item": "image_20251013_193512.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/districts/hyderabad-raids-on-illegal-stockpiles-of-fireworks/529/125187995",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251013_183626.png",
-        "timestamp": "2025-10-13 18:36:35",
-        "item": "image_20251013_183626.png"
     }
 ]
