@@ -1,5 +1,11 @@
 [
     {
+        "url": "https://www.eenadu.net/telugu-news/india/indore-residents-set-up-bird-park-plant-300-fruit-saplings-in-memory-of-loved-ones/0700/125188660",
+        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_193635.png",
+        "timestamp": "2025-10-14 19:36:48",
+        "item": "image_20251014_193635.png"
+    },
+    {
         "url": "https://www.eenadu.net/telugu-news/business/ola-electric-likely-to-foray-into-indias-usd-30-bn-bess-mkt/0107/125188677",
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_183802.png",
         "timestamp": "2025-10-14 18:38:15",
@@ -52,11 +58,5 @@
         "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_093621.png",
         "timestamp": "2025-10-14 09:36:29",
         "item": "image_20251014_093621.png"
-    },
-    {
-        "url": "https://www.eenadu.net/telugu-news/world/venezuela-closes-embassy-in-norway-on-nobel-prize-for-opposition-leader-corina-machado/0801/125188542",
-        "image_url": "https://raw.githubusercontent.com/newsthevoce-commits/data/main/assets/images/image_20251014_083543.png",
-        "timestamp": "2025-10-14 08:35:51",
-        "item": "image_20251014_083543.png"
     }
 ]
